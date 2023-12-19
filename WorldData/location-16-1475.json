@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Dungeon Tavern",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 512000000842,
+        "Latitude": 53672,
+        "Longitude": 107816,
+        "LocationType": 6,
+        "DungeonType": 255,
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27604992,
+                "Y": 16791553,
+                "IsExterior": 32768,
+                "Unknown2": 856,
+                "LocationId": 13577,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Dungeon Tavern"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 2138,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 13577,
+                "BuildingType": 15,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 17449,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 13577,
+                "BuildingType": 15,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 16416,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 13577,
+                "BuildingType": 15,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 22090,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 13577,
+                "BuildingType": 19,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 8017,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 30814,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 30705,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 19294,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 10439,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 13577,
+                "BuildingType": 19,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 7135,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2592,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 13577,
+                "BuildingType": 18,
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "2138",
+            "MapId": 512000000842,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": 100,
+        "NatureSet": 510,
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": 0,
+        "Names": 0
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1475
+}

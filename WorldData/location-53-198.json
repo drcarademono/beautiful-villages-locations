@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Flying Goblin Inn",
+    "RegionName": "Ephesus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 135000000773,
+        "Latitude": 101928,
+        "Longitude": 98984,
+        "LocationType": 6,
+        "DungeonType": 255,
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25344000,
+                "Y": 4438017,
+                "IsExterior": 32768,
+                "Unknown2": 12,
+                "LocationId": 27445,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Flying Goblin Inn"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 8043,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 27445,
+                "BuildingType": 15,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 17219,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 27445,
+                "BuildingType": 15,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4876,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 27445,
+                "BuildingType": 15,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20821,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 27445,
+                "BuildingType": 19,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 18730,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6471,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 6321,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 25794,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31455,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 27445,
+                "BuildingType": 19,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 28242,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8320,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 27445,
+                "BuildingType": 18,
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "8043",
+            "MapId": 135000000773,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": 100,
+        "NatureSet": 510,
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": 0,
+        "Names": 0
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 198
+}

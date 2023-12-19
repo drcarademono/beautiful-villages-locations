@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hal's Tavern",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 419000001011,
+        "Latitude": 65576,
+        "Longitude": 129448,
+        "LocationType": 6,
+        "DungeonType": 255,
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 33142784,
+                "Y": 13744129,
+                "IsExterior": 32768,
+                "Unknown2": 827,
+                "LocationId": 13368,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hal's Tavern"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 24166,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 13368,
+                "BuildingType": 15,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27065,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6811,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29310,
+                "FactionId": 0,
+                "Sector": 40,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14897,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 21505,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14364,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 12649,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11061,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 30835,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 1006,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 13368,
+                "BuildingType": 18,
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "24166",
+            "MapId": 419000001011,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": 100,
+        "NatureSet": 510,
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": 0,
+        "Names": 0
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 686
+}
