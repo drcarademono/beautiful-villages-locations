@@ -1,138 +1,170 @@
 {
     "Loaded": true,
-    "Name": "The Mole and Skull Inn",
+    "Name": "Eternal Ascencion of Dibella",
     "RegionName": "Menevia",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 361000000855,
-        "Latitude": 73000,
-        "Longitude": 109480,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 108188128,
+        "Latitude": 40360,
+        "Longitude": 102440,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 4
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 28030976,
-                "Y": 11843585,
+                "X": 26228736,
+                "Y": 10336257,
                 "IsExterior": 32768,
-                "Unknown2": 124,
-                "LocationId": 20723,
+                "Unknown2": 103,
+                "LocationId": 20468,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The Mole and Skull Inn"
+                "LocationName": "Eternal Ascencion of Dibella"
             }
         },
-        "BuildingCount": 12,
+        "BuildingCount": 16,
         "Buildings": [
             {
-                "NameSeed": 24998,
-                "FactionId": 0,
+                "NameSeed": 28830,
+                "FactionId": 29,
                 "Sector": 4,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 13
+                "LocationId": 20468,
+                "BuildingType": "Temple",
+                "Quality": 7
             },
             {
-                "NameSeed": 25506,
+                "NameSeed": 25371,
                 "FactionId": 0,
-                "Sector": 9,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 2
+                "Sector": 22,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 10
             },
             {
-                "NameSeed": 3409,
+                "NameSeed": 20877,
                 "FactionId": 0,
-                "Sector": 13,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 14
+                "Sector": 28,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 15
             },
             {
-                "NameSeed": 16533,
+                "NameSeed": 28865,
                 "FactionId": 0,
-                "Sector": 20,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 11
+                "Sector": 35,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 5
             },
             {
-                "NameSeed": 7890,
+                "NameSeed": 11836,
                 "FactionId": 0,
-                "Sector": 24,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 14
-            },
-            {
-                "NameSeed": 9452,
-                "FactionId": 0,
-                "Sector": 34,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 9
-            },
-            {
-                "NameSeed": 24810,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 14
-            },
-            {
-                "NameSeed": 12026,
-                "FactionId": 0,
-                "Sector": 46,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 4
-            },
-            {
-                "NameSeed": 7545,
-                "FactionId": 0,
-                "Sector": 58,
-                "LocationId": 20723,
-                "BuildingType": 18,
-                "Quality": 4
-            },
-            {
-                "NameSeed": 16653,
-                "FactionId": 510,
-                "Sector": 68,
-                "LocationId": 20723,
-                "BuildingType": 15,
+                "Sector": 43,
+                "LocationId": 20468,
+                "BuildingType": "House2",
                 "Quality": 1
             },
             {
-                "NameSeed": 20727,
-                "FactionId": 510,
-                "Sector": 80,
-                "LocationId": 20723,
-                "BuildingType": 15,
-                "Quality": 2
+                "NameSeed": 20581,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 15
             },
             {
-                "NameSeed": 4406,
-                "FactionId": 510,
+                "NameSeed": 10225,
+                "FactionId": 0,
+                "Sector": 67,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 8853,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 9883,
+                "FactionId": 0,
                 "Sector": 93,
-                "LocationId": 20723,
-                "BuildingType": 15,
-                "Quality": 6
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19729,
+                "FactionId": 0,
+                "Sector": 105,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 31565,
+                "FactionId": 510,
+                "Sector": 111,
+                "LocationId": 20468,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 5103,
+                "FactionId": 0,
+                "Sector": 117,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2467,
+                "FactionId": 0,
+                "Sector": 122,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 18373,
+                "FactionId": 0,
+                "Sector": 126,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 25878,
+                "FactionId": 0,
+                "Sector": 133,
+                "LocationId": 20468,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 6489,
+                "FactionId": 510,
+                "Sector": 145,
+                "LocationId": 20468,
+                "BuildingType": "HouseForSale",
+                "Quality": 5
             }
         ],
         "ExteriorData": {
-            "AnotherName": "16653",
-            "MapId": 361000000855,
+            "AnotherName": "Eternal Ascencion of Dibella",
+            "MapId": 184800,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS00.RMB"
+                "TEMPASE0.RMB"
             ]
         }
     },
@@ -156,13 +188,13 @@
     },
     "Climate": {
         "WorldClimate": 231,
-        "ClimateType": 300,
-        "NatureSet": 504,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
         "GroundArchive": 302,
         "NatureArchive": 504,
         "SkyBase": 16,
-        "People": 3,
-        "Names": 0
+        "People": "Breton",
+        "Names": "Nord"
     },
     "Politic": 161,
     "RegionIndex": 33,

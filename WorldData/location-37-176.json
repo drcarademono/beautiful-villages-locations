@@ -1,130 +1,178 @@
 {
     "Loaded": true,
-    "Name": "The Feather and Chasm Pub",
+    "Name": "Eternal Soul of Zenithar",
     "RegionName": "Kambria",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 568000000771,
-        "Latitude": 46504,
-        "Longitude": 98728,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 184624934,
+        "Latitude": 54312,
+        "Longitude": 71464,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 128
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 25278464,
-                "Y": 18626561,
+                "X": 18298880,
+                "Y": 13907969,
                 "IsExterior": 32768,
-                "Unknown2": 57,
-                "LocationId": 12844,
+                "Unknown2": 176,
+                "LocationId": 14187,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The Feather and Chasm Pub"
+                "LocationName": "Eternal Soul of Zenithar"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 17,
         "Buildings": [
             {
-                "NameSeed": 8284,
-                "FactionId": 510,
+                "NameSeed": 10246,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 12844,
-                "BuildingType": 15,
-                "Quality": 15
+                "LocationId": 14187,
+                "BuildingType": "House3",
+                "Quality": 13
             },
             {
-                "NameSeed": 9559,
-                "FactionId": 510,
-                "Sector": 20,
-                "LocationId": 12844,
-                "BuildingType": 15,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 16770,
-                "FactionId": 510,
-                "Sector": 32,
-                "LocationId": 12844,
-                "BuildingType": 15,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 15911,
+                "NameSeed": 31307,
                 "FactionId": 0,
-                "Sector": 49,
-                "LocationId": 12844,
-                "BuildingType": 19,
-                "Quality": 1
+                "Sector": 9,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 4
             },
             {
-                "NameSeed": 3826,
+                "NameSeed": 7156,
                 "FactionId": 0,
-                "Sector": 55,
-                "LocationId": 12844,
-                "BuildingType": 18,
+                "Sector": 13,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 8207,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 14187,
+                "BuildingType": "House2",
                 "Quality": 12
             },
             {
-                "NameSeed": 12908,
+                "NameSeed": 939,
                 "FactionId": 0,
-                "Sector": 58,
-                "LocationId": 12844,
-                "BuildingType": 18,
-                "Quality": 15
-            },
-            {
-                "NameSeed": 2999,
-                "FactionId": 0,
-                "Sector": 70,
-                "LocationId": 12844,
-                "BuildingType": 18,
-                "Quality": 8
-            },
-            {
-                "NameSeed": 27229,
-                "FactionId": 0,
-                "Sector": 76,
-                "LocationId": 12844,
-                "BuildingType": 18,
+                "Sector": 35,
+                "LocationId": 14187,
+                "BuildingType": "House3",
                 "Quality": 14
             },
             {
-                "NameSeed": 25451,
+                "NameSeed": 20669,
                 "FactionId": 0,
-                "Sector": 82,
-                "LocationId": 12844,
-                "BuildingType": 19,
-                "Quality": 10
+                "Sector": 40,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 7
             },
             {
-                "NameSeed": 9563,
+                "NameSeed": 31951,
+                "FactionId": 0,
+                "Sector": 43,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10397,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 11834,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11533,
+                "FactionId": 0,
+                "Sector": 65,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 14255,
+                "FactionId": 0,
+                "Sector": 75,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 1238,
+                "FactionId": 0,
+                "Sector": 83,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 2205,
                 "FactionId": 0,
                 "Sector": 87,
-                "LocationId": 12844,
-                "BuildingType": 18,
-                "Quality": 15
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 3
             },
             {
-                "NameSeed": 22539,
+                "NameSeed": 20732,
                 "FactionId": 0,
-                "Sector": 92,
-                "LocationId": 12844,
-                "BuildingType": 18,
-                "Quality": 13
+                "Sector": 90,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 13482,
+                "FactionId": 0,
+                "Sector": 100,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 356,
+                "FactionId": 0,
+                "Sector": 113,
+                "LocationId": 14187,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 5748,
+                "FactionId": 22,
+                "Sector": 121,
+                "LocationId": 14187,
+                "BuildingType": "Temple",
+                "Quality": 6
             }
         ],
         "ExteriorData": {
-            "AnotherName": "8284",
-            "MapId": 568000000771,
+            "AnotherName": "Eternal Soul of Zenithar",
+            "MapId": 75558,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS06.RMB"
+                "TEMPASB0.RMB"
             ]
         }
     },
@@ -147,14 +195,14 @@
         "Blocks": null
     },
     "Climate": {
-        "WorldClimate": 226,
-        "ClimateType": 100,
-        "NatureSet": 510,
-        "GroundArchive": 102,
-        "NatureArchive": 510,
-        "SkyBase": 0,
-        "People": 0,
-        "Names": 0
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
     },
     "Politic": 165,
     "RegionIndex": 37,

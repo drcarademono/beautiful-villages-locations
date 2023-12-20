@@ -1,130 +1,154 @@
 {
     "Loaded": true,
-    "Name": "The Queen's Dog Hostel",
+    "Name": "Holy Omen of Kynareth",
     "RegionName": "Alcaire",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 485000000808,
-        "Latitude": 57128,
-        "Longitude": 103464,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 128060013,
+        "Latitude": 46888,
+        "Longitude": 94888,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 26490880,
-                "Y": 15906817,
+                "X": 24295424,
+                "Y": 12007425,
                 "IsExterior": 32768,
-                "Unknown2": 38,
-                "LocationId": 16275,
+                "Unknown2": 122,
+                "LocationId": 17836,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The Queen's Dog Hostel"
+                "LocationName": "Holy Omen of Kynareth"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
             {
-                "NameSeed": 9372,
-                "FactionId": 510,
+                "NameSeed": 1652,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 16275,
-                "BuildingType": 15,
-                "Quality": 7
-            },
-            {
-                "NameSeed": 30720,
-                "FactionId": 510,
-                "Sector": 20,
-                "LocationId": 16275,
-                "BuildingType": 15,
-                "Quality": 13
-            },
-            {
-                "NameSeed": 8332,
-                "FactionId": 510,
-                "Sector": 32,
-                "LocationId": 16275,
-                "BuildingType": 15,
+                "LocationId": 17836,
+                "BuildingType": "House2",
                 "Quality": 15
             },
             {
-                "NameSeed": 19986,
+                "NameSeed": 6261,
                 "FactionId": 0,
-                "Sector": 49,
-                "LocationId": 16275,
-                "BuildingType": 19,
-                "Quality": 10
+                "Sector": 9,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 2
             },
             {
-                "NameSeed": 23183,
+                "NameSeed": 20542,
                 "FactionId": 0,
-                "Sector": 55,
-                "LocationId": 16275,
-                "BuildingType": 18,
+                "Sector": 15,
+                "LocationId": 17836,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10589,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 17836,
+                "BuildingType": "House2",
                 "Quality": 9
             },
             {
-                "NameSeed": 6089,
+                "NameSeed": 20431,
                 "FactionId": 0,
-                "Sector": 58,
-                "LocationId": 16275,
-                "BuildingType": 18,
-                "Quality": 4
-            },
-            {
-                "NameSeed": 17561,
-                "FactionId": 0,
-                "Sector": 70,
-                "LocationId": 16275,
-                "BuildingType": 18,
+                "Sector": 23,
+                "LocationId": 17836,
+                "BuildingType": "House2",
                 "Quality": 7
             },
             {
-                "NameSeed": 31668,
+                "NameSeed": 12860,
                 "FactionId": 0,
-                "Sector": 76,
-                "LocationId": 16275,
-                "BuildingType": 18,
-                "Quality": 5
+                "Sector": 31,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 10
             },
             {
-                "NameSeed": 29869,
+                "NameSeed": 29608,
                 "FactionId": 0,
-                "Sector": 82,
-                "LocationId": 16275,
-                "BuildingType": 19,
+                "Sector": 35,
+                "LocationId": 17836,
+                "BuildingType": "House3",
                 "Quality": 12
             },
             {
-                "NameSeed": 24296,
+                "NameSeed": 6471,
                 "FactionId": 0,
-                "Sector": 87,
-                "LocationId": 16275,
-                "BuildingType": 18,
-                "Quality": 5
+                "Sector": 41,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 9
             },
             {
-                "NameSeed": 13121,
+                "NameSeed": 6321,
                 "FactionId": 0,
-                "Sector": 92,
-                "LocationId": 16275,
-                "BuildingType": 18,
+                "Sector": 47,
+                "LocationId": 17836,
+                "BuildingType": "House2",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 25794,
+                "FactionId": 0,
+                "Sector": 50,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31455,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 28242,
+                "FactionId": 0,
+                "Sector": 68,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8320,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 17836,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30195,
+                "FactionId": 35,
+                "Sector": 78,
+                "LocationId": 17836,
+                "BuildingType": "Temple",
+                "Quality": 5
             }
         ],
         "ExteriorData": {
-            "AnotherName": "9372",
-            "MapId": 485000000808,
+            "AnotherName": "Holy Omen of Kynareth",
+            "MapId": 133741,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS06.RMB"
+                "TEMPASH0.RMB"
             ]
         }
     },
@@ -148,13 +172,13 @@
     },
     "Climate": {
         "WorldClimate": 231,
-        "ClimateType": 300,
-        "NatureSet": 504,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
         "GroundArchive": 302,
         "NatureArchive": 504,
         "SkyBase": 16,
-        "People": 3,
-        "Names": 0
+        "People": "Breton",
+        "Names": "Nord"
     },
     "Politic": 162,
     "RegionIndex": 34,

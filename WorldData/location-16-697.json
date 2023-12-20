@@ -1,130 +1,154 @@
 {
     "Loaded": true,
-    "Name": "The Savage Pit Inn",
+    "Name": "Bleeding Sunrise of Kynareth",
     "RegionName": "Wrothgarian Mountains",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 420000001019,
-        "Latitude": 65448,
-        "Longitude": 130472,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 730909210,
+        "Latitude": 57384,
+        "Longitude": 94504,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 33404928,
-                "Y": 13776897,
+                "X": 24197120,
+                "Y": 14694401,
                 "IsExterior": 32768,
-                "Unknown2": 768,
-                "LocationId": 13067,
+                "Unknown2": 697,
+                "LocationId": 12720,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The Savage Pit Inn"
+                "LocationName": "Bleeding Sunrise of Kynareth"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
             {
-                "NameSeed": 6255,
-                "FactionId": 510,
+                "NameSeed": 28603,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 13067,
-                "BuildingType": 15,
-                "Quality": 5
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 8
             },
             {
-                "NameSeed": 19306,
-                "FactionId": 510,
-                "Sector": 20,
-                "LocationId": 13067,
-                "BuildingType": 15,
-                "Quality": 14
-            },
-            {
-                "NameSeed": 28241,
-                "FactionId": 510,
-                "Sector": 32,
-                "LocationId": 13067,
-                "BuildingType": 15,
-                "Quality": 6
-            },
-            {
-                "NameSeed": 25671,
+                "NameSeed": 14195,
                 "FactionId": 0,
-                "Sector": 49,
-                "LocationId": 13067,
-                "BuildingType": 19,
-                "Quality": 13
+                "Sector": 9,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 2
             },
             {
-                "NameSeed": 1865,
+                "NameSeed": 18716,
                 "FactionId": 0,
-                "Sector": 55,
-                "LocationId": 13067,
-                "BuildingType": 18,
-                "Quality": 7
-            },
-            {
-                "NameSeed": 20472,
-                "FactionId": 0,
-                "Sector": 58,
-                "LocationId": 13067,
-                "BuildingType": 18,
-                "Quality": 11
-            },
-            {
-                "NameSeed": 21544,
-                "FactionId": 0,
-                "Sector": 70,
-                "LocationId": 13067,
-                "BuildingType": 18,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 14001,
-                "FactionId": 0,
-                "Sector": 76,
-                "LocationId": 13067,
-                "BuildingType": 18,
+                "Sector": 15,
+                "LocationId": 12720,
+                "BuildingType": "House3",
                 "Quality": 12
             },
             {
-                "NameSeed": 1071,
+                "NameSeed": 11272,
                 "FactionId": 0,
-                "Sector": 82,
-                "LocationId": 13067,
-                "BuildingType": 19,
+                "Sector": 20,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16614,
+                "FactionId": 0,
+                "Sector": 23,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32140,
+                "FactionId": 0,
+                "Sector": 31,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13290,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 12720,
+                "BuildingType": "House3",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 24528,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 21354,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 1069,
+                "FactionId": 0,
+                "Sector": 50,
+                "LocationId": 12720,
+                "BuildingType": "House2",
                 "Quality": 3
             },
             {
-                "NameSeed": 24014,
+                "NameSeed": 18311,
                 "FactionId": 0,
-                "Sector": 87,
-                "LocationId": 13067,
-                "BuildingType": 18,
+                "Sector": 60,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 1048,
+                "FactionId": 0,
+                "Sector": 68,
+                "LocationId": 12720,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15242,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 12720,
+                "BuildingType": "House2",
                 "Quality": 15
             },
             {
-                "NameSeed": 22449,
-                "FactionId": 0,
-                "Sector": 92,
-                "LocationId": 13067,
-                "BuildingType": 18,
-                "Quality": 4
+                "NameSeed": 20989,
+                "FactionId": 35,
+                "Sector": 78,
+                "LocationId": 12720,
+                "BuildingType": "Temple",
+                "Quality": 5
             }
         ],
         "ExteriorData": {
-            "AnotherName": "6255",
-            "MapId": 420000001019,
+            "AnotherName": "Bleeding Sunrise of Kynareth",
+            "MapId": 51738,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS06.RMB"
+                "TEMPASH0.RMB"
             ]
         }
     },
@@ -148,13 +172,13 @@
     },
     "Climate": {
         "WorldClimate": 226,
-        "ClimateType": 100,
-        "NatureSet": 510,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
         "GroundArchive": 102,
         "NatureArchive": 510,
         "SkyBase": 0,
-        "People": 0,
-        "Names": 0
+        "People": "Nord",
+        "Names": "Nord"
     },
     "Politic": 144,
     "RegionIndex": 16,

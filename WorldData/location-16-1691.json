@@ -1,130 +1,154 @@
 {
     "Loaded": true,
-    "Name": "The White Gnome Lodge",
+    "Name": "Burning Redeemer of Kynareth",
     "RegionName": "Wrothgarian Mountains",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 565000000807,
-        "Latitude": 46888,
-        "Longitude": 103336,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 1773301983,
+        "Latitude": 43560,
+        "Longitude": 123816,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 26458112,
-                "Y": 18528257,
+                "X": 31700992,
+                "Y": 11155457,
                 "IsExterior": 32768,
-                "Unknown2": 526,
-                "LocationId": 11970,
+                "Unknown2": 1691,
+                "LocationId": 19298,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The White Gnome Lodge"
+                "LocationName": "Burning Redeemer of Kynareth"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
             {
-                "NameSeed": 29946,
-                "FactionId": 510,
+                "NameSeed": 2583,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 11970,
-                "BuildingType": 15,
-                "Quality": 15
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 7
             },
             {
-                "NameSeed": 1525,
-                "FactionId": 510,
-                "Sector": 16,
-                "LocationId": 11970,
-                "BuildingType": 15,
-                "Quality": 15
-            },
-            {
-                "NameSeed": 13621,
-                "FactionId": 510,
-                "Sector": 32,
-                "LocationId": 11970,
-                "BuildingType": 15,
-                "Quality": 14
-            },
-            {
-                "NameSeed": 29942,
+                "NameSeed": 27509,
                 "FactionId": 0,
-                "Sector": 44,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 3
+                "Sector": 9,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 2
             },
             {
-                "NameSeed": 8457,
+                "NameSeed": 275,
                 "FactionId": 0,
-                "Sector": 51,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 6
+                "Sector": 15,
+                "LocationId": 19298,
+                "BuildingType": "House3",
+                "Quality": 4
             },
             {
-                "NameSeed": 19123,
+                "NameSeed": 8469,
                 "FactionId": 0,
-                "Sector": 57,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 7458,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 5485,
-                "FactionId": 0,
-                "Sector": 72,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 23995,
-                "FactionId": 0,
-                "Sector": 84,
-                "LocationId": 11970,
-                "BuildingType": 18,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 12499,
-                "FactionId": 0,
-                "Sector": 92,
-                "LocationId": 11970,
-                "BuildingType": 18,
+                "Sector": 20,
+                "LocationId": 19298,
+                "BuildingType": "House2",
                 "Quality": 9
             },
             {
-                "NameSeed": 23734,
+                "NameSeed": 31349,
                 "FactionId": 0,
-                "Sector": 96,
-                "LocationId": 11970,
-                "BuildingType": 18,
+                "Sector": 23,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12496,
+                "FactionId": 0,
+                "Sector": 31,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 18030,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 19298,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 26224,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 16336,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7522,
+                "FactionId": 0,
+                "Sector": 50,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 15892,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 20391,
+                "FactionId": 0,
+                "Sector": 68,
+                "LocationId": 19298,
+                "BuildingType": "House2",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 30062,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 19298,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11721,
+                "FactionId": 35,
+                "Sector": 78,
+                "LocationId": 19298,
+                "BuildingType": "Temple",
+                "Quality": 3
             }
         ],
         "ExteriorData": {
-            "AnotherName": "29946",
-            "MapId": 565000000807,
+            "AnotherName": "Burning Redeemer of Kynareth",
+            "MapId": 159967,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS04.RMB"
+                "TEMPASH0.RMB"
             ]
         }
     },
@@ -148,13 +172,13 @@
     },
     "Climate": {
         "WorldClimate": 226,
-        "ClimateType": 100,
-        "NatureSet": 510,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
         "GroundArchive": 102,
         "NatureArchive": 510,
         "SkyBase": 0,
-        "People": 0,
-        "Names": 0
+        "People": "Nord",
+        "Names": "Nord"
     },
     "Politic": 144,
     "RegionIndex": 16,

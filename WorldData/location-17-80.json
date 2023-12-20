@@ -1,130 +1,154 @@
 {
     "Loaded": true,
-    "Name": "The Pig and Guard Inn",
+    "Name": "Bleeding Ascencion of Kynareth",
     "RegionName": "Daggerfall",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 620000000386,
-        "Latitude": 39848,
-        "Longitude": 49448,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 84036238,
+        "Latitude": 44712,
+        "Longitude": 20264,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 12662784,
-                "Y": 20330497,
+                "X": 5191680,
+                "Y": 11450369,
                 "IsExterior": 32768,
-                "Unknown2": 1030,
-                "LocationId": 21230,
+                "Unknown2": 80,
+                "LocationId": 18772,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The Pig and Guard Inn"
+                "LocationName": "Bleeding Ascencion of Kynareth"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
             {
-                "NameSeed": 22044,
-                "FactionId": 510,
+                "NameSeed": 2960,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 21230,
-                "BuildingType": 15,
-                "Quality": 12
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 13
             },
             {
-                "NameSeed": 32126,
+                "NameSeed": 11663,
                 "FactionId": 0,
-                "Sector": 21,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 1
+                "Sector": 9,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 3
             },
             {
-                "NameSeed": 8494,
+                "NameSeed": 28735,
                 "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 1
+                "Sector": 15,
+                "LocationId": 18772,
+                "BuildingType": "House3",
+                "Quality": 11
             },
             {
-                "NameSeed": 3018,
+                "NameSeed": 17540,
                 "FactionId": 0,
-                "Sector": 40,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 5
-            },
-            {
-                "NameSeed": 21250,
-                "FactionId": 0,
-                "Sector": 45,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 4
-            },
-            {
-                "NameSeed": 14197,
-                "FactionId": 0,
-                "Sector": 49,
-                "LocationId": 21230,
-                "BuildingType": 18,
+                "Sector": 20,
+                "LocationId": 18772,
+                "BuildingType": "House2",
                 "Quality": 2
             },
             {
-                "NameSeed": 24419,
+                "NameSeed": 26053,
                 "FactionId": 0,
-                "Sector": 57,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 13
+                "Sector": 23,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 4
             },
             {
-                "NameSeed": 16743,
+                "NameSeed": 23394,
                 "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 13
+                "Sector": 31,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 2
             },
             {
-                "NameSeed": 13852,
+                "NameSeed": 14598,
                 "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 13
+                "Sector": 35,
+                "LocationId": 18772,
+                "BuildingType": "House3",
+                "Quality": 12
             },
             {
-                "NameSeed": 6862,
+                "NameSeed": 29930,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 29548,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 1220,
+                "FactionId": 0,
+                "Sector": 50,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 18223,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 2052,
+                "FactionId": 0,
+                "Sector": 68,
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 11771,
                 "FactionId": 0,
                 "Sector": 72,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 3
+                "LocationId": 18772,
+                "BuildingType": "House2",
+                "Quality": 15
             },
             {
-                "NameSeed": 18442,
-                "FactionId": 0,
-                "Sector": 76,
-                "LocationId": 21230,
-                "BuildingType": 18,
-                "Quality": 3
+                "NameSeed": 24164,
+                "FactionId": 35,
+                "Sector": 78,
+                "LocationId": 18772,
+                "BuildingType": "Temple",
+                "Quality": 2
             }
         ],
         "ExteriorData": {
-            "AnotherName": "22044",
-            "MapId": 620000000386,
+            "AnotherName": "Bleeding Ascencion of Kynareth",
+            "MapId": 150158,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS03.RMB"
+                "TEMPASH0.RMB"
             ]
         }
     },
@@ -147,14 +171,14 @@
         "Blocks": null
     },
     "Climate": {
-        "WorldClimate": 231,
-        "ClimateType": 300,
-        "NatureSet": 504,
-        "GroundArchive": 302,
-        "NatureArchive": 504,
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
         "SkyBase": 16,
-        "People": 3,
-        "Names": 0
+        "People": "Breton",
+        "Names": "Nord"
     },
     "Politic": 145,
     "RegionIndex": 17,

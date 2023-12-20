@@ -1,154 +1,373 @@
 {
     "Loaded": true,
-    "Name": "The White Hedgehog Inn",
+    "Name": "Lamgate",
     "RegionName": "Shalgora",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 603000000440,
-        "Latitude": 42024,
-        "Longitude": 56360,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 29473401,
+        "Latitude": 49440,
+        "Longitude": 34976,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16777472
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 14432256,
-                "Y": 19773441,
+                "X": 8957952,
+                "Y": 12660737,
                 "IsExterior": 32768,
-                "Unknown2": 197,
-                "LocationId": 20646,
+                "Unknown2": 28,
+                "LocationId": 16728,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The White Hedgehog Inn"
+                "LocationName": "Lamgate"
             }
         },
-        "BuildingCount": 14,
+        "BuildingCount": 41,
         "Buildings": [
             {
-                "NameSeed": 16151,
+                "NameSeed": 8874,
                 "FactionId": 510,
                 "Sector": 4,
-                "LocationId": 20646,
-                "BuildingType": 15,
+                "LocationId": 16728,
+                "BuildingType": "Tavern",
                 "Quality": 10
             },
             {
-                "NameSeed": 15523,
+                "NameSeed": 4761,
                 "FactionId": 0,
                 "Sector": 26,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 14
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 6
             },
             {
-                "NameSeed": 30175,
+                "NameSeed": 16139,
                 "FactionId": 0,
                 "Sector": 29,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 3
-            },
-            {
-                "NameSeed": 16142,
-                "FactionId": 0,
-                "Sector": 34,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 28537,
-                "FactionId": 0,
-                "Sector": 38,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 12
-            },
-            {
-                "NameSeed": 8124,
-                "FactionId": 0,
-                "Sector": 47,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 5
-            },
-            {
-                "NameSeed": 3754,
-                "FactionId": 0,
-                "Sector": 56,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 18160,
-                "FactionId": 0,
-                "Sector": 64,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 23866,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 9
-            },
-            {
-                "NameSeed": 18202,
-                "FactionId": 0,
-                "Sector": 72,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 10
-            },
-            {
-                "NameSeed": 29205,
-                "FactionId": 0,
-                "Sector": 76,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 12096,
-                "FactionId": 0,
-                "Sector": 81,
-                "LocationId": 20646,
-                "BuildingType": 18,
-                "Quality": 14
-            },
-            {
-                "NameSeed": 29358,
-                "FactionId": 0,
-                "Sector": 85,
-                "LocationId": 20646,
-                "BuildingType": 18,
+                "LocationId": 16728,
+                "BuildingType": "House2",
                 "Quality": 2
             },
             {
-                "NameSeed": 21056,
+                "NameSeed": 22833,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2652,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 6515,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 20709,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 64,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
                 "FactionId": 0,
                 "Sector": 90,
-                "LocationId": 20646,
-                "BuildingType": 18,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 97,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 24088,
+                "FactionId": 510,
+                "Sector": 100,
+                "LocationId": 16728,
+                "BuildingType": "HouseForSale",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 22191,
+                "FactionId": 0,
+                "Sector": 106,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12357,
+                "FactionId": 0,
+                "Sector": 116,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 26999,
+                "FactionId": 0,
+                "Sector": 122,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 9316,
+                "FactionId": 0,
+                "Sector": 133,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10059,
+                "FactionId": 0,
+                "Sector": 145,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 4694,
+                "FactionId": 0,
+                "Sector": 155,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23201,
+                "FactionId": 0,
+                "Sector": 169,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 6001,
+                "FactionId": 0,
+                "Sector": 181,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 28603,
+                "FactionId": 0,
+                "Sector": 195,
+                "LocationId": 16728,
+                "BuildingType": "House2",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 14195,
+                "FactionId": 0,
+                "Sector": 212,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18716,
+                "FactionId": 0,
+                "Sector": 218,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 11272,
+                "FactionId": 0,
+                "Sector": 221,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16614,
+                "FactionId": 0,
+                "Sector": 228,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32140,
+                "FactionId": 0,
+                "Sector": 237,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13290,
+                "FactionId": 0,
+                "Sector": 240,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 24528,
+                "FactionId": 0,
+                "Sector": 245,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 21354,
+                "FactionId": 0,
+                "Sector": 248,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 1069,
+                "FactionId": 0,
+                "Sector": 253,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 18311,
+                "FactionId": 0,
+                "Sector": 256,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 1048,
+                "FactionId": 0,
+                "Sector": 261,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15242,
+                "FactionId": 0,
+                "Sector": 266,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 16332,
+                "FactionId": 0,
+                "Sector": 271,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 8700,
+                "FactionId": 0,
+                "Sector": 276,
+                "LocationId": 16728,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12457,
+                "FactionId": 510,
+                "Sector": 280,
+                "LocationId": 16728,
+                "BuildingType": "GeneralStore",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27039,
+                "FactionId": 510,
+                "Sector": 291,
+                "LocationId": 16728,
+                "BuildingType": "Tavern",
+                "Quality": 6
             }
         ],
         "ExteriorData": {
-            "AnotherName": "16151",
-            "MapId": 603000000440,
+            "AnotherName": "Lamgate",
+            "MapId": 113273,
             "LocationId": 0,
-            "Width": 1,
-            "Height": 1,
+            "Width": 2,
+            "Height": 2,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS01.RMB"
+                "TVRNAS01.RMB",
+                "RESIAS01.RMB",
+                "FARMAA04.RMB",
+                "GENRAS02.RMB"
             ]
         }
     },
@@ -171,14 +390,14 @@
         "Blocks": null
     },
     "Climate": {
-        "WorldClimate": 231,
-        "ClimateType": 300,
-        "NatureSet": 504,
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
         "GroundArchive": 302,
-        "NatureArchive": 504,
+        "NatureArchive": 508,
         "SkyBase": 16,
-        "People": 3,
-        "Names": 0
+        "People": "Breton",
+        "Names": "Nord"
     },
     "Politic": 170,
     "RegionIndex": 42,

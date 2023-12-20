@@ -1,130 +1,154 @@
 {
     "Loaded": true,
-    "Name": "The King's Porcupine Inn",
+    "Name": "Inner Seer of Kynareth",
     "RegionName": "Wrothgarian Mountains",
     "HasDungeon": false,
     "MapTableData": {
-        "MapId": 571000000845,
-        "Latitude": 46120,
-        "Longitude": 108200,
-        "LocationType": 6,
-        "DungeonType": 255,
+        "MapId": 1792182312,
+        "Latitude": 42792,
+        "Longitude": 118824,
+        "LocationType": "ReligionTemple",
+        "DungeonType": "NoDungeon",
         "Discovered": true,
-        "Key": 256
+        "Key": 16
     },
     "Exterior": {
         "RecordElement": {
             "Header": {
-                "X": 27703296,
-                "Y": 18724865,
+                "X": 30423040,
+                "Y": 10958849,
                 "IsExterior": 32768,
-                "Unknown2": 169,
-                "LocationId": 10582,
+                "Unknown2": 1709,
+                "LocationId": 19661,
                 "IsInterior": 0,
                 "ExteriorLocationId": 0,
-                "LocationName": "The King's Porcupine Inn"
+                "LocationName": "Inner Seer of Kynareth"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
             {
-                "NameSeed": 7178,
-                "FactionId": 510,
+                "NameSeed": 31437,
+                "FactionId": 0,
                 "Sector": 4,
-                "LocationId": 10582,
-                "BuildingType": 15,
-                "Quality": 5
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 13
             },
             {
-                "NameSeed": 29631,
-                "FactionId": 510,
-                "Sector": 16,
-                "LocationId": 10582,
-                "BuildingType": 15,
+                "NameSeed": 1453,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 19574,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 19661,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 28176,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 19661,
+                "BuildingType": "House2",
                 "Quality": 12
             },
             {
-                "NameSeed": 9551,
-                "FactionId": 510,
-                "Sector": 32,
-                "LocationId": 10582,
-                "BuildingType": 15,
+                "NameSeed": 8140,
+                "FactionId": 0,
+                "Sector": 23,
+                "LocationId": 19661,
+                "BuildingType": "House2",
                 "Quality": 2
             },
             {
-                "NameSeed": 10215,
+                "NameSeed": 17598,
                 "FactionId": 0,
-                "Sector": 44,
-                "LocationId": 10582,
-                "BuildingType": 18,
+                "Sector": 31,
+                "LocationId": 19661,
+                "BuildingType": "House2",
                 "Quality": 1
             },
             {
-                "NameSeed": 2879,
+                "NameSeed": 25601,
                 "FactionId": 0,
-                "Sector": 51,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 15
+                "Sector": 35,
+                "LocationId": 19661,
+                "BuildingType": "House3",
+                "Quality": 4
             },
             {
-                "NameSeed": 13380,
+                "NameSeed": 12820,
                 "FactionId": 0,
-                "Sector": 57,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 5
+                "Sector": 41,
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 8
             },
             {
-                "NameSeed": 3258,
+                "NameSeed": 14042,
                 "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 10582,
-                "BuildingType": 18,
+                "Sector": 47,
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 9756,
+                "FactionId": 0,
+                "Sector": 50,
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 31136,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 19661,
+                "BuildingType": "House2",
                 "Quality": 6
             },
             {
-                "NameSeed": 19167,
+                "NameSeed": 31052,
+                "FactionId": 0,
+                "Sector": 68,
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17028,
                 "FactionId": 0,
                 "Sector": 72,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 12
+                "LocationId": 19661,
+                "BuildingType": "House2",
+                "Quality": 8
             },
             {
-                "NameSeed": 21845,
-                "FactionId": 0,
-                "Sector": 84,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 2
-            },
-            {
-                "NameSeed": 1240,
-                "FactionId": 0,
-                "Sector": 92,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 1
-            },
-            {
-                "NameSeed": 11253,
-                "FactionId": 0,
-                "Sector": 96,
-                "LocationId": 10582,
-                "BuildingType": 18,
-                "Quality": 4
+                "NameSeed": 1060,
+                "FactionId": 35,
+                "Sector": 78,
+                "LocationId": 19661,
+                "BuildingType": "Temple",
+                "Quality": 10
             }
         ],
         "ExteriorData": {
-            "AnotherName": "7178",
-            "MapId": 571000000845,
+            "AnotherName": "Inner Seer of Kynareth",
+            "MapId": 165928,
             "LocationId": 0,
             "Width": 1,
             "Height": 1,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "TVRNAS04.RMB"
+                "TEMPASH0.RMB"
             ]
         }
     },
@@ -148,13 +172,13 @@
     },
     "Climate": {
         "WorldClimate": 226,
-        "ClimateType": 100,
-        "NatureSet": 510,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
         "GroundArchive": 102,
         "NatureArchive": 510,
         "SkyBase": 0,
-        "People": 0,
-        "Names": 0
+        "People": "Nord",
+        "Names": "Nord"
     },
     "Politic": 144,
     "RegionIndex": 16,
