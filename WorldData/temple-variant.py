@@ -21,14 +21,10 @@ def find_block_names(data):
     return None
 
 def modify_json_files(source_directory, target_directory):
-    # Create the target directory if it doesn't exist
     os.makedirs(target_directory, exist_ok=True)
-
-    # List all JSON files in the source directory
     json_files = glob.glob(os.path.join(source_directory, '*.json'))
 
-    # Collect all TEMPASH0 blocks
-    tempash0_blocks = {}  # file -> list of block indices
+    tempasa0_blocks = {}
     total_count = 0
 
     for file in json_files:
@@ -36,25 +32,22 @@ def modify_json_files(source_directory, target_directory):
             data = json.load(json_file)
         block_names = find_block_names(data)
         if block_names:
-            tempash0_indices = [i for i, name in enumerate(block_names) if name.startswith("TEMPASH0")]
-            if tempash0_indices:
-                tempash0_blocks[file] = tempash0_indices
-                total_count += len(tempash0_indices)
+            tempasa0_indices = [i for i, name in enumerate(block_names) if name.startswith("TEMPASA0")]
+            if tempasa0_indices:
+                tempasa0_blocks[file] = tempasa0_indices
+                total_count += len(tempasa0_indices)
 
-    # Create a pool of numbers (0-4) for equal distribution
     modification_pool = []
-    for i in range(5):
-        modification_pool.extend([i] * (total_count // 5))
+    for i in range(3):  # For numbers 0 to 2
+        modification_pool.extend([i] * (total_count // 3))
 
-    # If there's a remainder, randomly add the extra numbers
-    for i in random.sample(range(5), total_count % 5):
+    for i in random.sample(range(3), total_count % 3):
         modification_pool.append(i)
 
-    random.shuffle(modification_pool)  # Shuffle to randomize the distribution
+    random.shuffle(modification_pool)
 
-    # Apply modifications
     current_index = 0
-    for file, indices in tempash0_blocks.items():
+    for file, indices in tempasa0_blocks.items():
         modified = False
         with open(file, 'r') as json_file:
             data = json.load(json_file)
@@ -64,20 +57,19 @@ def modify_json_files(source_directory, target_directory):
             for i in indices:
                 new_number = modification_pool[current_index]
                 block_name = block_names[i]
-                block_names[i] = block_name[:-5] + str(new_number) + block_name[-4:]
+                # Adjusted to preserve the suffix ".RMB"
+                new_block_name = "TEMPASA" + str(new_number) + block_name[block_name.index("TEMPASA0") + 8:]
+                block_names[i] = new_block_name
                 modified = True
                 current_index += 1
 
         if modified:
-            # Save the modified JSON to the target directory
             filename = os.path.basename(file)
             with open(os.path.join(target_directory, filename), 'w') as outfile:
                 json.dump(data, outfile, indent=4)
 
-    print(f"Total TEMPASH0 blocks modified: {total_count}")
-    print("Modifications distribution:", {i: modification_pool.count(i) for i in range(5)})
-
-
+    print(f"Total TEMPASA0 blocks modified: {total_count}")
+    print("Modifications distribution:", {i: modification_pool.count(i) for i in range(3)})
 
 # Usage
 current_directory = '.'  # Current directory
