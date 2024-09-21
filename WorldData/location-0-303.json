@@ -1,0 +1,205 @@
+{
+    "Loaded": true,
+    "Name": "Gysumbakat",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 318208914,
+        "Latitude": 1184,
+        "Longitude": 49440,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16793856
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12660736,
+                "Y": 307201,
+                "IsExterior": 32768,
+                "Unknown2": 303,
+                "LocationId": 29241,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gysumbakat"
+            }
+        },
+        "BuildingCount": 16,
+        "Buildings": [
+            {
+                "NameSeed": 31319,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29241,
+                "BuildingType": "House4",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 6939,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 29241,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 54,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 29241,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 32645,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 29241,
+                "BuildingType": "House4",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 12006,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 29241,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20985,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 29241,
+                "BuildingType": "GeneralStore",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 20406,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 29241,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 2089,
+                "FactionId": 0,
+                "Sector": 99,
+                "LocationId": 29241,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 28538,
+                "FactionId": 510,
+                "Sector": 111,
+                "LocationId": 29241,
+                "BuildingType": "HouseForSale",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 9829,
+                "FactionId": 0,
+                "Sector": 117,
+                "LocationId": 29241,
+                "BuildingType": "House4",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 2164,
+                "FactionId": 0,
+                "Sector": 125,
+                "LocationId": 29241,
+                "BuildingType": "House4",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12047,
+                "FactionId": 0,
+                "Sector": 138,
+                "LocationId": 29241,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 26594,
+                "FactionId": 510,
+                "Sector": 144,
+                "LocationId": 29241,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25880,
+                "FactionId": 510,
+                "Sector": 159,
+                "LocationId": 29241,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 20961,
+                "FactionId": 0,
+                "Sector": 172,
+                "LocationId": 29241,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7248,
+                "FactionId": 510,
+                "Sector": 176,
+                "LocationId": 29241,
+                "BuildingType": "ClothingStore",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gysumbakat",
+            "MapId": 490386,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRBS00.RMB",
+                "RESIBS01.RMB",
+                "TVRNBS00.RMB",
+                "CLOTBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 303
+}

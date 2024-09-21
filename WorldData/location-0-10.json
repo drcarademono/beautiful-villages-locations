@@ -1,0 +1,213 @@
+{
+    "Loaded": true,
+    "Name": "Atriga",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 10878349,
+        "Latitude": 13728,
+        "Longitude": 75424,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19312640,
+                "Y": 3518465,
+                "IsExterior": 32768,
+                "Unknown2": 10,
+                "LocationId": 26380,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Atriga"
+            }
+        },
+        "BuildingCount": 17,
+        "Buildings": [
+            {
+                "NameSeed": 13092,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17658,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 31753,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 26380,
+                "BuildingType": "HouseForSale",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 1279,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10890,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5124,
+                "FactionId": 0,
+                "Sector": 40,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8082,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18049,
+                "FactionId": 0,
+                "Sector": 52,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 31960,
+                "FactionId": 510,
+                "Sector": 59,
+                "LocationId": 26380,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31291,
+                "FactionId": 0,
+                "Sector": 67,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12947,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 9166,
+                "FactionId": 510,
+                "Sector": 91,
+                "LocationId": 26380,
+                "BuildingType": "GeneralStore",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2181,
+                "FactionId": 0,
+                "Sector": 103,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 22546,
+                "FactionId": 0,
+                "Sector": 108,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 7374,
+                "FactionId": 0,
+                "Sector": 113,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11644,
+                "FactionId": 0,
+                "Sector": 117,
+                "LocationId": 26380,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 24694,
+                "FactionId": 510,
+                "Sector": 122,
+                "LocationId": 26380,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Atriga",
+            "MapId": 392589,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS01.RMB",
+                "RESIBS00.RMB",
+                "GENRBS02.RMB",
+                "TVRNBS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 10
+}

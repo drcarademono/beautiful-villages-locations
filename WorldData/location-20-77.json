@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Bahazar",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 81106729,
+        "Latitude": 17064,
+        "Longitude": 48288,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12365824,
+                "Y": 4372481,
+                "IsExterior": 32768,
+                "Unknown2": 77,
+                "LocationId": 25397,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Bahazar"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 31491,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25397,
+                "BuildingType": "House4",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 11914,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 25397,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2008,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 25397,
+                "BuildingType": "House4",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 30152,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 25397,
+                "BuildingType": "House4",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 27553,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 25397,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 5564,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 25397,
+                "BuildingType": "GeneralStore",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 14675,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 25397,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 3316,
+                "FactionId": 0,
+                "Sector": 99,
+                "LocationId": 25397,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 18716,
+                "FactionId": 0,
+                "Sector": 106,
+                "LocationId": 25397,
+                "BuildingType": "House2",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Bahazar",
+            "MapId": 366377,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS00.RMB",
+                "RESIGS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 77
+}

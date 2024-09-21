@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Naronu",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 89498320,
+        "Latitude": 16680,
+        "Longitude": 46112,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11808768,
+                "Y": 4274177,
+                "IsExterior": 32768,
+                "Unknown2": 85,
+                "LocationId": 25517,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Naronu"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 20842,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 25090,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 25517,
+                "BuildingType": "HouseForSale",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12393,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4643,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 7432,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 25517,
+                "BuildingType": "GeneralStore",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12650,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 10513,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 10932,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 16355,
+                "FactionId": 0,
+                "Sector": 71,
+                "LocationId": 25517,
+                "BuildingType": "House2",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Naronu",
+            "MapId": 369360,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS02.RMB",
+                "RESIGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 85
+}

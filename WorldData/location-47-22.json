@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Appehla",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 23437195,
+        "Latitude": 16808,
+        "Longitude": 66976,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17149952,
+                "Y": 4306945,
+                "IsExterior": 32768,
+                "Unknown2": 22,
+                "LocationId": 25478,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Appehla"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 31960,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 25478,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31291,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 25478,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12947,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 25478,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 2636,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 25478,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15614,
+                "FactionId": 510,
+                "Sector": 36,
+                "LocationId": 25478,
+                "BuildingType": "HouseForSale",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10198,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 25478,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 25148,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 25478,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12376,
+                "FactionId": 510,
+                "Sector": 68,
+                "LocationId": 25478,
+                "BuildingType": "GeneralStore",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Appehla",
+            "MapId": 368523,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS01.RMB",
+                "GENRGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 22
+}

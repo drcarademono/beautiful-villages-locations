@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Makeliria",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 60239020,
+        "Latitude": 3744,
+        "Longitude": 24104,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6174720,
+                "Y": 962561,
+                "IsExterior": 32768,
+                "Unknown2": 57,
+                "LocationId": 28624,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Makeliria"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 32036,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 28624,
+                "BuildingType": "GeneralStore",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 6131,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 26245,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 16060,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 17669,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 20349,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 1993,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19105,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30275,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 28624,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Makeliria",
+            "MapId": 470188,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS01.RMB",
+                "RESIGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 57
+}

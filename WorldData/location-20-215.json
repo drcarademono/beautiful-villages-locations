@@ -1,0 +1,155 @@
+{
+    "Loaded": true,
+    "Name": "Tulauus",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 225826282,
+        "Latitude": 15016,
+        "Longitude": 56608,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14495744,
+                "Y": 3848193,
+                "IsExterior": 32768,
+                "Unknown2": 215,
+                "LocationId": 26043,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tulauus"
+            }
+        },
+        "BuildingCount": 10,
+        "Buildings": [
+            {
+                "NameSeed": 28381,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26043,
+                "BuildingType": "GeneralStore",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 23681,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26715,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 26546,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29268,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6212,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14383,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 22600,
+                "FactionId": 0,
+                "Sector": 53,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8101,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 2031,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 26043,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Tulauus",
+            "MapId": 382442,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS01.RMB",
+                "RESIGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 215
+}

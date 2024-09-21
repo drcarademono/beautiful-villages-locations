@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Mesotuus",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 287697222,
+        "Latitude": 14368,
+        "Longitude": 50984,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13056000,
+                "Y": 3682305,
+                "IsExterior": 32768,
+                "Unknown2": 274,
+                "LocationId": 26207,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mesotuus"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 18643,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26207,
+                "BuildingType": "HouseForSale",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 19800,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15406,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25170,
+                "FactionId": 510,
+                "Sector": 29,
+                "LocationId": 26207,
+                "BuildingType": "GeneralStore",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 5356,
+                "FactionId": 0,
+                "Sector": 40,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26354,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10633,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 18889,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10360,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 26207,
+                "BuildingType": "House2",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mesotuus",
+            "MapId": 387398,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS01.RMB",
+                "GENRGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 274
+}

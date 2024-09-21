@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Umbandadisu",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 27615348,
+        "Latitude": 18848,
+        "Longitude": 47656,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12204032,
+                "Y": 4829185,
+                "IsExterior": 32768,
+                "Unknown2": 26,
+                "LocationId": 24832,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Umbandadisu"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 5776,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21190,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 18542,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12626,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 17482,
+                "FactionId": 510,
+                "Sector": 28,
+                "LocationId": 24832,
+                "BuildingType": "HouseForSale",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21499,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 19796,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 24832,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 7055,
+                "FactionId": 510,
+                "Sector": 60,
+                "LocationId": 24832,
+                "BuildingType": "GeneralStore",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Umbandadisu",
+            "MapId": 352372,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS04.RMB",
+                "GENRGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 26
+}

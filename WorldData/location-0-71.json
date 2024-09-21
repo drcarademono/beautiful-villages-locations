@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Osopaisa",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 74868381,
+        "Latitude": 10272,
+        "Longitude": 62120,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15906816,
+                "Y": 2633729,
+                "IsExterior": 32768,
+                "Unknown2": 71,
+                "LocationId": 27187,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Osopaisa"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 17823,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 27187,
+                "BuildingType": "GeneralStore",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 16688,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 32592,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 13825,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6318,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20090,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10054,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 22710,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5830,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 27187,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Osopaisa",
+            "MapId": 419485,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRBS01.RMB",
+                "RESIBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 71
+}

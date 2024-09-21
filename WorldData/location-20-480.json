@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Osuhla",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 503722888,
+        "Latitude": 11944,
+        "Longitude": 52256,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13381632,
+                "Y": 3061761,
+                "IsExterior": 32768,
+                "Unknown2": 480,
+                "LocationId": 26813,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Osuhla"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 23676,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15308,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 16512,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 18204,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 18829,
+                "FactionId": 510,
+                "Sector": 28,
+                "LocationId": 26813,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 1648,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1106,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 26813,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2349,
+                "FactionId": 510,
+                "Sector": 60,
+                "LocationId": 26813,
+                "BuildingType": "GeneralStore",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Osuhla",
+            "MapId": 406408,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS04.RMB",
+                "GENRBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 480
+}

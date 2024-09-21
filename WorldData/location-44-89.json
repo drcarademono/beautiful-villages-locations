@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Javyryria",
+    "RegionName": "Kairou",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 93778513,
+        "Latitude": 5664,
+        "Longitude": 31912,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8173568,
+                "Y": 1454081,
+                "IsExterior": 32768,
+                "Unknown2": 89,
+                "LocationId": 28196,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Javyryria"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 7349,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 28196,
+                "BuildingType": "HouseForSale",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4662,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 28196,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 17503,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 28196,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32119,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 28196,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26091,
+                "FactionId": 510,
+                "Sector": 36,
+                "LocationId": 28196,
+                "BuildingType": "HouseForSale",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 17016,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 28196,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 990,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 28196,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 20087,
+                "FactionId": 510,
+                "Sector": 68,
+                "LocationId": 28196,
+                "BuildingType": "GeneralStore",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Javyryria",
+            "MapId": 455249,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS01.RMB",
+                "GENRGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 89
+}
