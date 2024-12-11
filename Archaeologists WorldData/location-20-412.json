@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Gysiian",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 432412694,
+        "Latitude": 12832,
+        "Longitude": 48936,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12531712,
+                "Y": 3289089,
+                "IsExterior": 32768,
+                "Unknown2": 412,
+                "LocationId": 26592,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gysiian"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 16933,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29331,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4582,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12887,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 17954,
+                "FactionId": 510,
+                "Sector": 29,
+                "LocationId": 26592,
+                "BuildingType": "HouseForSale",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 14632,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 8564,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 26592,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11559,
+                "FactionId": 510,
+                "Sector": 61,
+                "LocationId": 26592,
+                "BuildingType": "GeneralStore",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gysiian",
+            "MapId": 399382,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS03.RMB",
+                "GENRGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 412
+}

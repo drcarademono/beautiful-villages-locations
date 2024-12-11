@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Elissinia",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 15083343,
+        "Latitude": 12328,
+        "Longitude": 35744,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9154560,
+                "Y": 3160065,
+                "IsExterior": 32768,
+                "Unknown2": 14,
+                "LocationId": 26701,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Elissinia"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 7514,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26701,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26396,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 26701,
+                "BuildingType": "HouseForSale",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 23397,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 26701,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 7168,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 26701,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 31695,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 26701,
+                "BuildingType": "GeneralStore",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23767,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 26701,
+                "BuildingType": "HouseForSale",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 22311,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 26701,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 19954,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 26701,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Elissinia",
+            "MapId": 403279,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 12,
+            "BlockNames": [
+                "GENRGS02.RMB",
+                "RESIGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 46,
+    "LocationIndex": 14
+}

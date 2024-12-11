@@ -1,0 +1,205 @@
+{
+    "Loaded": true,
+    "Name": "Syrogubu",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 189193190,
+        "Latitude": 6432,
+        "Longitude": 65312,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16723968,
+                "Y": 1650689,
+                "IsExterior": 32768,
+                "Unknown2": 180,
+                "LocationId": 28029,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Syrogubu"
+            }
+        },
+        "BuildingCount": 16,
+        "Buildings": [
+            {
+                "NameSeed": 9114,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32301,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 28029,
+                "BuildingType": "HouseForSale",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 15345,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 16336,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 28543,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 28029,
+                "BuildingType": "GeneralStore",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 13531,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 6515,
+                "FactionId": 0,
+                "Sector": 62,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31385,
+                "FactionId": 510,
+                "Sector": 74,
+                "LocationId": 28029,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10898,
+                "FactionId": 0,
+                "Sector": 80,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11647,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17688,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20262,
+                "FactionId": 0,
+                "Sector": 97,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2997,
+                "FactionId": 0,
+                "Sector": 102,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 21526,
+                "FactionId": 0,
+                "Sector": 107,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4050,
+                "FactionId": 0,
+                "Sector": 111,
+                "LocationId": 28029,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 14218,
+                "FactionId": 510,
+                "Sector": 116,
+                "LocationId": 28029,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Syrogubu",
+            "MapId": 449510,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRBS02.RMB",
+                "RESIBS01.RMB",
+                "RESIBS04.RMB",
+                "TVRNBS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 180
+}

@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Appoccorea",
+    "RegionName": "Antiphyllos",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 44489672,
+        "Latitude": 6440,
+        "Longitude": 61472,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15740928,
+                "Y": 1652737,
+                "IsExterior": 32768,
+                "Unknown2": 42,
+                "LocationId": 28028,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Appoccorea"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 11151,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27667,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 28028,
+                "BuildingType": "HouseForSale",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 29802,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 31358,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 27797,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 28028,
+                "BuildingType": "GeneralStore",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 25142,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 18348,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 17711,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29034,
+                "FactionId": 0,
+                "Sector": 71,
+                "LocationId": 28028,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Appoccorea",
+            "MapId": 449480,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRBS02.RMB",
+                "RESIBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 183,
+    "RegionIndex": 55,
+    "LocationIndex": 42
+}

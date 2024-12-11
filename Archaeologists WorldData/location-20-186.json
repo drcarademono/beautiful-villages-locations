@@ -1,0 +1,197 @@
+{
+    "Loaded": true,
+    "Name": "Kaloton",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 195415468,
+        "Latitude": 15264,
+        "Longitude": 42528,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16793600
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10891264,
+                "Y": 3911681,
+                "IsExterior": 32768,
+                "Unknown2": 186,
+                "LocationId": 25972,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kaloton"
+            }
+        },
+        "BuildingCount": 15,
+        "Buildings": [
+            {
+                "NameSeed": 1691,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5897,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8964,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 13194,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 25972,
+                "BuildingType": "HouseForSale",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21520,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 15815,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 11348,
+                "FactionId": 510,
+                "Sector": 46,
+                "LocationId": 25972,
+                "BuildingType": "GeneralStore",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 25074,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 15371,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 30812,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 25002,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30661,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 4907,
+                "FactionId": 510,
+                "Sector": 89,
+                "LocationId": 25972,
+                "BuildingType": "House1",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4645,
+                "FactionId": 0,
+                "Sector": 102,
+                "LocationId": 25972,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7697,
+                "FactionId": 510,
+                "Sector": 106,
+                "LocationId": 25972,
+                "BuildingType": "ClothingStore",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kaloton",
+            "MapId": 380332,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS04.RMB",
+                "RESIGS01.RMB",
+                "GENRGS01.RMB",
+                "CLOTGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 186
+}

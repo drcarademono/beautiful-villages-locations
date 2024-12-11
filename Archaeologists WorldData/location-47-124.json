@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Isfoharia",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 130424888,
+        "Latitude": 12584,
+        "Longitude": 59424,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15216640,
+                "Y": 3225601,
+                "IsExterior": 32768,
+                "Unknown2": 124,
+                "LocationId": 26657,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Isfoharia"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 5018,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2375,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 14665,
+                "FactionId": 0,
+                "Sector": 17,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 13272,
+                "FactionId": 0,
+                "Sector": 23,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 1114,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 26657,
+                "BuildingType": "HouseForSale",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 14807,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 6661,
+                "FactionId": 0,
+                "Sector": 48,
+                "LocationId": 26657,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 16827,
+                "FactionId": 510,
+                "Sector": 62,
+                "LocationId": 26657,
+                "BuildingType": "GeneralStore",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Isfoharia",
+            "MapId": 401464,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS02.RMB",
+                "GENRBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 124
+}
