@@ -20,9 +20,9 @@ def is_adjacent_to_farm(block_names, index, width):
 def modify_blocknames(block_names, width, height):
     """Modify BlockNames array based on rules."""
     for idx, block_name in enumerate(block_names):
-        if block_name.startswith(("GENRAM", "TEMPAA", "TVRNAM")):
+        if block_name.startswith(("GENRBM", "GENRGM", "TVRNBM","TVRNGM")):
             if is_corner(idx, width, height) or is_adjacent_to_farm(block_names, idx, width):
-                block_names[idx] = block_name.replace("GENRAM", "GENRAS").replace("TEMPAA", "TEMPAS").replace("TVRNAM", "TVRNAS")
+                block_names[idx] = block_name.replace("GENRBM", "GENRBS").replace("GENRGM", "GENRGS").replace("TVRNBM", "TVRNBS").replace("TVRNGM", "TVRNGS")
 
 def process_json_file(filepath):
     """Process a single RMB.json file."""
