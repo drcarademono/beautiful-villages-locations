@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of Caj Hall",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 290842367,
+        "Latitude": 14504,
+        "Longitude": 104360,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "Mine",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26720256,
+                "Y": 3717121,
+                "IsExterior": 32768,
+                "Unknown2": 277,
+                "LocationId": 26183,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of Caj Hall"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of Caj Hall",
+            "MapId": 386815,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA24.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 26720256,
+                "Y": 3717121,
+                "IsExterior": 0,
+                "Unknown2": 78,
+                "LocationId": 26184,
+                "IsInterior": 1,
+                "ExteriorLocationId": 26183,
+                "LocationName": "Ruins of Caj Hall"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000058.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 277
+}

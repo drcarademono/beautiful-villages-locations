@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Sahulessa Hermitage",
+    "RegionName": "Isle of Balfiera",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 12751564,
+        "Latitude": 42408,
+        "Longitude": 83496,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21379072,
+                "Y": 10860545,
+                "IsExterior": 32768,
+                "Unknown2": 12,
+                "LocationId": 19816,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Sahulessa Hermitage"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Sahulessa Hermitage",
+            "MapId": 168652,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 8,
+            "BlockNames": [
+                "DUNGAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 21379072,
+                "Y": 10860545,
+                "IsExterior": 0,
+                "Unknown2": 7,
+                "LocationId": 19817,
+                "IsInterior": 1,
+                "ExteriorLocationId": 19816,
+                "LocationName": "The Sahulessa Hermitage"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000021.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 137,
+    "RegionIndex": 9,
+    "LocationIndex": 12
+}

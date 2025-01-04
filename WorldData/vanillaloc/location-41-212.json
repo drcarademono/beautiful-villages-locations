@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Jubula Manse",
+    "RegionName": "Daenia",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 222399466,
+        "Latitude": 50984,
+        "Longitude": 45352,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11614208,
+                "Y": 13056001,
+                "IsExterior": 32768,
+                "Unknown2": 212,
+                "LocationId": 15904,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Jubula Manse"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Jubula Manse",
+            "MapId": 101354,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 11614208,
+                "Y": 13056001,
+                "IsExterior": 0,
+                "Unknown2": 40,
+                "LocationId": 15905,
+                "IsInterior": 1,
+                "ExteriorLocationId": 15904,
+                "LocationName": "The Jubula Manse"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000019.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 212
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Belladyn's Place",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 92470567,
+        "Latitude": 38952,
+        "Longitude": 112552,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28817408,
+                "Y": 9975809,
+                "IsExterior": 32768,
+                "Unknown2": 88,
+                "LocationId": 20977,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Belladyn's Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 16323,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20977,
+                "BuildingType": "House3",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Belladyn's Place",
+            "MapId": 195879,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 88
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Woodsmith Hall",
+    "RegionName": "Shalgora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 223544009,
+        "Latitude": 38696,
+        "Longitude": 41128,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10532864,
+                "Y": 9910273,
+                "IsExterior": 32768,
+                "Unknown2": 213,
+                "LocationId": 21048,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodsmith Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 28191,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 9591,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15841,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25367,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 21048,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 28307,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 28323,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 32571,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 21048,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 17509,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 21048,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 24539,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 21048,
+                "BuildingType": "House1",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodsmith Hall",
+            "MapId": 197321,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 170,
+    "RegionIndex": 42,
+    "LocationIndex": 213
+}

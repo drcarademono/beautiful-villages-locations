@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Moorsley Farmstead",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 527607817,
+        "Latitude": 41640,
+        "Longitude": 11432,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 2930688,
+                "Y": 10663937,
+                "IsExterior": 32768,
+                "Unknown2": 503,
+                "LocationId": 20062,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Moorsley Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 32633,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20062,
+                "BuildingType": "House1",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Moorsley Farmstead",
+            "MapId": 174089,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 17,
+    "LocationIndex": 503
+}

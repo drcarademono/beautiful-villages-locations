@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Yeomhart Manor",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 239118883,
+        "Latitude": 58408,
+        "Longitude": 71080,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18200576,
+                "Y": 14956545,
+                "IsExterior": 32768,
+                "Unknown2": 228,
+                "LocationId": 12252,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Yeomhart Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 14084,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 31025,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16485,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 1731,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21463,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 5680,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 5527,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 19296,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 3557,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10742,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13461,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 12252,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25197,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 12252,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 30028,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 12252,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Yeomhart Manor",
+            "MapId": 43555,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 228
+}

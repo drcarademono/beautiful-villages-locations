@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Shozen Place",
+    "RegionName": "Ephesus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 87476624,
+        "Latitude": 7080,
+        "Longitude": 104488,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26753024,
+                "Y": 1816577,
+                "IsExterior": 32768,
+                "Unknown2": 83,
+                "LocationId": 27898,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Shozen Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3677,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27898,
+                "BuildingType": "House3",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Shozen Place",
+            "MapId": 444816,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 83
+}

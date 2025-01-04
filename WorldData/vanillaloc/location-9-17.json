@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of The Hold of Greenwing",
+    "RegionName": "Isle of Balfiera",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 18008477,
+        "Latitude": 40616,
+        "Longitude": 87720,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22460416,
+                "Y": 10401793,
+                "IsExterior": 32768,
+                "Unknown2": 17,
+                "LocationId": 20390,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of The Hold of Greenwing"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of The Hold of Greenwing",
+            "MapId": 182685,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 1,
+            "BlockNames": [
+                "RUINAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 22460416,
+                "Y": 10401793,
+                "IsExterior": 0,
+                "Unknown2": 10,
+                "LocationId": 20391,
+                "IsInterior": 1,
+                "ExteriorLocationId": 20390,
+                "LocationName": "Ruins of The Hold of Greenwing"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 137,
+    "RegionIndex": 9,
+    "LocationIndex": 17
+}

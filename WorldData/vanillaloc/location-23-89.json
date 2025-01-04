@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Hold of Woodford",
+    "RegionName": "Wayrest",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 93519147,
+        "Latitude": 38952,
+        "Longitude": 113064,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "OrcStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28948480,
+                "Y": 9975809,
+                "IsExterior": 32768,
+                "Unknown2": 89,
+                "LocationId": 20978,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hold of Woodford"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Hold of Woodford",
+            "MapId": 195883,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 28948480,
+                "Y": 9975809,
+                "IsExterior": 0,
+                "Unknown2": 21,
+                "LocationId": 20979,
+                "IsInterior": 1,
+                "ExteriorLocationId": 20978,
+                "LocationName": "The Hold of Woodford"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000025.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 89
+}

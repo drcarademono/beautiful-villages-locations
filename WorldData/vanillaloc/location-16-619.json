@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Tricerridon",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 649114294,
+        "Latitude": 58152,
+        "Longitude": 96040,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "OrcStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24590336,
+                "Y": 14891009,
+                "IsExterior": 32768,
+                "Unknown2": 619,
+                "LocationId": 12383,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tricerridon"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Tricerridon",
+            "MapId": 45750,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA17.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 24590336,
+                "Y": 14891009,
+                "IsExterior": 0,
+                "Unknown2": 222,
+                "LocationId": 12384,
+                "IsInterior": 1,
+                "ExteriorLocationId": 12383,
+                "LocationName": "Tricerridon"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000042.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 619
+}

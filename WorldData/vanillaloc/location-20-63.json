@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of Ghurhtir Court",
+    "RegionName": "Sentinel",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 66424659,
+        "Latitude": 17320,
+        "Longitude": 47528,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "ScorpionNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12171264,
+                "Y": 4438017,
+                "IsExterior": 32768,
+                "Unknown2": 63,
+                "LocationId": 25303,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of Ghurhtir Court"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of Ghurhtir Court",
+            "MapId": 364371,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 12171264,
+                "Y": 4438017,
+                "IsExterior": 0,
+                "Unknown2": 12,
+                "LocationId": 25304,
+                "IsInterior": 1,
+                "ExteriorLocationId": 25303,
+                "LocationName": "Ruins of Ghurhtir Court"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000023.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 63
+}

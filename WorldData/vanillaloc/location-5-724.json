@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The King's Griffin Lodge",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 759297545,
+        "Latitude": 47528,
+        "Longitude": 66728,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17086464,
+                "Y": 12171265,
+                "IsExterior": 32768,
+                "Unknown2": 724,
+                "LocationId": 17540,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The King's Griffin Lodge"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 14251,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19255,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27641,
+                "FactionId": 0,
+                "Sector": 13,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10420,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10568,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 4777,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27187,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 17540,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14093,
+                "FactionId": 510,
+                "Sector": 68,
+                "LocationId": 17540,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 16684,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 17540,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 20946,
+                "FactionId": 510,
+                "Sector": 93,
+                "LocationId": 17540,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "14093",
+            "MapId": 128521,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 724
+}

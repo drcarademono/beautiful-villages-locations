@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Vannanna's Shack",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 189829826,
+        "Latitude": 59176,
+        "Longitude": 73000,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18692096,
+                "Y": 15153153,
+                "IsExterior": 32768,
+                "Unknown2": 181,
+                "LocationId": 11908,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Vannanna's Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 1520,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11908,
+                "BuildingType": "House3",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Vannanna's Shack",
+            "MapId": 37570,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 181
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of Nhestur Hall",
+    "RegionName": "Mournoth",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 83137439,
+        "Latitude": 25640,
+        "Longitude": 119720,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30652416,
+                "Y": 6567937,
+                "IsExterior": 32768,
+                "Unknown2": 79,
+                "LocationId": 23218,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of Nhestur Hall"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of Nhestur Hall",
+            "MapId": 299935,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA22.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 30652416,
+                "Y": 6567937,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 23219,
+                "IsInterior": 1,
+                "ExteriorLocationId": 23218,
+                "LocationName": "Ruins of Nhestur Hall"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 79
+}

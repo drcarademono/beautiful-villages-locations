@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of Ashford Hall",
+    "RegionName": "Ykalon",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 167786472,
+        "Latitude": 62120,
+        "Longitude": 39976,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10237952,
+                "Y": 15906817,
+                "IsExterior": 32768,
+                "Unknown2": 160,
+                "LocationId": 10618,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of Ashford Hall"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of Ashford Hall",
+            "MapId": 14312,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 10237952,
+                "Y": 15906817,
+                "IsExterior": 0,
+                "Unknown2": 38,
+                "LocationId": 10619,
+                "IsInterior": 1,
+                "ExteriorLocationId": 10618,
+                "LocationName": "Ruins of Ashford Hall"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000028.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 160
+}

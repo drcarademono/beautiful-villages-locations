@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Copperton Tower",
+    "RegionName": "Daggerfall",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 819126989,
+        "Latitude": 39720,
+        "Longitude": 17064,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4372480,
+                "Y": 10172417,
+                "IsExterior": 32768,
+                "Unknown2": 781,
+                "LocationId": 20670,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Copperton Tower"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Copperton Tower",
+            "MapId": 189133,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 4372480,
+                "Y": 10172417,
+                "IsExterior": 0,
+                "Unknown2": 150,
+                "LocationId": 20671,
+                "IsInterior": 1,
+                "ExteriorLocationId": 20670,
+                "LocationName": "Copperton Tower"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000053.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 781
+}

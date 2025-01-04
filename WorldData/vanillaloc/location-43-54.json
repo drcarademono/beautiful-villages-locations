@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Lion and Ogre Tavern",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 57092310,
+        "Latitude": 3880,
+        "Longitude": 26408,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6764544,
+                "Y": 997377,
+                "IsExterior": 32768,
+                "Unknown2": 54,
+                "LocationId": 28584,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Lion and Ogre Tavern"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 29724,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28584,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 5569,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 28584,
+                "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 32734,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 28584,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "32734",
+            "MapId": 469206,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 54
+}

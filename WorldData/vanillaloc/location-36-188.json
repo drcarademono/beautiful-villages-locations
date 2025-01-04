@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The House of Lithivam",
+    "RegionName": "Bhoriane",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 197283879,
+        "Latitude": 44584,
+        "Longitude": 75688,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19380224,
+                "Y": 11417601,
+                "IsExterior": 32768,
+                "Unknown2": 188,
+                "LocationId": 18852,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The House of Lithivam"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The House of Lithivam",
+            "MapId": 151591,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 1,
+            "BlockNames": [
+                "DUNGAA18.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 19380224,
+                "Y": 11417601,
+                "IsExterior": 0,
+                "Unknown2": 44,
+                "LocationId": 18853,
+                "IsInterior": 1,
+                "ExteriorLocationId": 18852,
+                "LocationName": "The House of Lithivam"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000091.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 164,
+    "RegionIndex": 36,
+    "LocationIndex": 188
+}

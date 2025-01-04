@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Darch Hovel",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 49596656,
+        "Latitude": 23848,
+        "Longitude": 74792,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19150848,
+                "Y": 6109185,
+                "IsExterior": 32768,
+                "Unknown2": 47,
+                "LocationId": 23582,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Darch Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 30210,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23582,
+                "BuildingType": "House3",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Darch Hovel",
+            "MapId": 313584,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 47
+}

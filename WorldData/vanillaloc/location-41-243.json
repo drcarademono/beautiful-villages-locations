@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tombs of Greenford",
+    "RegionName": "Daenia",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 254911355,
+        "Latitude": 50216,
+        "Longitude": 49576,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12695552,
+                "Y": 12859393,
+                "IsExterior": 32768,
+                "Unknown2": 243,
+                "LocationId": 16319,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tombs of Greenford"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tombs of Greenford",
+            "MapId": 107387,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS28.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 12695552,
+                "Y": 12859393,
+                "IsExterior": 0,
+                "Unknown2": 47,
+                "LocationId": 16320,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16319,
+                "LocationName": "The Tombs of Greenford"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 243
+}

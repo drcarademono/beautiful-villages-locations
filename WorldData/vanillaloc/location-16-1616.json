@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of The Woodford Farmstead",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 1694640667,
+        "Latitude": 45864,
+        "Longitude": 108968,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "OrcStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27899904,
+                "Y": 11745281,
+                "IsExterior": 32768,
+                "Unknown2": 1616,
+                "LocationId": 18354,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of The Woodford Farmstead"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of The Woodford Farmstead",
+            "MapId": 141851,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27899904,
+                "Y": 11745281,
+                "IsExterior": 0,
+                "Unknown2": 605,
+                "LocationId": 18355,
+                "IsInterior": 1,
+                "ExteriorLocationId": 18354,
+                "LocationName": "Ruins of The Woodford Farmstead"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000078.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1616
+}

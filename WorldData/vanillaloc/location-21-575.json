@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Kingford Cemetery",
+    "RegionName": "Anticlere",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 603097623,
+        "Latitude": 42664,
+        "Longitude": 54184,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13875200,
+                "Y": 10926081,
+                "IsExterior": 32768,
+                "Unknown2": 575,
+                "LocationId": 19701,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kingford Cemetery"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Kingford Cemetery",
+            "MapId": 166423,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS26.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 13875200,
+                "Y": 10926081,
+                "IsExterior": 0,
+                "Unknown2": 140,
+                "LocationId": 19702,
+                "IsInterior": 1,
+                "ExteriorLocationId": 19701,
+                "LocationName": "The Kingford Cemetery"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 575
+}

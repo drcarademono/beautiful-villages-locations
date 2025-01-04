@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Wickton Shack",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1805816844,
+        "Latitude": 42408,
+        "Longitude": 124456,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31864832,
+                "Y": 10860545,
+                "IsExterior": 32768,
+                "Unknown2": 1722,
+                "LocationId": 19829,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Wickton Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 14646,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19829,
+                "BuildingType": "House3",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Wickton Shack",
+            "MapId": 168972,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1722
+}

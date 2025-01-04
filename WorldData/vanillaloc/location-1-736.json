@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Baillke Tunnel",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 772221673,
+        "Latitude": 3880,
+        "Longitude": 94376,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Mine",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24164352,
+                "Y": 997377,
+                "IsExterior": 32768,
+                "Unknown2": 736,
+                "LocationId": 28605,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Baillke Tunnel"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Baillke Tunnel",
+            "MapId": 469737,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA15.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 24164352,
+                "Y": 997377,
+                "IsExterior": 0,
+                "Unknown2": 246,
+                "LocationId": 28606,
+                "IsInterior": 1,
+                "ExteriorLocationId": 28605,
+                "LocationName": "The Baillke Tunnel"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 736
+}

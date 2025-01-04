@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Buckinghart Plantation",
+    "RegionName": "Northmoor",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 230730985,
+        "Latitude": 58280,
+        "Longitude": 33960,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8697856,
+                "Y": 14923777,
+                "IsExterior": 32768,
+                "Unknown2": 220,
+                "LocationId": 12289,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Buckinghart Plantation"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 11947,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12289,
+                "BuildingType": "House2",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Buckinghart Plantation",
+            "MapId": 44265,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 160,
+    "RegionIndex": 32,
+    "LocationIndex": 220
+}

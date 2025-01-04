@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Hearthford Hovel",
+    "RegionName": "Tulune",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 41009590,
+        "Latitude": 49192,
+        "Longitude": 16168,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4143104,
+                "Y": 12597249,
+                "IsExterior": 32768,
+                "Unknown2": 39,
+                "LocationId": 16820,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Hearthford Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18482,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16820,
+                "BuildingType": "House3",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Hearthford Hovel",
+            "MapId": 115126,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 186,
+    "RegionIndex": 58,
+    "LocationIndex": 39
+}

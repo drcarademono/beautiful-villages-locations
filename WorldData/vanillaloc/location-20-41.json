@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Krosh Farmstead",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 43348986,
+        "Latitude": 18216,
+        "Longitude": 47400,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12138496,
+                "Y": 4667393,
+                "IsExterior": 32768,
+                "Unknown2": 41,
+                "LocationId": 25024,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Krosh Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 16746,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25024,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Krosh Farmstead",
+            "MapId": 357370,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 41
+}

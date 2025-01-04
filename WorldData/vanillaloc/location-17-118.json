@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Citadel of Yeomcroft",
+    "RegionName": "Daggerfall",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 123885227,
+        "Latitude": 44328,
+        "Longitude": 33192,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8501248,
+                "Y": 11352065,
+                "IsExterior": 32768,
+                "Unknown2": 118,
+                "LocationId": 18924,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Citadel of Yeomcroft"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Citadel of Yeomcroft",
+            "MapId": 153259,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA13.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 8501248,
+                "Y": 11352065,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 18925,
+                "IsInterior": 1,
+                "ExteriorLocationId": 18924,
+                "LocationName": "The Citadel of Yeomcroft"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000062.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 118
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Tower Masterham",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 569487061,
+        "Latitude": 49832,
+        "Longitude": 37544,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9615360,
+                "Y": 12761089,
+                "IsExterior": 32768,
+                "Unknown2": 543,
+                "LocationId": 16508,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tower Masterham"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Tower Masterham",
+            "MapId": 110293,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA22.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 9615360,
+                "Y": 12761089,
+                "IsExterior": 0,
+                "Unknown2": 201,
+                "LocationId": 16509,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16508,
+                "LocationName": "Tower Masterham"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000043.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 543
+}

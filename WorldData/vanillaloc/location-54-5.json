@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "THe Crypts of Flardun",
+    "RegionName": "Santaki",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 5663513,
+        "Latitude": 10152,
+        "Longitude": 81064,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20756480,
+                "Y": 2603009,
+                "IsExterior": 32768,
+                "Unknown2": 5,
+                "LocationId": 27213,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "THe Crypts of Flardun"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "THe Crypts of Flardun",
+            "MapId": 420633,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS19.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 20756480,
+                "Y": 2603009,
+                "IsExterior": 0,
+                "Unknown2": 1,
+                "LocationId": 27214,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27213,
+                "LocationName": "THe Crypts of Flardun"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 54,
+    "LocationIndex": 5
+}

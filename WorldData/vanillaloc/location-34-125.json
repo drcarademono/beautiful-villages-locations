@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Laboratory of Mordyval",
+    "RegionName": "Alcaire",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 131206711,
+        "Latitude": 46760,
+        "Longitude": 91048,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Laboratory",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23312384,
+                "Y": 11974657,
+                "IsExterior": 32768,
+                "Unknown2": 125,
+                "LocationId": 17905,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Laboratory of Mordyval"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Laboratory of Mordyval",
+            "MapId": 134711,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 2,
+            "BlockNames": [
+                "DUNGAA12.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 23312384,
+                "Y": 11974657,
+                "IsExterior": 0,
+                "Unknown2": 31,
+                "LocationId": 17906,
+                "IsInterior": 1,
+                "ExteriorLocationId": 17905,
+                "LocationName": "The Laboratory of Mordyval"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000034.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 162,
+    "RegionIndex": 34,
+    "LocationIndex": 125
+}

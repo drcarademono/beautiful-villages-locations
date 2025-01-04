@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tomb of Darkulyth",
+    "RegionName": "Wayrest",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 145954983,
+        "Latitude": 38056,
+        "Longitude": 117672,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30128128,
+                "Y": 9746433,
+                "IsExterior": 32768,
+                "Unknown2": 139,
+                "LocationId": 21302,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tomb of Darkulyth"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tomb of Darkulyth",
+            "MapId": 202919,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA13.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 30128128,
+                "Y": 9746433,
+                "IsExterior": 0,
+                "Unknown2": 31,
+                "LocationId": 21303,
+                "IsInterior": 1,
+                "ExteriorLocationId": 21302,
+                "LocationName": "The Tomb of Darkulyth"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000070.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 139
+}

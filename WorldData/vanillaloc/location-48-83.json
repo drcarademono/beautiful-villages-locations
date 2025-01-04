@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Dhollam Place",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 87355336,
+        "Latitude": 22568,
+        "Longitude": 67624,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17315840,
+                "Y": 5781505,
+                "IsExterior": 32768,
+                "Unknown2": 83,
+                "LocationId": 23855,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Dhollam Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 13290,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23855,
+                "BuildingType": "House3",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Dhollam Place",
+            "MapId": 323528,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 83
+}

@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The King's Hedgehog Tavern",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 257286491,
+        "Latitude": 14632,
+        "Longitude": 47528,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12171264,
+                "Y": 3749889,
+                "IsExterior": 32768,
+                "Unknown2": 245,
+                "LocationId": 26138,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The King's Hedgehog Tavern"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 31151,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26138,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 13364,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26138,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 12394,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 26138,
+                "BuildingType": "House4",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4094,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 26138,
+                "BuildingType": "House4",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "31151",
+            "MapId": 385371,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 245
+}

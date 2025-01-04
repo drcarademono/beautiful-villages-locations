@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Krorg Court",
+    "RegionName": "Satakalaam",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 98869944,
+        "Latitude": 25128,
+        "Longitude": 102440,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26228736,
+                "Y": 6436865,
+                "IsExterior": 32768,
+                "Unknown2": 94,
+                "LocationId": 23322,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Krorg Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 3324,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23322,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 3057,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26777,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 24916,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 27772,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 13765,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 1067,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 9263,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 5078,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 7626,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23322,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 24277,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23322,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Krorg Court",
+            "MapId": 303800,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 94
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Citadel of T'illke",
+    "RegionName": "Satakalaam",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 130333237,
+        "Latitude": 24360,
+        "Longitude": 104104,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26654720,
+                "Y": 6240257,
+                "IsExterior": 32768,
+                "Unknown2": 124,
+                "LocationId": 23492,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Citadel of T'illke"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Citadel of T'illke",
+            "MapId": 309813,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA27.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 26654720,
+                "Y": 6240257,
+                "IsExterior": 0,
+                "Unknown2": 33,
+                "LocationId": 23493,
+                "IsInterior": 1,
+                "ExteriorLocationId": 23492,
+                "LocationName": "The Citadel of T'illke"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000040.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 124
+}

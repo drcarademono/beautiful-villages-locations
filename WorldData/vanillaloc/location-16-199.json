@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Yeomsmith Vaults",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 208681429,
+        "Latitude": 62120,
+        "Longitude": 103080,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26392576,
+                "Y": 15906817,
+                "IsExterior": 32768,
+                "Unknown2": 199,
+                "LocationId": 10660,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Yeomsmith Vaults"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Yeomsmith Vaults",
+            "MapId": 14805,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS41.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 26392576,
+                "Y": 15906817,
+                "IsExterior": 0,
+                "Unknown2": 73,
+                "LocationId": 10661,
+                "IsInterior": 1,
+                "ExteriorLocationId": 10660,
+                "LocationName": "The Yeomsmith Vaults"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 199
+}

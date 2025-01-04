@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Coven of F'avba",
+    "RegionName": "Tigonus",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 212159842,
+        "Latitude": 19496,
+        "Longitude": 62760,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Coven",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16070656,
+                "Y": 4995073,
+                "IsExterior": 32768,
+                "Unknown2": 202,
+                "LocationId": 24651,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Coven of F'avba"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Coven of F'avba",
+            "MapId": 347490,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA11.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 16070656,
+                "Y": 4995073,
+                "IsExterior": 0,
+                "Unknown2": 54,
+                "LocationId": 24652,
+                "IsInterior": 1,
+                "ExteriorLocationId": 24651,
+                "LocationName": "The Coven of F'avba"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000021.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 202
+}

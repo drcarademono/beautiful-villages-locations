@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Sword Inn",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 612535777,
+        "Latitude": 42536,
+        "Longitude": 50344,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12892160,
+                "Y": 10893313,
+                "IsExterior": 32768,
+                "Unknown2": 584,
+                "LocationId": 19757,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Sword Inn"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26841,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 19757,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17539,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 19757,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 9596,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 19757,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20265,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 19757,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21285,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 22062,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 30645,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 659,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 13077,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 19757,
+                "BuildingType": "House3",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 277,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17517,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 19757,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "26841",
+            "MapId": 167393,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 584
+}

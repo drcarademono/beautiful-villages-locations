@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "V'is's Hold",
+    "RegionName": "Santaki",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 33995091,
+        "Latitude": 7592,
+        "Longitude": 84392,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21608448,
+                "Y": 1947649,
+                "IsExterior": 32768,
+                "Unknown2": 32,
+                "LocationId": 27793,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "V'is's Hold"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "V'is's Hold",
+            "MapId": 440659,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA18.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 21608448,
+                "Y": 1947649,
+                "IsExterior": 0,
+                "Unknown2": 13,
+                "LocationId": 27794,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27793,
+                "LocationName": "V'is's Hold"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000024.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 225,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 182,
+    "RegionIndex": 54,
+    "LocationIndex": 32
+}

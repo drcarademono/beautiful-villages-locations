@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tomb of Veromaus",
+    "RegionName": "Bhoriane",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 174198169,
+        "Latitude": 46760,
+        "Longitude": 70824,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18135040,
+                "Y": 11974657,
+                "IsExterior": 32768,
+                "Unknown2": 166,
+                "LocationId": 17898,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tomb of Veromaus"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tomb of Veromaus",
+            "MapId": 134553,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 4,
+            "BlockNames": [
+                "DUNGAA18.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 18135040,
+                "Y": 11974657,
+                "IsExterior": 0,
+                "Unknown2": 40,
+                "LocationId": 17899,
+                "IsInterior": 1,
+                "ExteriorLocationId": 17898,
+                "LocationName": "The Tomb of Veromaus"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 36,
+    "LocationIndex": 166
+}

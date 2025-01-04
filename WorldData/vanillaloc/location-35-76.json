@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Buckingford Manor",
+    "RegionName": "Koegria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 79778449,
+        "Latitude": 52904,
+        "Longitude": 86184,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22067200,
+                "Y": 13547521,
+                "IsExterior": 32768,
+                "Unknown2": 76,
+                "LocationId": 14988,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckingford Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 23446,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12779,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 5358,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 2634,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 14988,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6603,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26504,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 7999,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 14988,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5744,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 14988,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 31609,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 14988,
+                "BuildingType": "House1",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckingford Manor",
+            "MapId": 86673,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 163,
+    "RegionIndex": 35,
+    "LocationIndex": 76
+}

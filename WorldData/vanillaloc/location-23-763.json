@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Elyzyssa's Hovel",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 800320394,
+        "Latitude": 31144,
+        "Longitude": 116008,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29702144,
+                "Y": 7976961,
+                "IsExterior": 32768,
+                "Unknown2": 763,
+                "LocationId": 22589,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Elyzyssa's Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27382,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22589,
+                "BuildingType": "House3",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Elyzyssa's Hovel",
+            "MapId": 256906,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 763
+}

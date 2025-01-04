@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Castle Mormun",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 23474948,
+        "Latitude": 11944,
+        "Longitude": 35368,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "BarbarianStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9058304,
+                "Y": 3061761,
+                "IsExterior": 32768,
+                "Unknown2": 22,
+                "LocationId": 26796,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Castle Mormun"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Castle Mormun",
+            "MapId": 406276,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 4,
+            "BlockNames": [
+                "CASTAA22.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 9058304,
+                "Y": 3061761,
+                "IsExterior": 0,
+                "Unknown2": 4,
+                "LocationId": 26797,
+                "IsInterior": 1,
+                "ExteriorLocationId": 26796,
+                "LocationName": "Castle Mormun"
+            }
+        },
+        "Header": {
+            "BlockCount": 14
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000025.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 46,
+    "LocationIndex": 22
+}

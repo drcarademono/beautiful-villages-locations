@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Thirsty Mug Tavern",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 280330298,
+        "Latitude": 17832,
+        "Longitude": 64808,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16594944,
+                "Y": 4569089,
+                "IsExterior": 32768,
+                "Unknown2": 267,
+                "LocationId": 25141,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Thirsty Mug Tavern"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 13378,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 25141,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 620,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25141,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 26025,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 25141,
+                "BuildingType": "House4",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6920,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 25141,
+                "BuildingType": "House4",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "13378",
+            "MapId": 360506,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 267
+}

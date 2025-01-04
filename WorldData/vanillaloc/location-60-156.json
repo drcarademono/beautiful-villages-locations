@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tombs of Kinging",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 163650110,
+        "Latitude": 54696,
+        "Longitude": 32552,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8337408,
+                "Y": 14006273,
+                "IsExterior": 32768,
+                "Unknown2": 156,
+                "LocationId": 13934,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tombs of Kinging"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tombs of Kinging",
+            "MapId": 72254,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS31.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 8337408,
+                "Y": 14006273,
+                "IsExterior": 0,
+                "Unknown2": 58,
+                "LocationId": 13935,
+                "IsInterior": 1,
+                "ExteriorLocationId": 13934,
+                "LocationName": "The Tombs of Kinging"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 156
+}

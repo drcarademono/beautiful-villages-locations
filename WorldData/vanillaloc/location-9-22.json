@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Ruins of Old Barbara's Place",
+    "RegionName": "Isle of Balfiera",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 23261407,
+        "Latitude": 39336,
+        "Longitude": 94120,
+        "LocationType": "DungeonRuin",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24098816,
+                "Y": 10074113,
+                "IsExterior": 32768,
+                "Unknown2": 22,
+                "LocationId": 20815,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ruins of Old Barbara's Place"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Ruins of Old Barbara's Place",
+            "MapId": 192735,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RUINAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 24098816,
+                "Y": 10074113,
+                "IsExterior": 0,
+                "Unknown2": 14,
+                "LocationId": 20816,
+                "IsInterior": 1,
+                "ExteriorLocationId": 20815,
+                "LocationName": "Ruins of Old Barbara's Place"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000015.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 137,
+    "RegionIndex": 9,
+    "LocationIndex": 22
+}

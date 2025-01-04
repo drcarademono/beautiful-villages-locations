@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Wicksley Graveyard",
+    "RegionName": "Daggerfall",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 388140218,
+        "Latitude": 42536,
+        "Longitude": 12584,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3225600,
+                "Y": 10893313,
+                "IsExterior": 32768,
+                "Unknown2": 370,
+                "LocationId": 19719,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Wicksley Graveyard"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Wicksley Graveyard",
+            "MapId": 167098,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS28.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 3225600,
+                "Y": 10893313,
+                "IsExterior": 0,
+                "Unknown2": 66,
+                "LocationId": 19720,
+                "IsInterior": 1,
+                "ExteriorLocationId": 19719,
+                "LocationName": "The Wicksley Graveyard"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 370
+}

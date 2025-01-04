@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Sekadred",
+    "RegionName": "Menevia",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 202585017,
+        "Latitude": 37160,
+        "Longitude": 108712,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "GiantStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27834368,
+                "Y": 9517057,
+                "IsExterior": 32768,
+                "Unknown2": 193,
+                "LocationId": 21576,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Sekadred"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Sekadred",
+            "MapId": 209849,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27834368,
+                "Y": 9517057,
+                "IsExterior": 0,
+                "Unknown2": 29,
+                "LocationId": 21577,
+                "IsInterior": 1,
+                "ExteriorLocationId": 21576,
+                "LocationName": "Sekadred"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000037.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 161,
+    "RegionIndex": 33,
+    "LocationIndex": 193
+}

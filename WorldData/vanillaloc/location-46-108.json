@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Rluthan Farmstead",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 113683453,
+        "Latitude": 7976,
+        "Longitude": 31400,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8042496,
+                "Y": 2045953,
+                "IsExterior": 32768,
+                "Unknown2": 108,
+                "LocationId": 27698,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rluthan Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18153,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27698,
+                "BuildingType": "House2",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Rluthan Farmstead",
+            "MapId": 437245,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 172,
+    "RegionIndex": 46,
+    "LocationIndex": 108
+}

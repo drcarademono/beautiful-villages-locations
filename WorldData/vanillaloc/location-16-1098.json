@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hawking Hall",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1151425244,
+        "Latitude": 52648,
+        "Longitude": 101928,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26097664,
+                "Y": 13481985,
+                "IsExterior": 32768,
+                "Unknown2": 1098,
+                "LocationId": 15122,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawking Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 5314,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15122,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 21014,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10848,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 29208,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 960,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 26284,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31627,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14385,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28303,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29502,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 15122,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6436,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 15122,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawking Hall",
+            "MapId": 88796,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1098
+}

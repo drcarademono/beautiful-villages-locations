@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Copperton Cemetery",
+    "RegionName": "Dwynnen",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 722583379,
+        "Latitude": 49320,
+        "Longitude": 65960,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16889856,
+                "Y": 12630017,
+                "IsExterior": 32768,
+                "Unknown2": 689,
+                "LocationId": 16797,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Copperton Cemetery"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Copperton Cemetery",
+            "MapId": 114515,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS33.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 16889856,
+                "Y": 12630017,
+                "IsExterior": 0,
+                "Unknown2": 129,
+                "LocationId": 16798,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16797,
+                "LocationName": "The Copperton Cemetery"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 689
+}

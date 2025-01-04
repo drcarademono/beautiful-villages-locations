@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Vofyler Grange",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 193301694,
+        "Latitude": 17448,
+        "Longitude": 90920,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23279616,
+                "Y": 4470785,
+                "IsExterior": 32768,
+                "Unknown2": 184,
+                "LocationId": 25269,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Vofyler Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 32557,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25269,
+                "BuildingType": "House1",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Vofyler Grange",
+            "MapId": 363710,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 184
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Ashhart Burial Ground",
+    "RegionName": "Tulune",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 82969623,
+        "Latitude": 47016,
+        "Longitude": 15272,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3913728,
+                "Y": 12040193,
+                "IsExterior": 32768,
+                "Unknown2": 79,
+                "LocationId": 17712,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Ashhart Burial Ground"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Ashhart Burial Ground",
+            "MapId": 132119,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS21.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 3913728,
+                "Y": 12040193,
+                "IsExterior": 0,
+                "Unknown2": 17,
+                "LocationId": 17713,
+                "IsInterior": 1,
+                "ExteriorLocationId": 17712,
+                "LocationName": "The Ashhart Burial Ground"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 186,
+    "RegionIndex": 58,
+    "LocationIndex": 79
+}

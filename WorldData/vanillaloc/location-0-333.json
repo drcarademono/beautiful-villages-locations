@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Green Scorpion Lodge",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 349672193,
+        "Latitude": 424,
+        "Longitude": 49320,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12630016,
+                "Y": 112641,
+                "IsExterior": 32768,
+                "Unknown2": 333,
+                "LocationId": 29407,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Green Scorpion Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 14693,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29407,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 23412,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 29407,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24637,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 29407,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "24637",
+            "MapId": 496385,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 333
+}

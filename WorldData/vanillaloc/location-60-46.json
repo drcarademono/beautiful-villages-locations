@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Fortress of Gaersley",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 48296789,
+        "Latitude": 55976,
+        "Longitude": 37544,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9615360,
+                "Y": 14333953,
+                "IsExterior": 32768,
+                "Unknown2": 46,
+                "LocationId": 13333,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fortress of Gaersley"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Fortress of Gaersley",
+            "MapId": 62293,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA22.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 9615360,
+                "Y": 14333953,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 13334,
+                "IsInterior": 1,
+                "ExteriorLocationId": 13333,
+                "LocationName": "The Fortress of Gaersley"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000050.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 46
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Masoleum of Balthezion",
+    "RegionName": "Anticlere",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 508718824,
+        "Latitude": 43560,
+        "Longitude": 59432,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15218688,
+                "Y": 11155457,
+                "IsExterior": 32768,
+                "Unknown2": 485,
+                "LocationId": 19272,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Masoleum of Balthezion"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Masoleum of Balthezion",
+            "MapId": 159464,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 15218688,
+                "Y": 11155457,
+                "IsExterior": 0,
+                "Unknown2": 118,
+                "LocationId": 19273,
+                "IsInterior": 1,
+                "ExteriorLocationId": 19272,
+                "LocationName": "The Masoleum of Balthezion"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 485
+}

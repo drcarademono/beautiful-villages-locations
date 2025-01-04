@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The House of Corrivor",
+    "RegionName": "Ephesus",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 5667793,
+        "Latitude": 9640,
+        "Longitude": 116904,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29931520,
+                "Y": 2471937,
+                "IsExterior": 32768,
+                "Unknown2": 5,
+                "LocationId": 27362,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The House of Corrivor"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The House of Corrivor",
+            "MapId": 424913,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA18.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 29931520,
+                "Y": 2471937,
+                "IsExterior": 0,
+                "Unknown2": 2,
+                "LocationId": 27363,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27362,
+                "LocationName": "The House of Corrivor"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000024.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 5
+}

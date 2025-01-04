@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Unfortunate Chasm Lodge",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 68476969,
+        "Latitude": 23080,
+        "Longitude": 67752,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17348608,
+                "Y": 5912577,
+                "IsExterior": 32768,
+                "Unknown2": 65,
+                "LocationId": 23739,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Unfortunate Chasm Lodge"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 31370,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 28150,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20542,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10589,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 23739,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20431,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23739,
+                "BuildingType": "House3",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12860,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29608,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6471,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 23739,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25511,
+                "FactionId": 510,
+                "Sector": 63,
+                "LocationId": 23739,
+                "BuildingType": "HouseForSale",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 9312,
+                "FactionId": 510,
+                "Sector": 67,
+                "LocationId": 23739,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 8591,
+                "FactionId": 510,
+                "Sector": 84,
+                "LocationId": 23739,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "9312",
+            "MapId": 319529,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 65
+}

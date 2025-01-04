@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Boorgur Cabin",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 48694066,
+        "Latitude": 5160,
+        "Longitude": 73000,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18692096,
+                "Y": 1325057,
+                "IsExterior": 32768,
+                "Unknown2": 46,
+                "LocationId": 28322,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Boorgur Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 32383,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28322,
+                "BuildingType": "House3",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Boorgur Cabin",
+            "MapId": 459570,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 225,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 139,
+    "RegionIndex": 11,
+    "LocationIndex": 46
+}

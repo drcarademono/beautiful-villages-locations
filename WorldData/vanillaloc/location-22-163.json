@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Boallt Hall",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 171213651,
+        "Latitude": 26152,
+        "Longitude": 97704,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25016320,
+                "Y": 6699009,
+                "IsExterior": 32768,
+                "Unknown2": 163,
+                "LocationId": 23101,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Boallt Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 11929,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23101,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 25280,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6582,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26780,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13781,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24699,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 24335,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12758,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23101,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17850,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23101,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Boallt Hall",
+            "MapId": 295763,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 163
+}

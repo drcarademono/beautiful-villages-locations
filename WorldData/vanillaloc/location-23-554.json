@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Trististair Laboratory",
+    "RegionName": "Wayrest",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 581151992,
+        "Latitude": 33192,
+        "Longitude": 113704,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Laboratory",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29112320,
+                "Y": 8501249,
+                "IsExterior": 32768,
+                "Unknown2": 554,
+                "LocationId": 22320,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Trististair Laboratory"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Trististair Laboratory",
+            "MapId": 240888,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA12.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 29112320,
+                "Y": 8501249,
+                "IsExterior": 0,
+                "Unknown2": 121,
+                "LocationId": 22321,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22320,
+                "LocationName": "Trististair Laboratory"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 554
+}

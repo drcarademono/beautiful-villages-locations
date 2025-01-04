@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Graves of Flirt",
+    "RegionName": "Sentinel",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 568747611,
+        "Latitude": 10280,
+        "Longitude": 53672,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13744128,
+                "Y": 2635777,
+                "IsExterior": 32768,
+                "Unknown2": 542,
+                "LocationId": 27181,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Graves of Flirt"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Graves of Flirt",
+            "MapId": 419419,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS22.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 13744128,
+                "Y": 2635777,
+                "IsExterior": 0,
+                "Unknown2": 109,
+                "LocationId": 27182,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27181,
+                "LocationName": "The Graves of Flirt"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 542
+}

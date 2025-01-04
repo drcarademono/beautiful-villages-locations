@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Tower Thifyl'kern",
+    "RegionName": "Ephesus",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 103208295,
+        "Latitude": 6696,
+        "Longitude": 108456,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "Coven",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27768832,
+                "Y": 1718273,
+                "IsExterior": 32768,
+                "Unknown2": 98,
+                "LocationId": 27978,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tower Thifyl'kern"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Tower Thifyl'kern",
+            "MapId": 447847,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27768832,
+                "Y": 1718273,
+                "IsExterior": 0,
+                "Unknown2": 25,
+                "LocationId": 27979,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27978,
+                "LocationName": "Tower Thifyl'kern"
+            }
+        },
+        "Header": {
+            "BlockCount": 14
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000060.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 98
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Demiblothessa Minster",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 177654661,
+        "Latitude": 6952,
+        "Longitude": 40616,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10401792,
+                "Y": 1783809,
+                "IsExterior": 32768,
+                "Unknown2": 169,
+                "LocationId": 27912,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Demiblothessa Minster"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Demiblothessa Minster",
+            "MapId": 445317,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA10.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 10401792,
+                "Y": 1783809,
+                "IsExterior": 0,
+                "Unknown2": 84,
+                "LocationId": 27913,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27912,
+                "LocationName": "Demiblothessa Minster"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000077.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 169
+}

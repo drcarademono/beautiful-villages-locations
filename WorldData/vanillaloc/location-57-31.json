@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Gaersley Hovel",
+    "RegionName": "Gavaudon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 32729837,
+        "Latitude": 35368,
+        "Longitude": 125608,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 32159744,
+                "Y": 9058305,
+                "IsExterior": 32768,
+                "Unknown2": 31,
+                "LocationId": 22047,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Gaersley Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 10248,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22047,
+                "BuildingType": "House3",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Gaersley Hovel",
+            "MapId": 223981,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 185,
+    "RegionIndex": 57,
+    "LocationIndex": 31
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Mastering Hall",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 42084302,
+        "Latitude": 45864,
+        "Longitude": 33576,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8599552,
+                "Y": 11745281,
+                "IsExterior": 32768,
+                "Unknown2": 40,
+                "LocationId": 18322,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mastering Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 21274,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 12383,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 14598,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 29930,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 18322,
+                "BuildingType": "House3",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 29548,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 1220,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 18223,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 18322,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4801,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 18322,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17323,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 18322,
+                "BuildingType": "House1",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mastering Hall",
+            "MapId": 141262,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 40
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Jubilon Cloister",
+    "RegionName": "Sentinel",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 260432254,
+        "Latitude": 14632,
+        "Longitude": 52008,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13318144,
+                "Y": 3749889,
+                "IsExterior": 32768,
+                "Unknown2": 248,
+                "LocationId": 26141,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Jubilon Cloister"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Jubilon Cloister",
+            "MapId": 385406,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA15.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 13318144,
+                "Y": 3749889,
+                "IsExterior": 0,
+                "Unknown2": 42,
+                "LocationId": 26142,
+                "IsInterior": 1,
+                "ExteriorLocationId": 26141,
+                "LocationName": "The Jubilon Cloister"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000071.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 248
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Hold of Woodfield",
+    "RegionName": "Ykalon",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 245387101,
+        "Latitude": 61352,
+        "Longitude": 40616,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "BarbarianStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10401792,
+                "Y": 15710209,
+                "IsExterior": 32768,
+                "Unknown2": 234,
+                "LocationId": 10945,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hold of Woodfield"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Hold of Woodfield",
+            "MapId": 20317,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 10401792,
+                "Y": 15710209,
+                "IsExterior": 0,
+                "Unknown2": 56,
+                "LocationId": 10946,
+                "IsInterior": 1,
+                "ExteriorLocationId": 10945,
+                "LocationName": "The Hold of Woodfield"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000064.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 234
+}

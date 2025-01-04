@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Kingham Hall",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 39971281,
+        "Latitude": 47912,
+        "Longitude": 50344,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12892160,
+                "Y": 12269569,
+                "IsExterior": 32768,
+                "Unknown2": 38,
+                "LocationId": 17373,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kingham Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 11358,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 16158,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 16854,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 24167,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17373,
+                "BuildingType": "House3",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 15480,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 25384,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 9383,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 17373,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 800,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17373,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 1023,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 17373,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingham Hall",
+            "MapId": 125393,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 38
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tombs of Wickhouse",
+    "RegionName": "Bhoriane",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 82947149,
+        "Latitude": 49960,
+        "Longitude": 82600,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21149696,
+                "Y": 12793857,
+                "IsExterior": 32768,
+                "Unknown2": 79,
+                "LocationId": 16470,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tombs of Wickhouse"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tombs of Wickhouse",
+            "MapId": 109645,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS20.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 21149696,
+                "Y": 12793857,
+                "IsExterior": 0,
+                "Unknown2": 20,
+                "LocationId": 16471,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16470,
+                "LocationName": "The Tombs of Wickhouse"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 164,
+    "RegionIndex": 36,
+    "LocationIndex": 79
+}

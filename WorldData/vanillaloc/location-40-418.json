@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tower of Mastersmith",
+    "RegionName": "Ykalon",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 438339055,
+        "Latitude": 59560,
+        "Longitude": 36776,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9418752,
+                "Y": 15251457,
+                "IsExterior": 32768,
+                "Unknown2": 418,
+                "LocationId": 11710,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tower of Mastersmith"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tower of Mastersmith",
+            "MapId": 34287,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA32.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 9418752,
+                "Y": 15251457,
+                "IsExterior": 0,
+                "Unknown2": 103,
+                "LocationId": 11711,
+                "IsInterior": 1,
+                "ExteriorLocationId": 11710,
+                "LocationName": "The Tower of Mastersmith"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 418
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Ashsly Hall",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1386443677,
+        "Latitude": 34984,
+        "Longitude": 26280,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6731776,
+                "Y": 8960001,
+                "IsExterior": 32768,
+                "Unknown2": 1322,
+                "LocationId": 22110,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ashsly Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 14493,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 10290,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 12926,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12950,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 22110,
+                "BuildingType": "House3",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 24269,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29416,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 30643,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 22110,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 2874,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 22110,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 31202,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 22110,
+                "BuildingType": "House1",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ashsly Hall",
+            "MapId": 226205,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 6,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 17,
+    "LocationIndex": 1322
+}

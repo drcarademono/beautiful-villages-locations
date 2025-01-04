@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Wickford Manor",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 566341319,
+        "Latitude": 49832,
+        "Longitude": 35752,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9156608,
+                "Y": 12761089,
+                "IsExterior": 32768,
+                "Unknown2": 540,
+                "LocationId": 16505,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wickford Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 18755,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16505,
+                "BuildingType": "House1",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10908,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 5036,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19125,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 576,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31821,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16100,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17306,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 8772,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 21745,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 16505,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 7926,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 16505,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wickford Manor",
+            "MapId": 110279,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 540
+}

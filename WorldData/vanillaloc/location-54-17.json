@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Butht Burial Ground",
+    "RegionName": "Santaki",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 18258430,
+        "Latitude": 8616,
+        "Longitude": 81704,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20920320,
+                "Y": 2209793,
+                "IsExterior": 32768,
+                "Unknown2": 17,
+                "LocationId": 27580,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Butht Burial Ground"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Butht Burial Ground",
+            "MapId": 432638,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS37.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 20920320,
+                "Y": 2209793,
+                "IsExterior": 0,
+                "Unknown2": 7,
+                "LocationId": 27581,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27580,
+                "LocationName": "The Butht Burial Ground"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 182,
+    "RegionIndex": 54,
+    "LocationIndex": 17
+}

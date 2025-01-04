@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Grave of Lithivaraus",
+    "RegionName": "Glenpoint",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 446840513,
+        "Latitude": 45096,
+        "Longitude": 17576,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4503552,
+                "Y": 11548673,
+                "IsExterior": 32768,
+                "Unknown2": 426,
+                "LocationId": 18619,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Grave of Lithivaraus"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Grave of Lithivaraus",
+            "MapId": 147137,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA10.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 4503552,
+                "Y": 11548673,
+                "IsExterior": 0,
+                "Unknown2": 135,
+                "LocationId": 18620,
+                "IsInterior": 1,
+                "ExteriorLocationId": 18619,
+                "LocationName": "The Grave of Lithivaraus"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000075.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 426
+}

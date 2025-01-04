@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Wickcroft Manor",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 270643010,
+        "Latitude": 49832,
+        "Longitude": 51496,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13187072,
+                "Y": 12761089,
+                "IsExterior": 32768,
+                "Unknown2": 258,
+                "LocationId": 16518,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wickcroft Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 9031,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13684,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 9584,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 28155,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 16518,
+                "BuildingType": "House3",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 2525,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 17922,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 14813,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 16518,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31955,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 16518,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 7052,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 16518,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wickcroft Manor",
+            "MapId": 110402,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 258
+}

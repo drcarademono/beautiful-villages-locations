@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Dispiaminxivah Hole",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 1574041438,
+        "Latitude": 47528,
+        "Longitude": 110376,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28260352,
+                "Y": 12171265,
+                "IsExterior": 32768,
+                "Unknown2": 1501,
+                "LocationId": 17558,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dispiaminxivah Hole"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Dispiaminxivah Hole",
+            "MapId": 128862,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 28260352,
+                "Y": 12171265,
+                "IsExterior": 0,
+                "Unknown2": 559,
+                "LocationId": 17559,
+                "IsInterior": 1,
+                "ExteriorLocationId": 17558,
+                "LocationName": "The Dispiaminxivah Hole"
+            }
+        },
+        "Header": {
+            "BlockCount": 14
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000017.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1501
+}

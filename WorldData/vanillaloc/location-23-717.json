@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Tricerrock's Web",
+    "RegionName": "Wayrest",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 752081879,
+        "Latitude": 31656,
+        "Longitude": 113576,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "SpiderNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29079552,
+                "Y": 8108033,
+                "IsExterior": 32768,
+                "Unknown2": 717,
+                "LocationId": 22521,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tricerrock's Web"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Tricerrock's Web",
+            "MapId": 252887,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 29079552,
+                "Y": 8108033,
+                "IsExterior": 0,
+                "Unknown2": 157,
+                "LocationId": 22522,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22521,
+                "LocationName": "Tricerrock's Web"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000071.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 717
+}

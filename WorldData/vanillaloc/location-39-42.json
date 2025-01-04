@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Castle Hawkford",
+    "RegionName": "Urvaius",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 44095670,
+        "Latitude": 56872,
+        "Longitude": 61224,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "Prison",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15677440,
+                "Y": 14563329,
+                "IsExterior": 32768,
+                "Unknown2": 42,
+                "LocationId": 12943,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Castle Hawkford"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Castle Hawkford",
+            "MapId": 55478,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA19.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 15677440,
+                "Y": 14563329,
+                "IsExterior": 0,
+                "Unknown2": 9,
+                "LocationId": 12944,
+                "IsInterior": 1,
+                "ExteriorLocationId": 12943,
+                "LocationName": "Castle Hawkford"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000047.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 42
+}

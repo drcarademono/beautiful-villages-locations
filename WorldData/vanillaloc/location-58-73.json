@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The House of Gaerham",
+    "RegionName": "Tulune",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 76674120,
+        "Latitude": 47528,
+        "Longitude": 9256,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 2373632,
+                "Y": 12171265,
+                "IsExterior": 32768,
+                "Unknown2": 73,
+                "LocationId": 17511,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The House of Gaerham"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The House of Gaerham",
+            "MapId": 128072,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 2373632,
+                "Y": 12171265,
+                "IsExterior": 0,
+                "Unknown2": 15,
+                "LocationId": 17512,
+                "IsInterior": 1,
+                "ExteriorLocationId": 17511,
+                "LocationName": "The House of Gaerham"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000021.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 186,
+    "RegionIndex": 58,
+    "LocationIndex": 73
+}

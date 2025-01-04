@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Copperhart Tower",
+    "RegionName": "Phrygias",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 78656714,
+        "Latitude": 62248,
+        "Longitude": 65832,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "Laboratory",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16857088,
+                "Y": 15939585,
+                "IsExterior": 32768,
+                "Unknown2": 75,
+                "LocationId": 10574,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Copperhart Tower"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Copperhart Tower",
+            "MapId": 13514,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA28.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 16857088,
+                "Y": 15939585,
+                "IsExterior": 0,
+                "Unknown2": 13,
+                "LocationId": 10575,
+                "IsInterior": 1,
+                "ExteriorLocationId": 10574,
+                "LocationName": "Copperhart Tower"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000083.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 166,
+    "RegionIndex": 38,
+    "LocationIndex": 75
+}

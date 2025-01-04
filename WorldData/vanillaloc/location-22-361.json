@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Boashki's Place",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 378854690,
+        "Latitude": 23208,
+        "Longitude": 96552,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24721408,
+                "Y": 5945345,
+                "IsExterior": 32768,
+                "Unknown2": 361,
+                "LocationId": 23722,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Boashki's Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23276,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23722,
+                "BuildingType": "House3",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Boashki's Place",
+            "MapId": 318754,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 361
+}

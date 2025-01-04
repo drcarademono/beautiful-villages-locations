@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Shrelde Hall",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 154477164,
+        "Latitude": 20904,
+        "Longitude": 63016,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16136192,
+                "Y": 5355521,
+                "IsExterior": 32768,
+                "Unknown2": 147,
+                "LocationId": 24277,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Shrelde Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26712,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24277,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20843,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 7867,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 680,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28731,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 2789,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8681,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10246,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31307,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 7156,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24277,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14119,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24277,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Shrelde Hall",
+            "MapId": 336492,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 147
+}

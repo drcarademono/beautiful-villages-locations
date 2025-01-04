@@ -1,0 +1,155 @@
+{
+    "Loaded": true,
+    "Name": "Makawan",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 540427998,
+        "Latitude": 11296,
+        "Longitude": 45864,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11745280,
+                "Y": 2895873,
+                "IsExterior": 32768,
+                "Unknown2": 515,
+                "LocationId": 26948,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Makawan"
+            }
+        },
+        "BuildingCount": 10,
+        "Buildings": [
+            {
+                "NameSeed": 13380,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 3258,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19167,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21845,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4114,
+                "FactionId": 510,
+                "Sector": 27,
+                "LocationId": 26948,
+                "BuildingType": "GeneralStore",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12745,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3994,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 10186,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26055,
+                "FactionId": 0,
+                "Sector": 53,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29097,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 26948,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Makawan",
+            "MapId": 411358,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS00.RMB",
+                "GENRGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 515
+}

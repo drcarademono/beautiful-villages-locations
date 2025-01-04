@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Mug Tavern",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 123056817,
+        "Latitude": 16168,
+        "Longitude": 54440,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13940736,
+                "Y": 4143105,
+                "IsExterior": 32768,
+                "Unknown2": 117,
+                "LocationId": 25697,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Mug Tavern"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 25815,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25697,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21141,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 25697,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 18747,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 25697,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "18747",
+            "MapId": 373425,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 8,
+            "BlockNames": [
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 117
+}

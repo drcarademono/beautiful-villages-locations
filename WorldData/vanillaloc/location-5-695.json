@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Fortress of Hearthwing",
+    "RegionName": "Dwynnen",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 728876830,
+        "Latitude": 49064,
+        "Longitude": 65320,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16726016,
+                "Y": 12564481,
+                "IsExterior": 32768,
+                "Unknown2": 695,
+                "LocationId": 16904,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fortress of Hearthwing"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Fortress of Hearthwing",
+            "MapId": 116510,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 16726016,
+                "Y": 12564481,
+                "IsExterior": 0,
+                "Unknown2": 133,
+                "LocationId": 16905,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16904,
+                "LocationName": "The Fortress of Hearthwing"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000017.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 695
+}

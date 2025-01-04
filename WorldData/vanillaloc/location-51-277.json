@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Sharcer Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 290797468,
+        "Latitude": 20264,
+        "Longitude": 117288,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30029824,
+                "Y": 5191681,
+                "IsExterior": 32768,
+                "Unknown2": 277,
+                "LocationId": 24479,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Sharcer Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 18819,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24479,
+                "BuildingType": "House1",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21315,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 1432,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29888,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 20863,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 897,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 15329,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 22127,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17880,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6129,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24479,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 14824,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24479,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Sharcer Manor",
+            "MapId": 341916,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 4,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 51,
+    "LocationIndex": 277
+}

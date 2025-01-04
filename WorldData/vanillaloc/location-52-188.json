@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Kragten Graveyard",
+    "RegionName": "Mournoth",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 197455271,
+        "Latitude": 22696,
+        "Longitude": 125864,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 32225280,
+                "Y": 5814273,
+                "IsExterior": 32768,
+                "Unknown2": 188,
+                "LocationId": 23851,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kragten Graveyard"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Kragten Graveyard",
+            "MapId": 322983,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 32225280,
+                "Y": 5814273,
+                "IsExterior": 0,
+                "Unknown2": 43,
+                "LocationId": 23852,
+                "IsInterior": 1,
+                "ExteriorLocationId": 23851,
+                "LocationName": "The Kragten Graveyard"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000012.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 188
+}

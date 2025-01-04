@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Balthanaus Hall",
+    "RegionName": "Kambria",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 262228613,
+        "Latitude": 53160,
+        "Longitude": 78504,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20101120,
+                "Y": 13613057,
+                "IsExterior": 32768,
+                "Unknown2": 250,
+                "LocationId": 14843,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Balthanaus Hall"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Balthanaus Hall",
+            "MapId": 84613,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 20101120,
+                "Y": 13613057,
+                "IsExterior": 0,
+                "Unknown2": 86,
+                "LocationId": 14844,
+                "IsInterior": 1,
+                "ExteriorLocationId": 14843,
+                "LocationName": "Balthanaus Hall"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000078.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 165,
+    "RegionIndex": 37,
+    "LocationIndex": 250
+}

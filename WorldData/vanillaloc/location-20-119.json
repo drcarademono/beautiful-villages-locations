@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Cavern of Homuneusuna",
+    "RegionName": "Sentinel",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 125153973,
+        "Latitude": 16168,
+        "Longitude": 54952,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14071808,
+                "Y": 4143105,
+                "IsExterior": 32768,
+                "Unknown2": 119,
+                "LocationId": 25699,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Cavern of Homuneusuna"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Cavern of Homuneusuna",
+            "MapId": 373429,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 8,
+            "BlockNames": [
+                "DUNGAA13.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 14071808,
+                "Y": 4143105,
+                "IsExterior": 0,
+                "Unknown2": 23,
+                "LocationId": 25700,
+                "IsInterior": 1,
+                "ExteriorLocationId": 25699,
+                "LocationName": "The Cavern of Homuneusuna"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000026.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 119
+}

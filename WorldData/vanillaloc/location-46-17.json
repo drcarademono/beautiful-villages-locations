@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Castle Chevrn",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 18231074,
+        "Latitude": 12072,
+        "Longitude": 36136,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "HarpyNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9254912,
+                "Y": 3094529,
+                "IsExterior": 32768,
+                "Unknown2": 17,
+                "LocationId": 26762,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Castle Chevrn"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Castle Chevrn",
+            "MapId": 405282,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA15.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 9254912,
+                "Y": 3094529,
+                "IsExterior": 0,
+                "Unknown2": 3,
+                "LocationId": 26763,
+                "IsInterior": 1,
+                "ExteriorLocationId": 26762,
+                "LocationName": "Castle Chevrn"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000089.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 17
+}

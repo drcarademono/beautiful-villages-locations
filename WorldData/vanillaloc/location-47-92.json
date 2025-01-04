@@ -1,0 +1,229 @@
+{
+    "Loaded": true,
+    "Name": "Loaga",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 96855514,
+        "Latitude": 14496,
+        "Longitude": 66848,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16793856
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17117184,
+                "Y": 3715073,
+                "IsExterior": 32768,
+                "Unknown2": 92,
+                "LocationId": 26178,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Loaga"
+            }
+        },
+        "BuildingCount": 19,
+        "Buildings": [
+            {
+                "NameSeed": 25231,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 23226,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 26178,
+                "BuildingType": "HouseForSale",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8080,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9001,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17904,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 26178,
+                "BuildingType": "GeneralStore",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7322,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 26178,
+                "BuildingType": "ClothingStore",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 18018,
+                "FactionId": 0,
+                "Sector": 62,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 30476,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 835,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 23759,
+                "FactionId": 0,
+                "Sector": 84,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 19294,
+                "FactionId": 0,
+                "Sector": 94,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 30622,
+                "FactionId": 0,
+                "Sector": 97,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22109,
+                "FactionId": 0,
+                "Sector": 101,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7929,
+                "FactionId": 0,
+                "Sector": 106,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 9089,
+                "FactionId": 0,
+                "Sector": 111,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13232,
+                "FactionId": 0,
+                "Sector": 115,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28906,
+                "FactionId": 510,
+                "Sector": 120,
+                "LocationId": 26178,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 30244,
+                "FactionId": 510,
+                "Sector": 146,
+                "LocationId": 26178,
+                "BuildingType": "HouseForSale",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 9242,
+                "FactionId": 0,
+                "Sector": 151,
+                "LocationId": 26178,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Loaga",
+            "MapId": 386522,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS02.RMB",
+                "CLOTGS01.RMB",
+                "TVRNGS01.RMB",
+                "RESIGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 92
+}

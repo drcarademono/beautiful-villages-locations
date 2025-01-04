@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Feather and Dog Tavern",
+    "RegionName": "Pothago",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 5651115,
+        "Latitude": 11688,
+        "Longitude": 30120,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7714816,
+                "Y": 2996225,
+                "IsExterior": 32768,
+                "Unknown2": 5,
+                "LocationId": 26851,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Feather and Dog Tavern"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 17228,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26851,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 29134,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26851,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29932,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 26851,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2483,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26851,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17004,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 26851,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "17004",
+            "MapId": 408235,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 8,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 173,
+    "RegionIndex": 45,
+    "LocationIndex": 5
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Ashford Cemetery",
+    "RegionName": "Menevia",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 153288913,
+        "Latitude": 38824,
+        "Longitude": 104616,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26785792,
+                "Y": 9943041,
+                "IsExterior": 32768,
+                "Unknown2": 146,
+                "LocationId": 21017,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Ashford Cemetery"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Ashford Cemetery",
+            "MapId": 196817,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GRVEAS21.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 26785792,
+                "Y": 9943041,
+                "IsExterior": 0,
+                "Unknown2": 26,
+                "LocationId": 21018,
+                "IsInterior": 1,
+                "ExteriorLocationId": 21017,
+                "LocationName": "The Ashford Cemetery"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 161,
+    "RegionIndex": 33,
+    "LocationIndex": 146
+}

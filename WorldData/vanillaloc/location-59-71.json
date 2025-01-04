@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Grave of Vladingezzar",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 74527002,
+        "Latitude": 53928,
+        "Longitude": 13608,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3487744,
+                "Y": 13809665,
+                "IsExterior": 32768,
+                "Unknown2": 71,
+                "LocationId": 14347,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Grave of Vladingezzar"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Grave of Vladingezzar",
+            "MapId": 78106,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 3487744,
+                "Y": 13809665,
+                "IsExterior": 0,
+                "Unknown2": 18,
+                "LocationId": 14348,
+                "IsInterior": 1,
+                "ExteriorLocationId": 14347,
+                "LocationName": "The Grave of Vladingezzar"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 71
+}

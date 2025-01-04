@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Masterham Cabin",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 480478730,
+        "Latitude": 34472,
+        "Longitude": 118056,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30226432,
+                "Y": 8828929,
+                "IsExterior": 32768,
+                "Unknown2": 458,
+                "LocationId": 22187,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Masterham Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 13781,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22187,
+                "BuildingType": "House3",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Masterham Cabin",
+            "MapId": 230922,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 458
+}

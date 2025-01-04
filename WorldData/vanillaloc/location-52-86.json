@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Kurdten Orchard",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 90479431,
+        "Latitude": 25384,
+        "Longitude": 114600,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29341696,
+                "Y": 6502401,
+                "IsExterior": 32768,
+                "Unknown2": 86,
+                "LocationId": 23273,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kurdten Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 12628,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23273,
+                "BuildingType": "House2",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kurdten Orchard",
+            "MapId": 301895,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 86
+}

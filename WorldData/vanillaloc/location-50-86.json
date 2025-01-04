@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Chuld Quarry",
+    "RegionName": "Satakalaam",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 90479368,
+        "Latitude": 25384,
+        "Longitude": 106536,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Mine",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27277312,
+                "Y": 6502401,
+                "IsExterior": 32768,
+                "Unknown2": 86,
+                "LocationId": 23269,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Chuld Quarry"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Chuld Quarry",
+            "MapId": 301832,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA17.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27277312,
+                "Y": 6502401,
+                "IsExterior": 0,
+                "Unknown2": 25,
+                "LocationId": 23270,
+                "IsInterior": 1,
+                "ExteriorLocationId": 23269,
+                "LocationName": "The Chuld Quarry"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 86
+}

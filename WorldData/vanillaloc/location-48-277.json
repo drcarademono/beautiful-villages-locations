@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Old Nharchte Shack",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 290818108,
+        "Latitude": 17576,
+        "Longitude": 71208,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18233344,
+                "Y": 4503553,
+                "IsExterior": 32768,
+                "Unknown2": 277,
+                "LocationId": 25203,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Old Nharchte Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 25308,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25203,
+                "BuildingType": "House3",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Nharchte Shack",
+            "MapId": 362556,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 277
+}

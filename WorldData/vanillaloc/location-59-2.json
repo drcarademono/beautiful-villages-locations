@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Convocation of Vyctyna",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 2149258,
+        "Latitude": 57256,
+        "Longitude": 13608,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "BarbarianStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3487744,
+                "Y": 14661633,
+                "IsExterior": 32768,
+                "Unknown2": 2,
+                "LocationId": 12730,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Convocation of Vyctyna"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Convocation of Vyctyna",
+            "MapId": 52106,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA17.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 3487744,
+                "Y": 14661633,
+                "IsExterior": 0,
+                "Unknown2": 1,
+                "LocationId": 12731,
+                "IsInterior": 1,
+                "ExteriorLocationId": 12730,
+                "LocationName": "The Convocation of Vyctyna"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000084.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 2
+}

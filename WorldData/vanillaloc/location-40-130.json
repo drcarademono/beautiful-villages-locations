@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Woodhart Cabin",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 136327193,
+        "Latitude": 62376,
+        "Longitude": 40104,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10270720,
+                "Y": 15972353,
+                "IsExterior": 32768,
+                "Unknown2": 130,
+                "LocationId": 10510,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Woodhart Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 13781,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10510,
+                "BuildingType": "House3",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Woodhart Cabin",
+            "MapId": 12313,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 130
+}

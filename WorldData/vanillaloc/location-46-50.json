@@ -1,0 +1,139 @@
+{
+    "Loaded": true,
+    "Name": "Wadijuthureg",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 52844114,
+        "Latitude": 10792,
+        "Longitude": 40224,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10301440,
+                "Y": 2766849,
+                "IsExterior": 32768,
+                "Unknown2": 50,
+                "LocationId": 27064,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wadijuthureg"
+            }
+        },
+        "BuildingCount": 8,
+        "Buildings": [
+            {
+                "NameSeed": 7950,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27064,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16225,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 27064,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13968,
+                "FactionId": 0,
+                "Sector": 19,
+                "LocationId": 27064,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5959,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 27064,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 10113,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 27064,
+                "BuildingType": "GeneralStore",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22903,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 27064,
+                "BuildingType": "HouseForSale",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 29288,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 27064,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 22414,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 27064,
+                "BuildingType": "House2",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wadijuthureg",
+            "MapId": 415314,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS02.RMB",
+                "RESIGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 50
+}

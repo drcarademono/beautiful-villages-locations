@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Mouse and Cat Pub",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 349561405,
+        "Latitude": 14632,
+        "Longitude": 76456,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19576832,
+                "Y": 3749889,
+                "IsExterior": 32768,
+                "Unknown2": 333,
+                "LocationId": 26151,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Mouse and Cat Pub"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 12003,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26151,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8811,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26151,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 4543,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 26151,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25836,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26151,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 13084,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 26151,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "13084",
+            "MapId": 385597,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 333
+}

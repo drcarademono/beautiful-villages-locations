@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Silver Goblin Hostel",
+    "RegionName": "Kambria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 208745187,
+        "Latitude": 53928,
+        "Longitude": 72104,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18462720,
+                "Y": 13809665,
+                "IsExterior": 32768,
+                "Unknown2": 199,
+                "LocationId": 14391,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Silver Goblin Hostel"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 9824,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 14391,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15173,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 14391,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28494,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 14391,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12525,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 14391,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7987,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8637,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 28627,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2784,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9860,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 14391,
+                "BuildingType": "House3",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 18007,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 30835,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 14391,
+                "BuildingType": "House2",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "9824",
+            "MapId": 78563,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 165,
+    "RegionIndex": 37,
+    "LocationIndex": 199
+}

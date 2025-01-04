@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Fortress of Nhorchen",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 267863330,
+        "Latitude": 2984,
+        "Longitude": 57640,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "GiantStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14759936,
+                "Y": 768001,
+                "IsExterior": 32768,
+                "Unknown2": 255,
+                "LocationId": 28826,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fortress of Nhorchen"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Fortress of Nhorchen",
+            "MapId": 476450,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA28.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 14759936,
+                "Y": 768001,
+                "IsExterior": 0,
+                "Unknown2": 114,
+                "LocationId": 28827,
+                "IsInterior": 1,
+                "ExteriorLocationId": 28826,
+                "LocationName": "The Fortress of Nhorchen"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 255
+}

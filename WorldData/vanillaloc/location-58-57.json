@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Mastering Court",
+    "RegionName": "Tulune",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 59890923,
+        "Latitude": 48296,
+        "Longitude": 11688,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 2996224,
+                "Y": 12367873,
+                "IsExterior": 32768,
+                "Unknown2": 57,
+                "LocationId": 17184,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mastering Court"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 17864,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5226,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 32057,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 32034,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17184,
+                "BuildingType": "House3",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 7582,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 21143,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 17184,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 2138,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17184,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20960,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 17184,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mastering Court",
+            "MapId": 122091,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 186,
+    "RegionIndex": 58,
+    "LocationIndex": 57
+}

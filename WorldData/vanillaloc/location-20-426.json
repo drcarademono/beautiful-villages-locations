@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old V'orc-e's Shack",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 447093790,
+        "Latitude": 12712,
+        "Longitude": 53032,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13580288,
+                "Y": 3258369,
+                "IsExterior": 32768,
+                "Unknown2": 426,
+                "LocationId": 26624,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old V'orc-e's Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 4701,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26624,
+                "BuildingType": "House3",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old V'orc-e's Shack",
+            "MapId": 400414,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 426
+}

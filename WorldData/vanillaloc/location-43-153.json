@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Castle T'ich",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 160919313,
+        "Latitude": 1576,
+        "Longitude": 23720,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "BarbarianStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6076416,
+                "Y": 407553,
+                "IsExterior": 32768,
+                "Unknown2": 153,
+                "LocationId": 29154,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Castle T'ich"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Castle T'ich",
+            "MapId": 487185,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 6076416,
+                "Y": 407553,
+                "IsExterior": 0,
+                "Unknown2": 44,
+                "LocationId": 29155,
+                "IsInterior": 1,
+                "ExteriorLocationId": 29154,
+                "LocationName": "Castle T'ich"
+            }
+        },
+        "Header": {
+            "BlockCount": 12
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000054.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 153
+}

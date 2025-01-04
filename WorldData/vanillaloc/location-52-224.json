@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Mirtom Manor",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 235209970,
+        "Latitude": 21928,
+        "Longitude": 121128,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31012864,
+                "Y": 5617665,
+                "IsExterior": 32768,
+                "Unknown2": 224,
+                "LocationId": 24040,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mirtom Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 13770,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12473,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3367,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7849,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 24040,
+                "BuildingType": "House3",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 768,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17688,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20262,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 24040,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 800,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 24040,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 22657,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 24040,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mirtom Manor",
+            "MapId": 328946,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 224
+}

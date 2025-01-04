@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Woodfield Grange",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 161577831,
+        "Latitude": 51496,
+        "Longitude": 16296,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4175872,
+                "Y": 13187073,
+                "IsExterior": 32768,
+                "Unknown2": 154,
+                "LocationId": 15622,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodfield Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 4682,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15622,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodfield Grange",
+            "MapId": 97127,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 154
+}

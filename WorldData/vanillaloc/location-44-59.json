@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Flying Giant Lodge",
+    "RegionName": "Kairou",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 62313197,
+        "Latitude": 6696,
+        "Longitude": 27304,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6993920,
+                "Y": 1718273,
+                "IsExterior": 32768,
+                "Unknown2": 59,
+                "LocationId": 27957,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Flying Giant Lodge"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 2398,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27957,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29328,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27957,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 827,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 27957,
+                "BuildingType": "HouseForSale",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 25591,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 27957,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "25591",
+            "MapId": 447213,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 59
+}

@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Howling Pit Hostel",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 28718877,
+        "Latitude": 11816,
+        "Longitude": 41640,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10663936,
+                "Y": 3028993,
+                "IsExterior": 32768,
+                "Unknown2": 27,
+                "LocationId": 26832,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Howling Pit Hostel"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 28176,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26832,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8140,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26832,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7540,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 26832,
+                "BuildingType": "HouseForSale",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 20238,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 26832,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "20238",
+            "MapId": 407325,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 27
+}

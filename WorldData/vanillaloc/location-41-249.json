@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Greening Hall",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 261204805,
+        "Latitude": 49960,
+        "Longitude": 48808,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12498944,
+                "Y": 12793857,
+                "IsExterior": 32768,
+                "Unknown2": 249,
+                "LocationId": 16457,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Greening Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12327,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16457,
+                "BuildingType": "House1",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 20753,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13207,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 27342,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 28883,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21787,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 1691,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5897,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8964,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 30342,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 16457,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 30563,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 16457,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Greening Hall",
+            "MapId": 109381,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 249
+}

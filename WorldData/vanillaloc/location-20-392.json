@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Flying Jug Lodge",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 411439225,
+        "Latitude": 13096,
+        "Longitude": 55464,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14202880,
+                "Y": 3356673,
+                "IsExterior": 32768,
+                "Unknown2": 392,
+                "LocationId": 26529,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Flying Jug Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 12557,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26529,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 23282,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 26529,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27608,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 26529,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "27608",
+            "MapId": 397433,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 392
+}

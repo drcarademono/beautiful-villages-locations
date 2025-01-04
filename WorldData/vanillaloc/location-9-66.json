@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "THe Crypts of Mastersmith",
+    "RegionName": "Isle of Balfiera",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 69440728,
+        "Latitude": 33960,
+        "Longitude": 91176,
+        "LocationType": "Graveyard",
+        "DungeonType": "Cemetery",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23345152,
+                "Y": 8697857,
+                "IsExterior": 32768,
+                "Unknown2": 66,
+                "LocationId": 22233,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "THe Crypts of Mastersmith"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "THe Crypts of Mastersmith",
+            "MapId": 234712,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 2,
+            "BlockNames": [
+                "GRVEAS37.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 23345152,
+                "Y": 8697857,
+                "IsExterior": 0,
+                "Unknown2": 48,
+                "LocationId": 22234,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22233,
+                "LocationName": "THe Crypts of Mastersmith"
+            }
+        },
+        "Header": {
+            "BlockCount": 5
+        },
+        "Blocks": [
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "M0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 137,
+    "RegionIndex": 9,
+    "LocationIndex": 66
+}

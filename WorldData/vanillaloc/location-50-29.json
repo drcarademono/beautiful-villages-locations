@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Hezthor Nest",
+    "RegionName": "Satakalaam",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 30696533,
+        "Latitude": 27176,
+        "Longitude": 106152,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "ScorpionNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27179008,
+                "Y": 6961153,
+                "IsExterior": 32768,
+                "Unknown2": 29,
+                "LocationId": 22931,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hezthor Nest"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Hezthor Nest",
+            "MapId": 287829,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 3,
+            "BlockNames": [
+                "DUNGAA18.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27179008,
+                "Y": 6961153,
+                "IsExterior": 0,
+                "Unknown2": 8,
+                "LocationId": 22932,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22931,
+                "LocationName": "The Hezthor Nest"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000090.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000013.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 29
+}

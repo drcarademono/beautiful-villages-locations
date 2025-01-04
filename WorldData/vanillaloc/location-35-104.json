@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Yeomhouse's Guard",
+    "RegionName": "Koegria",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 109153579,
+        "Latitude": 50984,
+        "Longitude": 86440,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22132736,
+                "Y": 13056001,
+                "IsExterior": 32768,
+                "Unknown2": 104,
+                "LocationId": 15929,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Yeomhouse's Guard"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Yeomhouse's Guard",
+            "MapId": 101675,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA32.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 22132736,
+                "Y": 13056001,
+                "IsExterior": 0,
+                "Unknown2": 17,
+                "LocationId": 15930,
+                "IsInterior": 1,
+                "ExteriorLocationId": 15929,
+                "LocationName": "Yeomhouse's Guard"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000022.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 163,
+    "RegionIndex": 35,
+    "LocationIndex": 104
+}

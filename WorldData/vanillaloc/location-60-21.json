@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Masterford Manor",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 22078383,
+        "Latitude": 56488,
+        "Longitude": 36776,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9418752,
+                "Y": 14465025,
+                "IsExterior": 32768,
+                "Unknown2": 21,
+                "LocationId": 13087,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterford Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 32152,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 2786,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 15563,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6640,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 3599,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16081,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 23285,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20025,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 12781,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 14406,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21333,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 13087,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 21483,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 13087,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 1744,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 13087,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterford Manor",
+            "MapId": 58287,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 21
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Stronghold of Sofylar",
+    "RegionName": "Tigonus",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 118817616,
+        "Latitude": 21928,
+        "Longitude": 67624,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "HumanStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17315840,
+                "Y": 5617665,
+                "IsExterior": 32768,
+                "Unknown2": 113,
+                "LocationId": 24016,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Stronghold of Sofylar"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Stronghold of Sofylar",
+            "MapId": 328528,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 17315840,
+                "Y": 5617665,
+                "IsExterior": 0,
+                "Unknown2": 24,
+                "LocationId": 24017,
+                "IsInterior": 1,
+                "ExteriorLocationId": 24016,
+                "LocationName": "The Stronghold of Sofylar"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000039.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 113
+}

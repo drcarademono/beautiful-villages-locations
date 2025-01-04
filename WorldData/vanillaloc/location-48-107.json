@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Unfortunate Scorpion Inn",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 112525195,
+        "Latitude": 22056,
+        "Longitude": 72104,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18462720,
+                "Y": 5650433,
+                "IsExterior": 32768,
+                "Unknown2": 107,
+                "LocationId": 23985,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Unfortunate Scorpion Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 21321,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23985,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12290,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 23985,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12020,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 23985,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "12020",
+            "MapId": 327563,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 107
+}

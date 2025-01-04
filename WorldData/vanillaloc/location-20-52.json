@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Gold Wolf Inn",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 54887304,
+        "Latitude": 17704,
+        "Longitude": 45096,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11548672,
+                "Y": 4536321,
+                "IsExterior": 32768,
+                "Unknown2": 52,
+                "LocationId": 25172,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Gold Wolf Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 29163,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25172,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 6756,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 25172,
+                "BuildingType": "House1",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11879,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 25172,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "11879",
+            "MapId": 361352,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 52
+}

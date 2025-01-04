@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Masterhouse Hall",
+    "RegionName": "Phrygias",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 50341174,
+        "Latitude": 62760,
+        "Longitude": 67368,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17250304,
+                "Y": 16070657,
+                "IsExterior": 32768,
+                "Unknown2": 48,
+                "LocationId": 10384,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterhouse Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26666,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10384,
+                "BuildingType": "House1",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27187,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26657,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16959,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11038,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 32101,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 13654,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 10384,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16777,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 10384,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterhouse Hall",
+            "MapId": 9526,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 166,
+    "RegionIndex": 38,
+    "LocationIndex": 48
+}

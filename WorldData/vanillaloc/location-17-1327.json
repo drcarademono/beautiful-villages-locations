@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Cabal of Morgyrrya",
+    "RegionName": "Daggerfall",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 1391699491,
+        "Latitude": 33320,
+        "Longitude": 17832,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Coven",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4569088,
+                "Y": 8534017,
+                "IsExterior": 32768,
+                "Unknown2": 1327,
+                "LocationId": 22298,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Cabal of Morgyrrya"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Cabal of Morgyrrya",
+            "MapId": 239139,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 12,
+            "BlockNames": [
+                "DUNGAA14.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 4569088,
+                "Y": 8534017,
+                "IsExterior": 0,
+                "Unknown2": 267,
+                "LocationId": 22299,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22298,
+                "LocationName": "The Cabal of Morgyrrya"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000022.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 17,
+    "LocationIndex": 1327
+}

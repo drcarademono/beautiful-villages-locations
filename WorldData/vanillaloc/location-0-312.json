@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Red Pit Lodge",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 327648095,
+        "Latitude": 936,
+        "Longitude": 49064,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12564480,
+                "Y": 243713,
+                "IsExterior": 32768,
+                "Unknown2": 312,
+                "LocationId": 29301,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Red Pit Lodge"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 24401,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29301,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29416,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 29301,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 30643,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 29301,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 27724,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29301,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 24568,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 29301,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "24568",
+            "MapId": 492383,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 312
+}

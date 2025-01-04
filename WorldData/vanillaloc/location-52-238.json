@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Dog Tavern",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 249893005,
+        "Latitude": 21544,
+        "Longitude": 117416,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30062592,
+                "Y": 5519361,
+                "IsExterior": 32768,
+                "Unknown2": 238,
+                "LocationId": 24122,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Dog Tavern"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 2201,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5980,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 22988,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 14519,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 24122,
+                "BuildingType": "House3",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 24766,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24122,
+                "BuildingType": "House3",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 7677,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 30555,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 5999,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 24122,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 15089,
+                "FactionId": 510,
+                "Sector": 63,
+                "LocationId": 24122,
+                "BuildingType": "HouseForSale",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 30769,
+                "FactionId": 510,
+                "Sector": 67,
+                "LocationId": 24122,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 14667,
+                "FactionId": 510,
+                "Sector": 84,
+                "LocationId": 24122,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "30769",
+            "MapId": 331917,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 238
+}

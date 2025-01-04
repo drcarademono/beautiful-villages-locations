@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Hawksley Manor",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 51434594,
+        "Latitude": 57000,
+        "Longitude": 47400,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12138496,
+                "Y": 14596097,
+                "IsExterior": 32768,
+                "Unknown2": 49,
+                "LocationId": 12884,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawksley Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 30517,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22653,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6282,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26157,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10265,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1050,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 12884,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 17222,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 12884,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 28628,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 12884,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawksley Manor",
+            "MapId": 54370,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 49
+}

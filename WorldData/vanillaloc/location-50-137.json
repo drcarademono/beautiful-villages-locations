@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Raustin Cabin",
+    "RegionName": "Satakalaam",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 143968716,
+        "Latitude": 23848,
+        "Longitude": 102952,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26359808,
+                "Y": 6109185,
+                "IsExterior": 32768,
+                "Unknown2": 137,
+                "LocationId": 23591,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Raustin Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18819,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23591,
+                "BuildingType": "House3",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Raustin Cabin",
+            "MapId": 313804,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 137
+}

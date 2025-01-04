@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tomb of Lithimon",
+    "RegionName": "Kairou",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 126306337,
+        "Latitude": 2856,
+        "Longitude": 27816,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Crypt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7124992,
+                "Y": 735233,
+                "IsExterior": 32768,
+                "Unknown2": 120,
+                "LocationId": 28854,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tomb of Lithimon"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tomb of Lithimon",
+            "MapId": 477217,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 7124992,
+                "Y": 735233,
+                "IsExterior": 0,
+                "Unknown2": 29,
+                "LocationId": 28855,
+                "IsInterior": 1,
+                "ExteriorLocationId": 28854,
+                "LocationName": "The Tomb of Lithimon"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 120
+}

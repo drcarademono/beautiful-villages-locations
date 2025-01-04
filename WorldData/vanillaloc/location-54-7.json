@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The Rusty Mug Pub",
+    "RegionName": "Santaki",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 7761676,
+        "Latitude": 10024,
+        "Longitude": 82472,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21116928,
+                "Y": 2570241,
+                "IsExterior": 32768,
+                "Unknown2": 7,
+                "LocationId": 27247,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rusty Mug Pub"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 27359,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 19748,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 4092,
+                "FactionId": 0,
+                "Sector": 13,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25301,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 22236,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 29291,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 14984,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10462,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 15908,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 27247,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32750,
+                "FactionId": 510,
+                "Sector": 68,
+                "LocationId": 27247,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30600,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 27247,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 1909,
+                "FactionId": 510,
+                "Sector": 93,
+                "LocationId": 27247,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "32750",
+            "MapId": 421644,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 182,
+    "RegionIndex": 54,
+    "LocationIndex": 7
+}

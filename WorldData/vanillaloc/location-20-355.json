@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Kaluthuara",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 372638871,
+        "Latitude": 13472,
+        "Longitude": 50088,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12826624,
+                "Y": 3452929,
+                "IsExterior": 32768,
+                "Unknown2": 355,
+                "LocationId": 26438,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kaluthuara"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 3599,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26438,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16081,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26438,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 23285,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26438,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20025,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26438,
+                "BuildingType": "House4",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 3346,
+                "FactionId": 510,
+                "Sector": 38,
+                "LocationId": 26438,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9500,
+                "FactionId": 0,
+                "Sector": 52,
+                "LocationId": 26438,
+                "BuildingType": "House4",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 11584,
+                "FactionId": 0,
+                "Sector": 73,
+                "LocationId": 26438,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26118,
+                "FactionId": 0,
+                "Sector": 94,
+                "LocationId": 26438,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20725,
+                "FactionId": 510,
+                "Sector": 97,
+                "LocationId": 26438,
+                "BuildingType": "GeneralStore",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kaluthuara",
+            "MapId": 394391,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS04.RMB",
+                "GENRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 355
+}

@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Huntsman Pub",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 265766076,
+        "Latitude": 2984,
+        "Longitude": 44584,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11417600,
+                "Y": 768001,
+                "IsExterior": 32768,
+                "Unknown2": 253,
+                "LocationId": 28823,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Huntsman Pub"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 13607,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28823,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 16015,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 28823,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4091,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 28823,
+                "BuildingType": "HouseForSale",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 10094,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 28823,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "10094",
+            "MapId": 476348,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 253
+}

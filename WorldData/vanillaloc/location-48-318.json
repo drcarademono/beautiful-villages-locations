@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Bat and Priest Pub",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 333822763,
+        "Latitude": 15912,
+        "Longitude": 76200,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19511296,
+                "Y": 4077569,
+                "IsExterior": 32768,
+                "Unknown2": 318,
+                "LocationId": 25785,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Bat and Priest Pub"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 16410,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 25785,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 32159,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25785,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 23241,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 25785,
+                "BuildingType": "House4",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5638,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 25785,
+                "BuildingType": "House4",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "16410",
+            "MapId": 375595,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 318
+}

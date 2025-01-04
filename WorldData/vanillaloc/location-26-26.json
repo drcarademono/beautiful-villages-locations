@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Azrath",
+    "RegionName": "Orsinium Area",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 27415851,
+        "Latitude": 44456,
+        "Longitude": 112040,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "OrcStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28686336,
+                "Y": 11384833,
+                "IsExterior": 32768,
+                "Unknown2": 26,
+                "LocationId": 18906,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Azrath"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Azrath",
+            "MapId": 152875,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 28686336,
+                "Y": 11384833,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 18907,
+                "IsInterior": 1,
+                "ExteriorLocationId": 18906,
+                "LocationName": "Azrath"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000055.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 154,
+    "RegionIndex": 26,
+    "LocationIndex": 26
+}

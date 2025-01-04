@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Tower Boorke",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 196576859,
+        "Latitude": 808,
+        "Longitude": 18856,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "HarpyNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4831232,
+                "Y": 210945,
+                "IsExterior": 32768,
+                "Unknown2": 187,
+                "LocationId": 29314,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tower Boorke"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Tower Boorke",
+            "MapId": 493147,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 4831232,
+                "Y": 210945,
+                "IsExterior": 0,
+                "Unknown2": 55,
+                "LocationId": 29315,
+                "IsInterior": 1,
+                "ExteriorLocationId": 29314,
+                "LocationName": "Tower Boorke"
+            }
+        },
+        "Header": {
+            "BlockCount": 11
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000014.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000009.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 187
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Gaersmith Hall",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 284212654,
+        "Latitude": 57768,
+        "Longitude": 71464,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18298880,
+                "Y": 14792705,
+                "IsExterior": 32768,
+                "Unknown2": 271,
+                "LocationId": 12534,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaersmith Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 5726,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12534,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 5983,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 11853,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 11446,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 25298,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16533,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 7890,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 9452,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 24810,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12026,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 12534,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 7590,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 12534,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaersmith Hall",
+            "MapId": 48558,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 271
+}

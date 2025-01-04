@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Gaercroft Hall",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 56646597,
+        "Latitude": 60968,
+        "Longitude": 63144,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16168960,
+                "Y": 15611905,
+                "IsExterior": 32768,
+                "Unknown2": 54,
+                "LocationId": 11130,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaercroft Hall"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 14127,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 25778,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27208,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19836,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 25817,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10006,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 16551,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17841,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 6492,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28775,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17176,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 11130,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 19903,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 11130,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 2282,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 11130,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaercroft Hall",
+            "MapId": 23493,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 54
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Unfortunate Dog Lodge",
+    "RegionName": "Antiphyllos",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 10910218,
+        "Latitude": 9640,
+        "Longitude": 58664,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15022080,
+                "Y": 2471937,
+                "IsExterior": 32768,
+                "Unknown2": 10,
+                "LocationId": 27348,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Unfortunate Dog Lodge"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 11834,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27348,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11533,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27348,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 14255,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 27348,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 1238,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27348,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 3058,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 27348,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "3058",
+            "MapId": 424458,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 183,
+    "RegionIndex": 55,
+    "LocationIndex": 10
+}

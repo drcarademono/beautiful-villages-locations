@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Howling Barbarian Lodge",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 81165675,
+        "Latitude": 9512,
+        "Longitude": 41384,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10598400,
+                "Y": 2439169,
+                "IsExterior": 32768,
+                "Unknown2": 77,
+                "LocationId": 27367,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Howling Barbarian Lodge"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 2678,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27367,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20991,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27367,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10796,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 27367,
+                "BuildingType": "HouseForSale",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 21387,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 27367,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "21387",
+            "MapId": 425323,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 77
+}

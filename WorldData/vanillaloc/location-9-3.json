@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Gaerhouse Plantation",
+    "RegionName": "Isle of Balfiera",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 3304357,
+        "Latitude": 43688,
+        "Longitude": 80552,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20625408,
+                "Y": 11188225,
+                "IsExterior": 32768,
+                "Unknown2": 3,
+                "LocationId": 19220,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Gaerhouse Plantation"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 12730,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19220,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Gaerhouse Plantation",
+            "MapId": 158629,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 2,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 137,
+    "RegionIndex": 9,
+    "LocationIndex": 3
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Fortress of Greenton",
+    "RegionName": "Bhoriane",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 30506359,
+        "Latitude": 51496,
+        "Longitude": 83880,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "RuinedCastle",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21477376,
+                "Y": 13187073,
+                "IsExterior": 32768,
+                "Unknown2": 29,
+                "LocationId": 15665,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fortress of Greenton"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Fortress of Greenton",
+            "MapId": 97655,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA16.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 21477376,
+                "Y": 13187073,
+                "IsExterior": 0,
+                "Unknown2": 10,
+                "LocationId": 15666,
+                "IsInterior": 1,
+                "ExteriorLocationId": 15665,
+                "LocationName": "The Fortress of Greenton"
+            }
+        },
+        "Header": {
+            "BlockCount": 13
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000018.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 164,
+    "RegionIndex": 36,
+    "LocationIndex": 29
+}

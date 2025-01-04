@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Screaming Fairy Tavern",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 119976914,
+        "Latitude": 7720,
+        "Longitude": 32040,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8206336,
+                "Y": 1980417,
+                "IsExterior": 32768,
+                "Unknown2": 114,
+                "LocationId": 27749,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Screaming Fairy Tavern"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 16658,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 27749,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17923,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27749,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 881,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 27749,
+                "BuildingType": "House4",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 11082,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 27749,
+                "BuildingType": "House4",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "16658",
+            "MapId": 439250,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 114
+}

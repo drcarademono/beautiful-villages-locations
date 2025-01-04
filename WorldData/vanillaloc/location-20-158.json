@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Maarger Cabin",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 166052413,
+        "Latitude": 15656,
+        "Longitude": 51880,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13285376,
+                "Y": 4012033,
+                "IsExterior": 32768,
+                "Unknown2": 158,
+                "LocationId": 25853,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Maarger Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 472,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25853,
+                "BuildingType": "House3",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Maarger Cabin",
+            "MapId": 377405,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 158
+}

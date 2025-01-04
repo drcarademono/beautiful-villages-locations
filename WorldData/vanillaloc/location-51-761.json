@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Baardta Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 798339246,
+        "Latitude": 16296,
+        "Longitude": 116520,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29833216,
+                "Y": 4175873,
+                "IsExterior": 32768,
+                "Unknown2": 761,
+                "LocationId": 25677,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Baardta Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 11737,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 12348,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20477,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23354,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 25677,
+                "BuildingType": "House3",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 9070,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 29250,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 6300,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 25677,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 20168,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 25677,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19393,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 25677,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Baardta Manor",
+            "MapId": 372910,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 761
+}

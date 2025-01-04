@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Copperston Farmstead",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 424900153,
+        "Latitude": 34984,
+        "Longitude": 111784,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28620800,
+                "Y": 8960001,
+                "IsExterior": 32768,
+                "Unknown2": 405,
+                "LocationId": 22112,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Copperston Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 29289,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 22112,
+                "BuildingType": "House2",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Copperston Farmstead",
+            "MapId": 226873,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 405
+}

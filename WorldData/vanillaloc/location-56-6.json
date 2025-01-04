@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Beaver and Rascal Lodge",
+    "RegionName": "Bergama",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 6741890,
+        "Latitude": 6312,
+        "Longitude": 55592,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14235648,
+                "Y": 1619969,
+                "IsExterior": 32768,
+                "Unknown2": 6,
+                "LocationId": 28059,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Beaver and Rascal Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 30210,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28059,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4372,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 28059,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11496,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 28059,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "11496",
+            "MapId": 450434,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 184,
+    "RegionIndex": 56,
+    "LocationIndex": 6
+}

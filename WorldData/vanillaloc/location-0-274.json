@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Syruria",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 287793210,
+        "Latitude": 2088,
+        "Longitude": 49440,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12660736,
+                "Y": 538625,
+                "IsExterior": 32768,
+                "Unknown2": 274,
+                "LocationId": 29038,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Syruria"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 22762,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29038,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4559,
+                "FactionId": 0,
+                "Sector": 7,
+                "LocationId": 29038,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14153,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 29038,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20070,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 29038,
+                "BuildingType": "House4",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8851,
+                "FactionId": 510,
+                "Sector": 39,
+                "LocationId": 29038,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23357,
+                "FactionId": 0,
+                "Sector": 53,
+                "LocationId": 29038,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 7531,
+                "FactionId": 0,
+                "Sector": 74,
+                "LocationId": 29038,
+                "BuildingType": "House4",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9281,
+                "FactionId": 0,
+                "Sector": 95,
+                "LocationId": 29038,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 3979,
+                "FactionId": 510,
+                "Sector": 98,
+                "LocationId": 29038,
+                "BuildingType": "GeneralStore",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Syruria",
+            "MapId": 483386,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS03.RMB",
+                "GENRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 274
+}

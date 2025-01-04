@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Vyctayne's Hovel",
+    "RegionName": "Alcaire",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 146938407,
+        "Latitude": 46376,
+        "Longitude": 98216,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25147392,
+                "Y": 11876353,
+                "IsExterior": 32768,
+                "Unknown2": 140,
+                "LocationId": 18108,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Vyctayne's Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18204,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18108,
+                "BuildingType": "House3",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Vyctayne's Hovel",
+            "MapId": 137767,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 162,
+    "RegionIndex": 34,
+    "LocationIndex": 140
+}

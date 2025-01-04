@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Woodwing Hall",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 199244098,
+        "Latitude": 62120,
+        "Longitude": 84264,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21575680,
+                "Y": 15906817,
+                "IsExterior": 32768,
+                "Unknown2": 190,
+                "LocationId": 10648,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodwing Hall"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 3785,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23858,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 30516,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 6363,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 1710,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 5809,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20007,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28798,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5765,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 5619,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 275,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 10648,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 27932,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 10648,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24183,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 10648,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodwing Hall",
+            "MapId": 14658,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 190
+}

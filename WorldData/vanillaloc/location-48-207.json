@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Restless Muskrat Tavern",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 217402818,
+        "Latitude": 19496,
+        "Longitude": 75048,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19216384,
+                "Y": 4995073,
+                "IsExterior": 32768,
+                "Unknown2": 207,
+                "LocationId": 24658,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Restless Muskrat Tavern"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 15422,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24658,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 25836,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 24658,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26756,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 24658,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25192,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24658,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 492,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 24658,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "492",
+            "MapId": 347586,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 207
+}

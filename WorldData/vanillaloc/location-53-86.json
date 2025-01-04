@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Cavern of Demanx",
+    "RegionName": "Ephesus",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 90623366,
+        "Latitude": 6952,
+        "Longitude": 106280,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "NaturalCave",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27211776,
+                "Y": 1783809,
+                "IsExterior": 32768,
+                "Unknown2": 86,
+                "LocationId": 27921,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Cavern of Demanx"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Cavern of Demanx",
+            "MapId": 445830,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA13.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27211776,
+                "Y": 1783809,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 27922,
+                "IsInterior": 1,
+                "ExteriorLocationId": 27921,
+                "LocationName": "The Cavern of Demanx"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000086.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 86
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Woodston Manor",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 252828289,
+        "Latitude": 48424,
+        "Longitude": 60584,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15513600,
+                "Y": 12400641,
+                "IsExterior": 32768,
+                "Unknown2": 241,
+                "LocationId": 17166,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodston Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 1145,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 1842,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 9154,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 467,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17166,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20410,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 7244,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 29932,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 17166,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11618,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17166,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 31464,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 17166,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodston Manor",
+            "MapId": 121473,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 4,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 39,
+    "LocationIndex": 241
+}

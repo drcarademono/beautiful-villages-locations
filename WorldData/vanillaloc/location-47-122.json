@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Rat and Badger Hostel",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 128326740,
+        "Latitude": 12712,
+        "Longitude": 59944,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15349760,
+                "Y": 3258369,
+                "IsExterior": 32768,
+                "Unknown2": 122,
+                "LocationId": 26625,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rat and Badger Hostel"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 10888,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26625,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12006,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26625,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20985,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 26625,
+                "BuildingType": "HouseForSale",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 20853,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 26625,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "20853",
+            "MapId": 400468,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 122
+}

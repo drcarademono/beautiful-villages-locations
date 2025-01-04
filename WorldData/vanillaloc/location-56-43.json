@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Fox and Scorpion Inn",
+    "RegionName": "Bergama",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 45561212,
+        "Latitude": 3496,
+        "Longitude": 56872,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14563328,
+                "Y": 899073,
+                "IsExterior": 32768,
+                "Unknown2": 43,
+                "LocationId": 28702,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fox and Scorpion Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 20090,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28702,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10054,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 28702,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 2664,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 28702,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "2664",
+            "MapId": 472444,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 184,
+    "RegionIndex": 56,
+    "LocationIndex": 43
+}

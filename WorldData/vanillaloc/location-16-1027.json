@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Woodston Manor",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1076970281,
+        "Latitude": 53416,
+        "Longitude": 93352,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23902208,
+                "Y": 13678593,
+                "IsExterior": 32768,
+                "Unknown2": 1027,
+                "LocationId": 14716,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodston Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 22882,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14716,
+                "BuildingType": "House1",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 8811,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 4543,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25836,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26756,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25192,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 787,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17600,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31304,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1453,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 14716,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13567,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 14716,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodston Manor",
+            "MapId": 82729,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 1027
+}

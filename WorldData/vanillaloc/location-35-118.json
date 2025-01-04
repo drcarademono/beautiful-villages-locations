@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Helker",
+    "RegionName": "Koegria",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 123847632,
+        "Latitude": 49192,
+        "Longitude": 85032,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "OrcStronghold",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21772288,
+                "Y": 12597249,
+                "IsExterior": 32768,
+                "Unknown2": 118,
+                "LocationId": 16868,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Helker"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Helker",
+            "MapId": 115664,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 21772288,
+                "Y": 12597249,
+                "IsExterior": 0,
+                "Unknown2": 19,
+                "LocationId": 16869,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16868,
+                "LocationName": "Helker"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000044.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 163,
+    "RegionIndex": 35,
+    "LocationIndex": 118
+}

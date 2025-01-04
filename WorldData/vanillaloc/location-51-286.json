@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Tlozun Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 300235560,
+        "Latitude": 20136,
+        "Longitude": 105512,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27015168,
+                "Y": 5158913,
+                "IsExterior": 32768,
+                "Unknown2": 286,
+                "LocationId": 24508,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tlozun Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 21518,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24508,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32293,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 16359,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 9244,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 5166,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13422,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11943,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 3559,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 16445,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2094,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24508,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 29068,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24508,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Tlozun Manor",
+            "MapId": 342824,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 286
+}

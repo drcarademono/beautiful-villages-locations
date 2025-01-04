@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Barbyn's Shack",
+    "RegionName": "Northmoor",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 320919511,
+        "Latitude": 56872,
+        "Longitude": 32680,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8370176,
+                "Y": 14563329,
+                "IsExterior": 32768,
+                "Unknown2": 306,
+                "LocationId": 12927,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Barbyn's Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 17667,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12927,
+                "BuildingType": "House3",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Barbyn's Shack",
+            "MapId": 55255,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 160,
+    "RegionIndex": 32,
+    "LocationIndex": 306
+}

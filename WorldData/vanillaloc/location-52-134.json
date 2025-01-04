@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Tasar Farmstead",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 140821091,
+        "Latitude": 24104,
+        "Longitude": 116136,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29734912,
+                "Y": 6174721,
+                "IsExterior": 32768,
+                "Unknown2": 134,
+                "LocationId": 23553,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tasar Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 32638,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23553,
+                "BuildingType": "House1",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Tasar Farmstead",
+            "MapId": 311907,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 134
+}

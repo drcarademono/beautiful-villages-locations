@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Tower of Greenhouse",
+    "RegionName": "Shalgora",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 38912631,
+        "Latitude": 49192,
+        "Longitude": 40872,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "VampireHaunt",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10467328,
+                "Y": 12597249,
+                "IsExterior": 32768,
+                "Unknown2": 37,
+                "LocationId": 16837,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Tower of Greenhouse"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Tower of Greenhouse",
+            "MapId": 115319,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 10467328,
+                "Y": 12597249,
+                "IsExterior": 0,
+                "Unknown2": 10,
+                "LocationId": 16838,
+                "IsInterior": 1,
+                "ExteriorLocationId": 16837,
+                "LocationName": "The Tower of Greenhouse"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000069.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 170,
+    "RegionIndex": 42,
+    "LocationIndex": 37
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Dwarf and Pit Hostel",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 738449420,
+        "Latitude": 31784,
+        "Longitude": 117288,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30029824,
+                "Y": 8140801,
+                "IsExterior": 32768,
+                "Unknown2": 704,
+                "LocationId": 22505,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dwarf and Pit Hostel"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 6842,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 22505,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13784,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 22505,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 4163,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 22505,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7481,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 22505,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16804,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19104,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17690,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29310,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14897,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 22505,
+                "BuildingType": "House3",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 21505,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14364,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 22505,
+                "BuildingType": "House2",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "6842",
+            "MapId": 251916,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 704
+}

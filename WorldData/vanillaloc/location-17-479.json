@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Wicksly Court",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 502440091,
+        "Latitude": 41896,
+        "Longitude": 23976,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6141952,
+                "Y": 10729473,
+                "IsExterior": 32768,
+                "Unknown2": 479,
+                "LocationId": 19988,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wicksly Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12356,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19988,
+                "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 20748,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14385,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28303,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29502,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7563,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14537,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 24678,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 8681,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10246,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 19988,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11429,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 19988,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wicksly Court",
+            "MapId": 172187,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 479
+}

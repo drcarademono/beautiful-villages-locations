@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Glafyl Hall",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 361024904,
+        "Latitude": 23720,
+        "Longitude": 97320,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24918016,
+                "Y": 6076417,
+                "IsExterior": 32768,
+                "Unknown2": 344,
+                "LocationId": 23614,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Glafyl Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 20181,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 4715,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 28817,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5677,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 23614,
+                "BuildingType": "House3",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32592,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 13825,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6318,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 23614,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 6139,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 23614,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2299,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 23614,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Glafyl Hall",
+            "MapId": 314760,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 344
+}

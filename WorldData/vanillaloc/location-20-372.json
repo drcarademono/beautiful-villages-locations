@@ -1,0 +1,205 @@
+{
+    "Loaded": true,
+    "Name": "Osandarea",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 390466595,
+        "Latitude": 13216,
+        "Longitude": 41376,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10596352,
+                "Y": 3387393,
+                "IsExterior": 32768,
+                "Unknown2": 372,
+                "LocationId": 26489,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Osandarea"
+            }
+        },
+        "BuildingCount": 16,
+        "Buildings": [
+            {
+                "NameSeed": 28495,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 15369,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4925,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 31434,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 28518,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13014,
+                "FactionId": 510,
+                "Sector": 36,
+                "LocationId": 26489,
+                "BuildingType": "HouseForSale",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 24872,
+                "FactionId": 510,
+                "Sector": 47,
+                "LocationId": 26489,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24013,
+                "FactionId": 510,
+                "Sector": 62,
+                "LocationId": 26489,
+                "BuildingType": "GeneralStore",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27956,
+                "FactionId": 0,
+                "Sector": 73,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 28423,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4691,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17498,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17368,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 11483,
+                "FactionId": 510,
+                "Sector": 105,
+                "LocationId": 26489,
+                "BuildingType": "HouseForSale",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10789,
+                "FactionId": 0,
+                "Sector": 110,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 13369,
+                "FactionId": 0,
+                "Sector": 122,
+                "LocationId": 26489,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Osandarea",
+            "MapId": 396323,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS04.RMB",
+                "TVRNGS02.RMB",
+                "GENRGS01.RMB",
+                "RESIGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 372
+}

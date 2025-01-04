@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Karcen Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 8707382,
+        "Latitude": 23208,
+        "Longitude": 99112,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25376768,
+                "Y": 5945345,
+                "IsExterior": 32768,
+                "Unknown2": 8,
+                "LocationId": 23727,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Karcen Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 28282,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23727,
+                "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23887,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 7887,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3749,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 19338,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 24826,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12929,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 18653,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29740,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9816,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23727,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 6247,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23727,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Karcen Manor",
+            "MapId": 318774,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 8
+}

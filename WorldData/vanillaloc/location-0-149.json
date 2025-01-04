@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Thirsty Castle Inn",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 156676394,
+        "Latitude": 7848,
+        "Longitude": 73000,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18692096,
+                "Y": 2013185,
+                "IsExterior": 32768,
+                "Unknown2": 149,
+                "LocationId": 27732,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Thirsty Castle Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 23435,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27732,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23282,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 27732,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14596,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 27732,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "14596",
+            "MapId": 438570,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 149
+}

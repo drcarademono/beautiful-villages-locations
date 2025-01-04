@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Rat and Castle Tavern",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 332793464,
+        "Latitude": 13480,
+        "Longitude": 111656,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28588032,
+                "Y": 3454977,
+                "IsExterior": 32768,
+                "Unknown2": 317,
+                "LocationId": 26448,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rat and Castle Tavern"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 24954,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26448,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 14115,
+                "FactionId": 510,
+                "Sector": 16,
+                "LocationId": 26448,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 529,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 26448,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 22740,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15422,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 25836,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26756,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25192,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 787,
+                "FactionId": 0,
+                "Sector": 84,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17600,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31304,
+                "FactionId": 0,
+                "Sector": 96,
+                "LocationId": 26448,
+                "BuildingType": "House2",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "24954",
+            "MapId": 394872,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 317
+}

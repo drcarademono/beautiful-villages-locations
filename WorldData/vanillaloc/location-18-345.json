@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Gaering Manor",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 361891846,
+        "Latitude": 46888,
+        "Longitude": 16168,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4143104,
+                "Y": 12007425,
+                "IsExterior": 32768,
+                "Unknown2": 345,
+                "LocationId": 17783,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaering Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 11294,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5751,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 10420,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10568,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 4777,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27187,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26657,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16959,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 17783,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 25305,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17783,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 23839,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 17783,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaering Manor",
+            "MapId": 133126,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 186,
+    "RegionIndex": 18,
+    "LocationIndex": 345
+}

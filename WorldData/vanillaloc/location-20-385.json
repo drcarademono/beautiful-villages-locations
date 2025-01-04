@@ -1,0 +1,213 @@
+{
+    "Loaded": true,
+    "Name": "Ceraka-Gora",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 404099102,
+        "Latitude": 13088,
+        "Longitude": 43808,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16794368
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11218944,
+                "Y": 3354625,
+                "IsExterior": 32768,
+                "Unknown2": 385,
+                "LocationId": 26521,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ceraka-Gora"
+            }
+        },
+        "BuildingCount": 17,
+        "Buildings": [
+            {
+                "NameSeed": 32107,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26521,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 8582,
+                "FactionId": 0,
+                "Sector": 17,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 30298,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 26521,
+                "BuildingType": "ClothingStore",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4591,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 26521,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 764,
+                "FactionId": 510,
+                "Sector": 46,
+                "LocationId": 26521,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 5416,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 26521,
+                "BuildingType": "House4",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 2182,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 26521,
+                "BuildingType": "House4",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21998,
+                "FactionId": 0,
+                "Sector": 102,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23486,
+                "FactionId": 510,
+                "Sector": 105,
+                "LocationId": 26521,
+                "BuildingType": "GeneralStore",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 32624,
+                "FactionId": 0,
+                "Sector": 117,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29120,
+                "FactionId": 0,
+                "Sector": 125,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12003,
+                "FactionId": 0,
+                "Sector": 128,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20720,
+                "FactionId": 510,
+                "Sector": 134,
+                "LocationId": 26521,
+                "BuildingType": "WeaponSmith",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 21230,
+                "FactionId": 0,
+                "Sector": 137,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30763,
+                "FactionId": 0,
+                "Sector": 142,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18843,
+                "FactionId": 0,
+                "Sector": 147,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32633,
+                "FactionId": 0,
+                "Sector": 153,
+                "LocationId": 26521,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ceraka-Gora",
+            "MapId": 397342,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CLOTGS00.RMB",
+                "GENRGS00.RMB",
+                "RESIGS04.RMB",
+                "WEAPGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 385
+}

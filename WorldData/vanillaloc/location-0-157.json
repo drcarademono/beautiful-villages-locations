@@ -1,0 +1,189 @@
+{
+    "Loaded": true,
+    "Name": "Naroza",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 165067009,
+        "Latitude": 7584,
+        "Longitude": 73888,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18919424,
+                "Y": 1945601,
+                "IsExterior": 32768,
+                "Unknown2": 157,
+                "LocationId": 27790,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Naroza"
+            }
+        },
+        "BuildingCount": 14,
+        "Buildings": [
+            {
+                "NameSeed": 28712,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 18806,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15971,
+                "FactionId": 0,
+                "Sector": 17,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2826,
+                "FactionId": 0,
+                "Sector": 23,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 15200,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15749,
+                "FactionId": 510,
+                "Sector": 42,
+                "LocationId": 27790,
+                "BuildingType": "HouseForSale",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 24073,
+                "FactionId": 0,
+                "Sector": 48,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 7311,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 27790,
+                "BuildingType": "HouseForSale",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 24301,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 24528,
+                "FactionId": 0,
+                "Sector": 73,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 15879,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 27790,
+                "BuildingType": "GeneralStore",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 20509,
+                "FactionId": 0,
+                "Sector": 99,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 5881,
+                "FactionId": 0,
+                "Sector": 104,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30685,
+                "FactionId": 0,
+                "Sector": 107,
+                "LocationId": 27790,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Naroza",
+            "MapId": 440577,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS02.RMB",
+                "RESIBS01.RMB",
+                "GENRBS02.RMB",
+                "RESIBS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 157
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Belladyrrya's Place",
+    "RegionName": "Northmoor",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 72368990,
+        "Latitude": 61736,
+        "Longitude": 31528,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8075264,
+                "Y": 15808513,
+                "IsExterior": 32768,
+                "Unknown2": 69,
+                "LocationId": 10765,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Belladyrrya's Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27057,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10765,
+                "BuildingType": "House3",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Belladyrrya's Place",
+            "MapId": 17246,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 160,
+    "RegionIndex": 32,
+    "LocationIndex": 69
+}

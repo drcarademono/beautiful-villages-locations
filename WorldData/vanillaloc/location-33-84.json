@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Woodton Tower",
+    "RegionName": "Menevia",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 88256225,
+        "Latitude": 41512,
+        "Longitude": 107688,
+        "LocationType": "DungeonKeep",
+        "DungeonType": "DesecratedTemple",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27572224,
+                "Y": 10631169,
+                "IsExterior": 32768,
+                "Unknown2": 84,
+                "LocationId": 20129,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodton Tower"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Woodton Tower",
+            "MapId": 175841,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "CASTAA30.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 27572224,
+                "Y": 10631169,
+                "IsExterior": 0,
+                "Unknown2": 14,
+                "LocationId": 20130,
+                "IsInterior": 1,
+                "ExteriorLocationId": 20129,
+                "LocationName": "Woodton Tower"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "W0000025.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000008.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 161,
+    "RegionIndex": 33,
+    "LocationIndex": 84
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Your Ship",
+    "RegionName": "High Rock sea coast",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1050578,
+        "Latitude": 63655,
+        "Longitude": 312,
+        "LocationType": "HomeYourShips",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 83968,
+                "Y": 16299777,
+                "IsExterior": 32768,
+                "Unknown2": 1,
+                "LocationId": 990,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Your Ship"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 9880,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 990,
+                "BuildingType": "Ship",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Your Ship",
+            "MapId": 2002,
+            "LocationId": 990,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHIPAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 223,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 402,
+        "NatureArchive": 504,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 31,
+    "LocationIndex": 1
+}

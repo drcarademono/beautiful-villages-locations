@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old D'afylti's Shack",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 715583569,
+        "Latitude": 5800,
+        "Longitude": 94376,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24164352,
+                "Y": 1488897,
+                "IsExterior": 32768,
+                "Unknown2": 682,
+                "LocationId": 28185,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old D'afylti's Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 8983,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28185,
+                "BuildingType": "House3",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old D'afylti's Shack",
+            "MapId": 454737,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 682
+}

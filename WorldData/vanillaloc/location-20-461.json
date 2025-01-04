@@ -1,0 +1,221 @@
+{
+    "Loaded": true,
+    "Name": "Javoccoton",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 483797907,
+        "Latitude": 12192,
+        "Longitude": 47520,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16793856
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12169216,
+                "Y": 3125249,
+                "IsExterior": 32768,
+                "Unknown2": 461,
+                "LocationId": 26732,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Javoccoton"
+            }
+        },
+        "BuildingCount": 18,
+        "Buildings": [
+            {
+                "NameSeed": 11038,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26732,
+                "BuildingType": "House4",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13270,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 26732,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 31319,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 26732,
+                "BuildingType": "House4",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 23087,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 26732,
+                "BuildingType": "House4",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 22,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12372,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 26732,
+                "BuildingType": "GeneralStore",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 23865,
+                "FactionId": 510,
+                "Sector": 92,
+                "LocationId": 26732,
+                "BuildingType": "ClothingStore",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 9184,
+                "FactionId": 0,
+                "Sector": 99,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 22644,
+                "FactionId": 0,
+                "Sector": 109,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 22488,
+                "FactionId": 0,
+                "Sector": 115,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 7825,
+                "FactionId": 0,
+                "Sector": 121,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 12179,
+                "FactionId": 0,
+                "Sector": 131,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26544,
+                "FactionId": 0,
+                "Sector": 134,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 25008,
+                "FactionId": 510,
+                "Sector": 138,
+                "LocationId": 26732,
+                "BuildingType": "HouseForSale",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 3276,
+                "FactionId": 0,
+                "Sector": 143,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29666,
+                "FactionId": 0,
+                "Sector": 155,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15180,
+                "FactionId": 0,
+                "Sector": 164,
+                "LocationId": 26732,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13261,
+                "FactionId": 510,
+                "Sector": 170,
+                "LocationId": 26732,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Javoccoton",
+            "MapId": 404371,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS00.RMB",
+                "CLOTGS01.RMB",
+                "RESIGS01.RMB",
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 461
+}

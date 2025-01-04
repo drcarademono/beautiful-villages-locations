@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Red Mug Lodge",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 274037844,
+        "Latitude": 17960,
+        "Longitude": 65064,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16660480,
+                "Y": 4601857,
+                "IsExterior": 32768,
+                "Unknown2": 261,
+                "LocationId": 25104,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Red Mug Lodge"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 20903,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25104,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 16464,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 25104,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 28883,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 25104,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21787,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25104,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 20709,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 25104,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "20709",
+            "MapId": 359508,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 261
+}

@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Silver Rascal Inn",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 146086639,
+        "Latitude": 21160,
+        "Longitude": 73640,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18855936,
+                "Y": 5421057,
+                "IsExterior": 32768,
+                "Unknown2": 139,
+                "LocationId": 24195,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Silver Rascal Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 1050,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24195,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 24195,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20453,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 24195,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "20453",
+            "MapId": 334575,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 139
+}

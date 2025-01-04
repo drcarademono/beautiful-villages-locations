@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The Knave and Pit Lodge",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 162824984,
+        "Latitude": 26152,
+        "Longitude": 90152,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23083008,
+                "Y": 6699009,
+                "IsExterior": 32768,
+                "Unknown2": 155,
+                "LocationId": 23093,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Knave and Pit Lodge"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 911,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 491,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15799,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 20028,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 18484,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3039,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 26865,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 13873,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 12478,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 18118,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23093,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14485,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 23093,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 32303,
+                "FactionId": 510,
+                "Sector": 71,
+                "LocationId": 23093,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "14485",
+            "MapId": 295704,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 155
+}

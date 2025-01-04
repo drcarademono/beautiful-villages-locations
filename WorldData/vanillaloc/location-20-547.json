@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Unfortunate Mug Tavern",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 573992478,
+        "Latitude": 10024,
+        "Longitude": 52008,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13318144,
+                "Y": 2570241,
+                "IsExterior": 32768,
+                "Unknown2": 547,
+                "LocationId": 27240,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Unfortunate Mug Tavern"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 12497,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27240,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 24282,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27240,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1482,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 27240,
+                "BuildingType": "HouseForSale",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 31270,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 27240,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "31270",
+            "MapId": 421406,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 547
+}

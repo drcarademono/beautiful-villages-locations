@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Gaersmith Manor",
+    "RegionName": "Shalgora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 187864406,
+        "Latitude": 42280,
+        "Longitude": 38696,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9910272,
+                "Y": 10827777,
+                "IsExterior": 32768,
+                "Unknown2": 179,
+                "LocationId": 19850,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaersmith Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 21537,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 26314,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 5105,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 8170,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 19850,
+                "BuildingType": "House3",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 23845,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 12586,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12691,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 19850,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 9592,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 19850,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 2341,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 19850,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaersmith Manor",
+            "MapId": 169302,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 170,
+    "RegionIndex": 42,
+    "LocationIndex": 179
+}

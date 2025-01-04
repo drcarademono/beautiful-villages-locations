@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Laughing Cat Hostel",
+    "RegionName": "Pothago",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 54956200,
+        "Latitude": 8872,
+        "Longitude": 31784,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8140800,
+                "Y": 2275329,
+                "IsExterior": 32768,
+                "Unknown2": 52,
+                "LocationId": 27515,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Laughing Cat Hostel"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 19426,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27515,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30622,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27515,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22109,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 27515,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7929,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27515,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20057,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 27515,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "20057",
+            "MapId": 430248,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 173,
+    "RegionIndex": 45,
+    "LocationIndex": 52
+}

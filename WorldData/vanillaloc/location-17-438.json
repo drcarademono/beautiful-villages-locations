@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Lion and Woodchuck Inn",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 459446460,
+        "Latitude": 42152,
+        "Longitude": 22056,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 5650432,
+                "Y": 10795009,
+                "IsExterior": 32768,
+                "Unknown2": 438,
+                "LocationId": 19895,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Lion and Woodchuck Inn"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12124,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 22660,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26736,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 32161,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 19895,
+                "BuildingType": "House3",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 28944,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19895,
+                "BuildingType": "House3",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27039,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22558,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 29638,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 19895,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23217,
+                "FactionId": 510,
+                "Sector": 63,
+                "LocationId": 19895,
+                "BuildingType": "HouseForSale",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 22066,
+                "FactionId": 510,
+                "Sector": 67,
+                "LocationId": 19895,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 12752,
+                "FactionId": 510,
+                "Sector": 84,
+                "LocationId": 19895,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "22066",
+            "MapId": 170172,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 438
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Hearthhouse Cabin",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 301104445,
+        "Latitude": 43048,
+        "Longitude": 17064,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4372480,
+                "Y": 11024385,
+                "IsExterior": 32768,
+                "Unknown2": 287,
+                "LocationId": 19488,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hearthhouse Cabin"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 5878,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19488,
+                "BuildingType": "House3",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Hearthhouse Cabin",
+            "MapId": 163133,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 287
+}

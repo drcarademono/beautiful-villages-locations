@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Laughing Cat Lodge",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 344325309,
+        "Latitude": 13736,
+        "Longitude": 48808,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12498944,
+                "Y": 3520513,
+                "IsExterior": 32768,
+                "Unknown2": 328,
+                "LocationId": 26367,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Laughing Cat Lodge"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 21634,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26367,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 8661,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26367,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7177,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 26367,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 13822,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26367,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13073,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 26367,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "13073",
+            "MapId": 392381,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 328
+}

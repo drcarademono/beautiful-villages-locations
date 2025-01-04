@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Fox and Pit Inn",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 115823544,
+        "Latitude": 2472,
+        "Longitude": 23592,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6043648,
+                "Y": 636929,
+                "IsExterior": 32768,
+                "Unknown2": 110,
+                "LocationId": 28946,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fox and Pit Inn"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 2979,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 28946,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 9540,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28946,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 1182,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 28946,
+                "BuildingType": "House4",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 11705,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 28946,
+                "BuildingType": "House4",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "2979",
+            "MapId": 480184,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 110
+}

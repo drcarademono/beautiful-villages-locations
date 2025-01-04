@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Kingford Manor",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 38922701,
+        "Latitude": 47912,
+        "Longitude": 49832,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12761088,
+                "Y": 12269569,
+                "IsExterior": 32768,
+                "Unknown2": 37,
+                "LocationId": 17372,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kingford Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26180,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17372,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 11987,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 20493,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 21268,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 24148,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 5529,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28344,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5418,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7885,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27469,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 17372,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27483,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 17372,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingford Manor",
+            "MapId": 125389,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 37
+}

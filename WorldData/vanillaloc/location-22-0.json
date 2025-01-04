@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Prison of Grictke",
+    "RegionName": "Lainlyn",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 277751,
+        "Latitude": 28456,
+        "Longitude": 96168,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Prison",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24623104,
+                "Y": 7288833,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 22740,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Prison of Grictke"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "The Prison of Grictke",
+            "MapId": 277751,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 13,
+            "BlockNames": [
+                "DUNGAA12.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 24623104,
+                "Y": 7288833,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 22741,
+                "IsInterior": 1,
+                "ExteriorLocationId": 22740,
+                "LocationName": "The Prison of Grictke"
+            }
+        },
+        "Header": {
+            "BlockCount": 10
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000057.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000010.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 22,
+    "LocationIndex": 0
+}

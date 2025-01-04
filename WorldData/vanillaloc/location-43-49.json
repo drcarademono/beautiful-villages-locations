@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Rusty Badger Tavern",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 51848421,
+        "Latitude": 4008,
+        "Longitude": 25256,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6469632,
+                "Y": 1030145,
+                "IsExterior": 32768,
+                "Unknown2": 49,
+                "LocationId": 28557,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rusty Badger Tavern"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 13871,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28557,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 6774,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 28557,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 7732,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 28557,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "7732",
+            "MapId": 468197,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 49
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Chorch'kern Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 824555585,
+        "Latitude": 16040,
+        "Longitude": 108712,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27834368,
+                "Y": 4110337,
+                "IsExterior": 32768,
+                "Unknown2": 786,
+                "LocationId": 25753,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Chorch'kern Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 21143,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 25753,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1050,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 25753,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 17222,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 25753,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 28628,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 25753,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Chorch'kern Manor",
+            "MapId": 374849,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 786
+}

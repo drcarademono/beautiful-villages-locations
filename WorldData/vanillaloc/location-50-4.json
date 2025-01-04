@@ -1,0 +1,186 @@
+{
+    "Loaded": true,
+    "Name": "The Rusty Bird Tavern",
+    "RegionName": "Satakalaam",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 4471139,
+        "Latitude": 28584,
+        "Longitude": 106920,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27375616,
+                "Y": 7321601,
+                "IsExterior": 32768,
+                "Unknown2": 4,
+                "LocationId": 22737,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rusty Bird Tavern"
+            }
+        },
+        "BuildingCount": 14,
+        "Buildings": [
+            {
+                "NameSeed": 19197,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 22737,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 27744,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3625,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 3680,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 30293,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8357,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 64,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1050,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 25280,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6582,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26780,
+                "FactionId": 0,
+                "Sector": 90,
+                "LocationId": 22737,
+                "BuildingType": "House2",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "19197",
+            "MapId": 276835,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 9,
+            "BlockNames": [
+                "TVRNAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 4
+}

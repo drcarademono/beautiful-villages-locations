@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Lartsa's Place",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 144103194,
+        "Latitude": 6568,
+        "Longitude": 36136,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9254912,
+                "Y": 1685505,
+                "IsExterior": 32768,
+                "Unknown2": 137,
+                "LocationId": 27991,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Lartsa's Place"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 14015,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27991,
+                "BuildingType": "House3",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Lartsa's Place",
+            "MapId": 448282,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 137
+}

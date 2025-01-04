@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Masterton Manor",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 386012099,
+        "Latitude": 46504,
+        "Longitude": 16808,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4306944,
+                "Y": 11909121,
+                "IsExterior": 32768,
+                "Unknown2": 368,
+                "LocationId": 18009,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterton Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 14625,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 30474,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 27900,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 12397,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 18009,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 9798,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19637,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 6363,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 18009,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 12013,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 18009,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 23788,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 18009,
+                "BuildingType": "House1",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterton Manor",
+            "MapId": 136131,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 368
+}

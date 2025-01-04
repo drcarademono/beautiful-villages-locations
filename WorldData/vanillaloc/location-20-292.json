@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Flying Cat Lodge",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 306573574,
+        "Latitude": 14120,
+        "Longitude": 48936,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12531712,
+                "Y": 3618817,
+                "IsExterior": 32768,
+                "Unknown2": 292,
+                "LocationId": 26271,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Flying Cat Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 29930,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26271,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 29548,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 26271,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 6827,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 26271,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "6827",
+            "MapId": 389382,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 292
+}

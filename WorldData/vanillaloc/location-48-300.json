@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Tasogu-Korom",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 314941360,
+        "Latitude": 16800,
+        "Longitude": 71720,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18364416,
+                "Y": 4304897,
+                "IsExterior": 32768,
+                "Unknown2": 300,
+                "LocationId": 25480,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Tasogu-Korom"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 15274,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25480,
+                "BuildingType": "House4",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 25170,
+                "FactionId": 510,
+                "Sector": 21,
+                "LocationId": 25480,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 24798,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 25480,
+                "BuildingType": "House4",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 12934,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 25480,
+                "BuildingType": "House4",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17475,
+                "FactionId": 0,
+                "Sector": 77,
+                "LocationId": 25480,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24716,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 25480,
+                "BuildingType": "GeneralStore",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32733,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 25480,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 17801,
+                "FactionId": 0,
+                "Sector": 97,
+                "LocationId": 25480,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 23694,
+                "FactionId": 0,
+                "Sector": 103,
+                "LocationId": 25480,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Tasogu-Korom",
+            "MapId": 368560,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "GENRGS00.RMB",
+                "RESIGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 300
+}

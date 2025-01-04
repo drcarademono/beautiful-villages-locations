@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The Thirsty Dragon Pub",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 96477369,
+        "Latitude": 62888,
+        "Longitude": 48296,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12367872,
+                "Y": 16103425,
+                "IsExterior": 32768,
+                "Unknown2": 92,
+                "LocationId": 10328,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Thirsty Dragon Pub"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 9112,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5166,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13422,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11943,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 3559,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 16445,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2094,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 273,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2765,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9948,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10328,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 22448,
+                "FactionId": 510,
+                "Sector": 55,
+                "LocationId": 10328,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 11136,
+                "FactionId": 510,
+                "Sector": 71,
+                "LocationId": 10328,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "22448",
+            "MapId": 8377,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 92
+}

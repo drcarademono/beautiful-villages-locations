@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "Suct'kern Laboratory",
+    "RegionName": "Kairou",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 112663853,
+        "Latitude": 4264,
+        "Longitude": 28328,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "Laboratory",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7256064,
+                "Y": 1095681,
+                "IsExterior": 32768,
+                "Unknown2": 107,
+                "LocationId": 28509,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Suct'kern Laboratory"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Suct'kern Laboratory",
+            "MapId": 466221,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 7256064,
+                "Y": 1095681,
+                "IsExterior": 0,
+                "Unknown2": 23,
+                "LocationId": 28510,
+                "IsInterior": 1,
+                "ExteriorLocationId": 28509,
+                "LocationName": "Suct'kern Laboratory"
+            }
+        },
+        "Header": {
+            "BlockCount": 8
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "N0000051.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": -1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "B0000007.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": 0,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "B0000011.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 107
+}

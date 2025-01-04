@@ -1,0 +1,73 @@
+{
+    "Loaded": true,
+    "Name": "Coven in the Marsh",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 100040090,
+        "Latitude": 9511,
+        "Longitude": 47416,
+        "LocationType": "Coven",
+        "DungeonType": "NoDungeon",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12142592,
+                "Y": 2438913,
+                "IsExterior": 32768,
+                "Unknown2": 95,
+                "LocationId": 50036,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Coven in the Marsh"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Coven in the Marsh",
+            "MapId": 425370,
+            "LocationId": 50036,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "WITCAA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 95
+}

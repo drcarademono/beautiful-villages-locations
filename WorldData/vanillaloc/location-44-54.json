@@ -1,0 +1,147 @@
+{
+    "Loaded": true,
+    "Name": "Ramissi-Thar",
+    "RegionName": "Kairou",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 57069315,
+        "Latitude": 6824,
+        "Longitude": 27040,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777216
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6926336,
+                "Y": 1751041,
+                "IsExterior": 32768,
+                "Unknown2": 54,
+                "LocationId": 27934,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ramissi-Thar"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 21868,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25942,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25664,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 28673,
+                "FactionId": 510,
+                "Sector": 22,
+                "LocationId": 27934,
+                "BuildingType": "GeneralStore",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 9966,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 16915,
+                "FactionId": 0,
+                "Sector": 37,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 29418,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 3578,
+                "FactionId": 0,
+                "Sector": 48,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 16357,
+                "FactionId": 0,
+                "Sector": 53,
+                "LocationId": 27934,
+                "BuildingType": "House2",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ramissi-Thar",
+            "MapId": 446211,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS03.RMB",
+                "GENRGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 54
+}

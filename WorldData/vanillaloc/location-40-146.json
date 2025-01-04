@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Masterhart Hall",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 153105412,
+        "Latitude": 62248,
+        "Longitude": 40488,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10369024,
+                "Y": 15939585,
+                "IsExterior": 32768,
+                "Unknown2": 146,
+                "LocationId": 10554,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterhart Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 9910,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 23618,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15760,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 17047,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 10554,
+                "BuildingType": "House3",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 32763,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 16806,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7969,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 10554,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2196,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 10554,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 19605,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 10554,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterhart Hall",
+            "MapId": 13316,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 146
+}

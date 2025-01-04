@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Murpt Hall",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 308634319,
+        "Latitude": 18856,
+        "Longitude": 124840,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31963136,
+                "Y": 4831233,
+                "IsExterior": 32768,
+                "Unknown2": 294,
+                "LocationId": 24873,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Murpt Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 22109,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7929,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 9089,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13232,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 24873,
+                "BuildingType": "House3",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 24979,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 21889,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15628,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 24873,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 20666,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 24873,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 730,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 24873,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Murpt Hall",
+            "MapId": 352975,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 294
+}

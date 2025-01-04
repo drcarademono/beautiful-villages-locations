@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The Dancing Priest Tavern",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 399659952,
+        "Latitude": 44456,
+        "Longitude": 63528,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16267264,
+                "Y": 11384833,
+                "IsExterior": 32768,
+                "Unknown2": 381,
+                "LocationId": 18901,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dancing Priest Tavern"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 16959,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11038,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 32101,
+                "FactionId": 0,
+                "Sector": 13,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 13654,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 3337,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18440,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 31458,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 17107,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5247,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 18901,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 81,
+                "FactionId": 510,
+                "Sector": 68,
+                "LocationId": 18901,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 10377,
+                "FactionId": 510,
+                "Sector": 80,
+                "LocationId": 18901,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 22228,
+                "FactionId": 510,
+                "Sector": 93,
+                "LocationId": 18901,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "81",
+            "MapId": 152496,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 381
+}

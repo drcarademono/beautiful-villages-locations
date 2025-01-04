@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hearthwing Hall",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 37874104,
+        "Latitude": 47912,
+        "Longitude": 47144,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12072960,
+                "Y": 12269569,
+                "IsExterior": 32768,
+                "Unknown2": 36,
+                "LocationId": 17371,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hearthwing Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 23028,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17371,
+                "BuildingType": "House1",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16952,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23352,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 3367,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7849,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 768,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17688,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20262,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2997,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 21526,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 17371,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13064,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 17371,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hearthwing Hall",
+            "MapId": 125368,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 36
+}

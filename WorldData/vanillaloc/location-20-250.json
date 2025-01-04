@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Devil's Castle Pub",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 262529420,
+        "Latitude": 14632,
+        "Longitude": 53800,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13776896,
+                "Y": 3749889,
+                "IsExterior": 32768,
+                "Unknown2": 250,
+                "LocationId": 26145,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Devil's Castle Pub"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 31860,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26145,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 15736,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 26145,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 22680,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 26145,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "22680",
+            "MapId": 385420,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 250
+}

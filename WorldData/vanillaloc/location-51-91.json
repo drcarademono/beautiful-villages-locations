@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Nirdar Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 95749187,
+        "Latitude": 21928,
+        "Longitude": 98728,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25278464,
+                "Y": 5617665,
+                "IsExterior": 32768,
+                "Unknown2": 91,
+                "LocationId": 24031,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Nirdar Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 27184,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24031,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 31246,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 18743,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 11815,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14966,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10550,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 4865,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 16144,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 21655,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1691,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24031,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27169,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24031,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Nirdar Manor",
+            "MapId": 328771,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 91
+}

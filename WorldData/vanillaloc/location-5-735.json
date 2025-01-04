@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Buckinghouse Manor",
+    "RegionName": "Dwynnen",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 770836874,
+        "Latitude": 46888,
+        "Longitude": 65832,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16857088,
+                "Y": 12007425,
+                "IsExterior": 32768,
+                "Unknown2": 735,
+                "LocationId": 17823,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckinghouse Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 32126,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8494,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 3018,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 21250,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 14197,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 24419,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 16743,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13852,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 6862,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 18442,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 4393,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 17823,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 24537,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17823,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 24977,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 17823,
+                "BuildingType": "House1",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckinghouse Manor",
+            "MapId": 133514,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 133,
+    "RegionIndex": 5,
+    "LocationIndex": 735
+}

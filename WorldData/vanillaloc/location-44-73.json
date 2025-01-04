@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "F'ivir Hall",
+    "RegionName": "Kairou",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 76997259,
+        "Latitude": 6184,
+        "Longitude": 27048,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6928384,
+                "Y": 1587201,
+                "IsExterior": 32768,
+                "Unknown2": 73,
+                "LocationId": 28084,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "F'ivir Hall"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 24826,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28084,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 16274,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 28084,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31881,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 28084,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21352,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 28084,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "F'ivir Hall",
+            "MapId": 451211,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 73
+}

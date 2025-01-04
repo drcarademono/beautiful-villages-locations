@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The White Skull Inn",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 517304760,
+        "Latitude": 18344,
+        "Longitude": 101416,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25966592,
+                "Y": 4700161,
+                "IsExterior": 32768,
+                "Unknown2": 493,
+                "LocationId": 25000,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The White Skull Inn"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 25184,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 25000,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6106,
+                "FactionId": 0,
+                "Sector": 27,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 28060,
+                "FactionId": 0,
+                "Sector": 31,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 25881,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4483,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4654,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 23565,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17579,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8851,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 25000,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4180,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 25000,
+                "BuildingType": "House3",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14258,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 25000,
+                "BuildingType": "House3",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "25184",
+            "MapId": 356792,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 493
+}

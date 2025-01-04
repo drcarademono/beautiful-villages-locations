@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Kingham Court",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 208807026,
+        "Latitude": 45992,
+        "Longitude": 51496,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13187072,
+                "Y": 11778049,
+                "IsExterior": 32768,
+                "Unknown2": 199,
+                "LocationId": 18282,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kingham Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 3240,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18282,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 19255,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27641,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10420,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10568,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 4777,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27187,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 18282,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23428,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 18282,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingham Court",
+            "MapId": 140402,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 199
+}

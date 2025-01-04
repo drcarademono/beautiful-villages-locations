@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Lherchen Manor",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 97843083,
+        "Latitude": 22312,
+        "Longitude": 65960,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16889856,
+                "Y": 5715969,
+                "IsExterior": 32768,
+                "Unknown2": 93,
+                "LocationId": 23918,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Lherchen Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 29173,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23918,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 145,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 14172,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4052,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 9735,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 25520,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 14538,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21333,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 11383,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10998,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23918,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 8294,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23918,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Lherchen Manor",
+            "MapId": 325515,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 93
+}

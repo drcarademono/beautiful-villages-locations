@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Mastersmith Court",
+    "RegionName": "Bhoriane",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 130144023,
+        "Latitude": 48552,
+        "Longitude": 76712,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19642368,
+                "Y": 12433409,
+                "IsExterior": 32768,
+                "Unknown2": 124,
+                "LocationId": 17114,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mastersmith Court"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 12607,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12415,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 26548,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17114,
+                "BuildingType": "House3",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26657,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16959,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11038,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 17114,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13270,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17114,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 31319,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 17114,
+                "BuildingType": "House1",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mastersmith Court",
+            "MapId": 120599,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 164,
+    "RegionIndex": 36,
+    "LocationIndex": 124
+}

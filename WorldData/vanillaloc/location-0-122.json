@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Queen's Fawn Inn",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 128356798,
+        "Latitude": 8872,
+        "Longitude": 67368,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17250304,
+                "Y": 2275329,
+                "IsExterior": 32768,
+                "Unknown2": 122,
+                "LocationId": 27524,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Queen's Fawn Inn"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 16455,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27524,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12322,
+                "FactionId": 510,
+                "Sector": 11,
+                "LocationId": 27524,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 30913,
+                "FactionId": 510,
+                "Sector": 24,
+                "LocationId": 27524,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "30913",
+            "MapId": 430526,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 122
+}

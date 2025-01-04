@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Krurhti's Hovel",
+    "RegionName": "Bergama",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 4644723,
+        "Latitude": 6312,
+        "Longitude": 53672,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13744128,
+                "Y": 1619969,
+                "IsExterior": 32768,
+                "Unknown2": 4,
+                "LocationId": 28056,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Krurhti's Hovel"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 25060,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28056,
+                "BuildingType": "House3",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Krurhti's Hovel",
+            "MapId": 450419,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 184,
+    "RegionIndex": 56,
+    "LocationIndex": 4
+}

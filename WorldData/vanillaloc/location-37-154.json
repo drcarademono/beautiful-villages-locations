@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Buckingford Court",
+    "RegionName": "Kambria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 161552346,
+        "Latitude": 54824,
+        "Longitude": 82216,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21051392,
+                "Y": 14039041,
+                "IsExterior": 32768,
+                "Unknown2": 154,
+                "LocationId": 13894,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckingford Court"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 1300,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 26544,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 23565,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17579,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 13894,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8851,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4180,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14258,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 13894,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27568,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 13894,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26368,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 13894,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckingford Court",
+            "MapId": 71642,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 165,
+    "RegionIndex": 37,
+    "LocationIndex": 154
+}

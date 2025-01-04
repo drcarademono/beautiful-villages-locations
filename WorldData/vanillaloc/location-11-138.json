@@ -1,0 +1,186 @@
+{
+    "Loaded": true,
+    "Name": "The Lucky Sword Inn",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 145189125,
+        "Latitude": 1832,
+        "Longitude": 81576,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20887552,
+                "Y": 473089,
+                "IsExterior": 32768,
+                "Unknown2": 138,
+                "LocationId": 29102,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Lucky Sword Inn"
+            }
+        },
+        "BuildingCount": 14,
+        "Buildings": [
+            {
+                "NameSeed": 5937,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 29102,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 22000,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 25942,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 25664,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 1046,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 26377,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 19405,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 30898,
+                "FactionId": 0,
+                "Sector": 64,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11961,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3472,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 27488,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 17389,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 5957,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 14216,
+                "FactionId": 0,
+                "Sector": 90,
+                "LocationId": 29102,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "5937",
+            "MapId": 485637,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 225,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 139,
+    "RegionIndex": 11,
+    "LocationIndex": 138
+}

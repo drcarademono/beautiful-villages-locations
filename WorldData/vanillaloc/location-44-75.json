@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Pig and Djinn Pub",
+    "RegionName": "Kairou",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 79094443,
+        "Latitude": 6184,
+        "Longitude": 31144,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7976960,
+                "Y": 1587201,
+                "IsExterior": 32768,
+                "Unknown2": 75,
+                "LocationId": 28086,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Pig and Djinn Pub"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 5936,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28086,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 11945,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 28086,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29773,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 28086,
+                "BuildingType": "HouseForSale",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 1235,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 28086,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "1235",
+            "MapId": 451243,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 172,
+    "RegionIndex": 44,
+    "LocationIndex": 75
+}

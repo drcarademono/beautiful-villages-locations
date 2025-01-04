@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Rafylsa's Shack",
+    "RegionName": "Bergama",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 46610755,
+        "Latitude": 3368,
+        "Longitude": 52648,
+        "LocationType": "HomePoor",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13481984,
+                "Y": 866305,
+                "IsExterior": 32768,
+                "Unknown2": 44,
+                "LocationId": 28726,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Rafylsa's Shack"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 7716,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28726,
+                "BuildingType": "House3",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Rafylsa's Shack",
+            "MapId": 473411,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "SHCKBA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 184,
+    "RegionIndex": 56,
+    "LocationIndex": 44
+}

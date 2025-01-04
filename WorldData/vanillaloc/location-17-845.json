@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Lucky Priest Lodge",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 886238998,
+        "Latitude": 39336,
+        "Longitude": 35624,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9123840,
+                "Y": 10074113,
+                "IsExterior": 32768,
+                "Unknown2": 845,
+                "LocationId": 20799,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Lucky Priest Lodge"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 2080,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 20799,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4110,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 20799,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 14616,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 20799,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 29029,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 20799,
+                "BuildingType": "House3",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30476,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 835,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 23759,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 19294,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 30622,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 20799,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22109,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 7929,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 20799,
+                "BuildingType": "House2",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "2080",
+            "MapId": 192278,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 845
+}

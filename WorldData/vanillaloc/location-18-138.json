@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Kinghouse Hall",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 144806670,
+        "Latitude": 50728,
+        "Longitude": 23336,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 5978112,
+                "Y": 12990465,
+                "IsExterior": 32768,
+                "Unknown2": 138,
+                "LocationId": 16016,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kinghouse Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 4338,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 5561,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 23456,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 6168,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 16016,
+                "BuildingType": "House3",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 32763,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 16806,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7969,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 16016,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2196,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 16016,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 19605,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 16016,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kinghouse Hall",
+            "MapId": 103182,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 138
+}

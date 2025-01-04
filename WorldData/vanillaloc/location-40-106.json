@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Buckingsly Manor",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 111158474,
+        "Latitude": 62760,
+        "Longitude": 53544,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13711360,
+                "Y": 16070657,
+                "IsExterior": 32768,
+                "Unknown2": 106,
+                "LocationId": 10379,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckingsly Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12860,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10379,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29608,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6471,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 6321,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 25794,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31455,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 28242,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8320,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4372,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 6925,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 10379,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 17563,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 10379,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckingsly Manor",
+            "MapId": 9418,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 106
+}

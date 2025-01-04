@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Kingcroft Manor",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 391342763,
+        "Latitude": 35368,
+        "Longitude": 117160,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29997056,
+                "Y": 9058305,
+                "IsExterior": 32768,
+                "Unknown2": 373,
+                "LocationId": 22042,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kingcroft Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 20630,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22042,
+                "BuildingType": "House1",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16385,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 13681,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3881,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6753,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29761,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32270,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10932,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 16355,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 7434,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 22042,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 32696,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 22042,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingcroft Manor",
+            "MapId": 223915,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 373
+}

@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "The Thirsty Griffin Tavern",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 143091869,
+        "Latitude": 1832,
+        "Longitude": 68264,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17479680,
+                "Y": 473089,
+                "IsExterior": 32768,
+                "Unknown2": 136,
+                "LocationId": 29099,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Thirsty Griffin Tavern"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 16367,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 29099,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 15395,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 29099,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14014,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 32384,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11019,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32189,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 19449,
+                "FactionId": 0,
+                "Sector": 73,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12517,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 7716,
+                "FactionId": 0,
+                "Sector": 83,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 768,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 17688,
+                "FactionId": 0,
+                "Sector": 94,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20262,
+                "FactionId": 0,
+                "Sector": 100,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2997,
+                "FactionId": 0,
+                "Sector": 110,
+                "LocationId": 29099,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "16367",
+            "MapId": 485533,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 225,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 139,
+    "RegionIndex": 11,
+    "LocationIndex": 136
+}

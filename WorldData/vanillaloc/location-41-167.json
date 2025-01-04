@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Wickton Hall",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 175202549,
+        "Latitude": 52392,
+        "Longitude": 45736,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11712512,
+                "Y": 13416449,
+                "IsExterior": 32768,
+                "Unknown2": 167,
+                "LocationId": 15221,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wickton Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 30060,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7006,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20880,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 1800,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 15221,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 470,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 26113,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 28645,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 15221,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12484,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 15221,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 15412,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 15221,
+                "BuildingType": "House1",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wickton Hall",
+            "MapId": 90357,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 167
+}

@@ -1,0 +1,186 @@
+{
+    "Loaded": true,
+    "Name": "The Laughing Chasm Lodge",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 26520958,
+        "Latitude": 24744,
+        "Longitude": 71464,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18298880,
+                "Y": 6338561,
+                "IsExterior": 32768,
+                "Unknown2": 25,
+                "LocationId": 23384,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Laughing Chasm Lodge"
+            }
+        },
+        "BuildingCount": 14,
+        "Buildings": [
+            {
+                "NameSeed": 3273,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 23384,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 14599,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 13452,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1351,
+                "FactionId": 0,
+                "Sector": 34,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 5638,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 17026,
+                "FactionId": 0,
+                "Sector": 47,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17109,
+                "FactionId": 0,
+                "Sector": 56,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31133,
+                "FactionId": 0,
+                "Sector": 64,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25349,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28395,
+                "FactionId": 0,
+                "Sector": 72,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 27319,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 90,
+                "LocationId": 23384,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "3273",
+            "MapId": 306558,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 25
+}

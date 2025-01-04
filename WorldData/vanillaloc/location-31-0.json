@@ -1,0 +1,130 @@
+{
+    "Loaded": true,
+    "Name": "Mantellan Crux",
+    "RegionName": "High Rock sea coast",
+    "HasDungeon": true,
+    "MapTableData": {
+        "MapId": 1001,
+        "Latitude": 63783,
+        "Longitude": 184,
+        "LocationType": "DungeonLabyrinth",
+        "DungeonType": "HarpyNest",
+        "Discovered": false,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 51200,
+                "Y": 16332545,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 50000,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mantellan Crux"
+            }
+        },
+        "BuildingCount": 0,
+        "Buildings": [],
+        "ExteriorData": {
+            "AnotherName": "Mantellan Crux",
+            "MapId": 1001,
+            "LocationId": 50000,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "DUNGAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 51200,
+                "Y": 16332545,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 50001,
+                "IsInterior": 1,
+                "ExteriorLocationId": 50000,
+                "LocationName": "Mantellan Crux"
+            }
+        },
+        "Header": {
+            "BlockCount": 7
+        },
+        "Blocks": [
+            {
+                "X": 0,
+                "Z": 0,
+                "IsStartingBlock": true,
+                "BlockName": "S0000000.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -1,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "S0000001.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -2,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "S0000002.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -3,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "S0000003.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -4,
+                "Z": 0,
+                "IsStartingBlock": false,
+                "BlockName": "S0000004.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -4,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "S0000006.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            },
+            {
+                "X": -5,
+                "Z": 1,
+                "IsStartingBlock": false,
+                "BlockName": "S0000005.RDB",
+                "WaterLevel": 0,
+                "CastleBlock": false
+            }
+        ]
+    },
+    "Climate": {
+        "WorldClimate": 223,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 402,
+        "NatureArchive": 504,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 31,
+    "LocationIndex": 0
+}

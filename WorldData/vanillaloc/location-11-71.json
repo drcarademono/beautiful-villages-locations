@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Savage Gnome Tavern",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 74919500,
+        "Latitude": 3752,
+        "Longitude": 77352,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19806208,
+                "Y": 964609,
+                "IsExterior": 32768,
+                "Unknown2": 71,
+                "LocationId": 28643,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Savage Gnome Tavern"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12893,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 30971,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15757,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11344,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 28643,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 11362,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 28643,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 11274,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 22317,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4844,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 28643,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 16324,
+                "FactionId": 510,
+                "Sector": 63,
+                "LocationId": 28643,
+                "BuildingType": "HouseForSale",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 22028,
+                "FactionId": 510,
+                "Sector": 67,
+                "LocationId": 28643,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 29537,
+                "FactionId": 510,
+                "Sector": 84,
+                "LocationId": 28643,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "22028",
+            "MapId": 470604,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 225,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": null
+    },
+    "Politic": 139,
+    "RegionIndex": 11,
+    "LocationIndex": 71
+}

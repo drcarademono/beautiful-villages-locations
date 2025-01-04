@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Mouse and Castle Pub",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 256237886,
+        "Latitude": 14632,
+        "Longitude": 43816,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11220992,
+                "Y": 3749889,
+                "IsExterior": 32768,
+                "Unknown2": 244,
+                "LocationId": 26137,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Mouse and Castle Pub"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 9949,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26137,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 6416,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 26137,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 2061,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 26137,
+                "BuildingType": "HouseForSale",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17010,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 26137,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "17010",
+            "MapId": 385342,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 244
+}

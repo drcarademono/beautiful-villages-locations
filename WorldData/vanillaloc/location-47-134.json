@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Mole and Stag Pub",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 140918640,
+        "Latitude": 11560,
+        "Longitude": 58408,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14956544,
+                "Y": 2963457,
+                "IsExterior": 32768,
+                "Unknown2": 134,
+                "LocationId": 26893,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Mole and Stag Pub"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 3809,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26893,
+                "BuildingType": "House4",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12005,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26893,
+                "BuildingType": "House4",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 17859,
+                "FactionId": 0,
+                "Sector": 25,
+                "LocationId": 26893,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26485,
+                "FactionId": 510,
+                "Sector": 31,
+                "LocationId": 26893,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "26485",
+            "MapId": 409456,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 134
+}

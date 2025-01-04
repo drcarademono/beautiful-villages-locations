@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Flying Stag Hostel",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 541476617,
+        "Latitude": 11304,
+        "Longitude": 51368,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13154304,
+                "Y": 2897921,
+                "IsExterior": 32768,
+                "Unknown2": 516,
+                "LocationId": 26949,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Flying Stag Hostel"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 3231,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26949,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2694,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26949,
+                "BuildingType": "House4",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15200,
+                "FactionId": 0,
+                "Sector": 25,
+                "LocationId": 26949,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 2279,
+                "FactionId": 510,
+                "Sector": 31,
+                "LocationId": 26949,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "2279",
+            "MapId": 411401,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 516
+}

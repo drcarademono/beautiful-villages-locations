@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Dancing Skull Lodge",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 279402560,
+        "Latitude": 2344,
+        "Longitude": 44072,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11286528,
+                "Y": 604161,
+                "IsExterior": 32768,
+                "Unknown2": 266,
+                "LocationId": 28975,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dancing Skull Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 32499,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28975,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13461,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 28975,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 26939,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 28975,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "26939",
+            "MapId": 481344,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 266
+}

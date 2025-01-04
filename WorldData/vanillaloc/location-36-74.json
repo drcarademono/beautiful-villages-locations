@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Hawksly Palace",
+    "RegionName": "Bhoriane",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 77703225,
+        "Latitude": 50088,
+        "Longitude": 76968,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19707904,
+                "Y": 12826625,
+                "IsExterior": 32768,
+                "Unknown2": 74,
+                "LocationId": 16418,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawksly Palace"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 26134,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 18331,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 26847,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13961,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 16418,
+                "BuildingType": "House3",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1435,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2823,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 9496,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 16418,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 15197,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 16418,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 6306,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 16418,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawksly Palace",
+            "MapId": 108601,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 164,
+    "RegionIndex": 36,
+    "LocationIndex": 74
+}

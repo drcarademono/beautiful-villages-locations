@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Krull Hall",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 451240524,
+        "Latitude": 18856,
+        "Longitude": 108072,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27670528,
+                "Y": 4831233,
+                "IsExterior": 32768,
+                "Unknown2": 430,
+                "LocationId": 24857,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Krull Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 10480,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24857,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 15820,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 25643,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 18160,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 23866,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 18202,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29205,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12096,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29358,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 21056,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24857,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 2906,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24857,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Krull Hall",
+            "MapId": 352844,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 430
+}

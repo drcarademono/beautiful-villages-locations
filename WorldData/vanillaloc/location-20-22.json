@@ -1,0 +1,197 @@
+{
+    "Loaded": true,
+    "Name": "Naririret",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 23419056,
+        "Latitude": 19104,
+        "Longitude": 49184,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777472
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12595200,
+                "Y": 4894721,
+                "IsExterior": 32768,
+                "Unknown2": 22,
+                "LocationId": 24762,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Naririret"
+            }
+        },
+        "BuildingCount": 15,
+        "Buildings": [
+            {
+                "NameSeed": 25622,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 28474,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 32483,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 19252,
+                "FactionId": 0,
+                "Sector": 23,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21937,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 24762,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32274,
+                "FactionId": 510,
+                "Sector": 43,
+                "LocationId": 24762,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15247,
+                "FactionId": 510,
+                "Sector": 58,
+                "LocationId": 24762,
+                "BuildingType": "HouseForSale",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 7381,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 11915,
+                "FactionId": 0,
+                "Sector": 75,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 19854,
+                "FactionId": 0,
+                "Sector": 83,
+                "LocationId": 24762,
+                "BuildingType": "House4",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 30770,
+                "FactionId": 510,
+                "Sector": 100,
+                "LocationId": 24762,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 16753,
+                "FactionId": 0,
+                "Sector": 114,
+                "LocationId": 24762,
+                "BuildingType": "House4",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 19827,
+                "FactionId": 0,
+                "Sector": 135,
+                "LocationId": 24762,
+                "BuildingType": "House4",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19294,
+                "FactionId": 0,
+                "Sector": 156,
+                "LocationId": 24762,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 25484,
+                "FactionId": 510,
+                "Sector": 159,
+                "LocationId": 24762,
+                "BuildingType": "GeneralStore",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Naririret",
+            "MapId": 350384,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIGS02.RMB",
+                "TVRNGS03.RMB",
+                "RESIGS01.RMB",
+                "GENRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 22
+}

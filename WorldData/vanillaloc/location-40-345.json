@@ -1,0 +1,170 @@
+{
+    "Loaded": true,
+    "Name": "The Screaming Gnome Lodge",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 361787133,
+        "Latitude": 60328,
+        "Longitude": 52904,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13547520,
+                "Y": 15448065,
+                "IsExterior": 32768,
+                "Unknown2": 345,
+                "LocationId": 11385,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Screaming Gnome Lodge"
+            }
+        },
+        "BuildingCount": 12,
+        "Buildings": [
+            {
+                "NameSeed": 1576,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 11385,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 28547,
+                "FactionId": 0,
+                "Sector": 27,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 4059,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 30189,
+                "FactionId": 0,
+                "Sector": 35,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21486,
+                "FactionId": 0,
+                "Sector": 40,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 4413,
+                "FactionId": 0,
+                "Sector": 46,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15609,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7096,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2955,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 12841,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29696,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 28197,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 11385,
+                "BuildingType": "House2",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "1576",
+            "MapId": 28413,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 345
+}

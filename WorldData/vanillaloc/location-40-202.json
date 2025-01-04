@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Ashsmith Hall",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 211830657,
+        "Latitude": 61608,
+        "Longitude": 39080,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10008576,
+                "Y": 15775745,
+                "IsExterior": 32768,
+                "Unknown2": 202,
+                "LocationId": 10830,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ashsmith Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 13596,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10830,
+                "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 3789,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18975,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 3210,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29846,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 15524,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 7004,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 15177,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29097,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3231,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 10830,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 9094,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 10830,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ashsmith Hall",
+            "MapId": 18305,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 202
+}

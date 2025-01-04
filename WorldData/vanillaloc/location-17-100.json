@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Laughing Badger Lodge",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 105009761,
+        "Latitude": 44456,
+        "Longitude": 20648,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 5289984,
+                "Y": 11384833,
+                "IsExterior": 32768,
+                "Unknown2": 100,
+                "LocationId": 18869,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Laughing Badger Lodge"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 8464,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4013,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10098,
+                "FactionId": 0,
+                "Sector": 20,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 4330,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 18869,
+                "BuildingType": "House3",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 1585,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 18869,
+                "BuildingType": "House3",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 22919,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2744,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 4332,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 18869,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 557,
+                "FactionId": 510,
+                "Sector": 63,
+                "LocationId": 18869,
+                "BuildingType": "HouseForSale",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21346,
+                "FactionId": 510,
+                "Sector": 67,
+                "LocationId": 18869,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 26622,
+                "FactionId": 510,
+                "Sector": 84,
+                "LocationId": 18869,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "21346",
+            "MapId": 152161,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 100
+}

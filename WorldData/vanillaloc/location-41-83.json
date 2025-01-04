@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Rat and Stag Lodge",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 87095172,
+        "Latitude": 55848,
+        "Longitude": 46632,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11941888,
+                "Y": 14301185,
+                "IsExterior": 32768,
+                "Unknown2": 83,
+                "LocationId": 13400,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rat and Stag Lodge"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 14776,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 13400,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19606,
+                "FactionId": 0,
+                "Sector": 27,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10702,
+                "FactionId": 0,
+                "Sector": 31,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 13825,
+                "FactionId": 0,
+                "Sector": 38,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6318,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20090,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10054,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 22710,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5830,
+                "FactionId": 0,
+                "Sector": 81,
+                "LocationId": 13400,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25622,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 13400,
+                "BuildingType": "House3",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 28474,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 13400,
+                "BuildingType": "House3",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "14776",
+            "MapId": 63364,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 83
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "The Lucky Porcupine Inn",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 328599030,
+        "Latitude": 13480,
+        "Longitude": 95016,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24328192,
+                "Y": 3454977,
+                "IsExterior": 32768,
+                "Unknown2": 313,
+                "LocationId": 26442,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Lucky Porcupine Inn"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 13372,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 26442,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 3581,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 26442,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 10293,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 26442,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 22448,
+                "FactionId": 0,
+                "Sector": 49,
+                "LocationId": 26442,
+                "BuildingType": "House3",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 18775,
+                "FactionId": 0,
+                "Sector": 55,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6927,
+                "FactionId": 0,
+                "Sector": 58,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 5677,
+                "FactionId": 0,
+                "Sector": 70,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32592,
+                "FactionId": 0,
+                "Sector": 76,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 13825,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 26442,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6318,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20090,
+                "FactionId": 0,
+                "Sector": 92,
+                "LocationId": 26442,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "13372",
+            "MapId": 394742,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 313
+}

@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Dirty Barbarian Lodge",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 161818247,
+        "Latitude": 20776,
+        "Longitude": 69544,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17807360,
+                "Y": 5322753,
+                "IsExterior": 32768,
+                "Unknown2": 154,
+                "LocationId": 24314,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dirty Barbarian Lodge"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 31627,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24314,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14385,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 24314,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28303,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 24314,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29502,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24314,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 10649,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 24314,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "10649",
+            "MapId": 337543,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 154
+}

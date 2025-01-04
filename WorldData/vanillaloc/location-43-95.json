@@ -1,0 +1,98 @@
+{
+    "Loaded": true,
+    "Name": "The Dead Djinn Lodge",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 100091918,
+        "Latitude": 2856,
+        "Longitude": 25384,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6502400,
+                "Y": 735233,
+                "IsExterior": 32768,
+                "Unknown2": 95,
+                "LocationId": 28850,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dead Djinn Lodge"
+            }
+        },
+        "BuildingCount": 3,
+        "Buildings": [
+            {
+                "NameSeed": 31566,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28850,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 15933,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 28850,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30155,
+                "FactionId": 510,
+                "Sector": 20,
+                "LocationId": 28850,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "30155",
+            "MapId": 477198,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 95
+}

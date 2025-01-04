@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "The Unfortunate Castle Lodge",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 127307321,
+        "Latitude": 9000,
+        "Longitude": 80040,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20494336,
+                "Y": 2308097,
+                "IsExterior": 32768,
+                "Unknown2": 121,
+                "LocationId": 27495,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Unfortunate Castle Lodge"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 7324,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27495,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18618,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27495,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 5906,
+                "FactionId": 510,
+                "Sector": 19,
+                "LocationId": 27495,
+                "BuildingType": "HouseForSale",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6008,
+                "FactionId": 510,
+                "Sector": 30,
+                "LocationId": 27495,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "6008",
+            "MapId": 429625,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNBS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 121
+}

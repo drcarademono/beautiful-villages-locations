@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Hearthsly Palace",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 488673852,
+        "Latitude": 59176,
+        "Longitude": 55848,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14301184,
+                "Y": 15153153,
+                "IsExterior": 32768,
+                "Unknown2": 466,
+                "LocationId": 11897,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hearthsly Palace"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 3129,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21526,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4050,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4031,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 11897,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20049,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 1370,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5550,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 11897,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23935,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 11897,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31026,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 11897,
+                "BuildingType": "House1",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hearthsly Palace",
+            "MapId": 37436,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 466
+}

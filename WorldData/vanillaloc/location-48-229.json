@@ -1,0 +1,114 @@
+{
+    "Loaded": true,
+    "Name": "The Dancing Badger Inn",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 240476426,
+        "Latitude": 18856,
+        "Longitude": 66856,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17119232,
+                "Y": 4831233,
+                "IsExterior": 32768,
+                "Unknown2": 229,
+                "LocationId": 24837,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Dancing Badger Inn"
+            }
+        },
+        "BuildingCount": 5,
+        "Buildings": [
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24837,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 24837,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 25280,
+                "FactionId": 0,
+                "Sector": 14,
+                "LocationId": 24837,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6582,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24837,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31595,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 24837,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "31595",
+            "MapId": 352522,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNGS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 229
+}

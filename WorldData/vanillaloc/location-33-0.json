@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "The Rusty Hedgehog Inn",
+    "RegionName": "Menevia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 145840,
+        "Latitude": 45352,
+        "Longitude": 107560,
+        "LocationType": "Tavern",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27539456,
+                "Y": 11614209,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 18567,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rusty Hedgehog Inn"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 10481,
+                "FactionId": 510,
+                "Sector": 4,
+                "LocationId": 18567,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31455,
+                "FactionId": 510,
+                "Sector": 32,
+                "LocationId": 18567,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15398,
+                "FactionId": 0,
+                "Sector": 44,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 14517,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 31648,
+                "FactionId": 0,
+                "Sector": 60,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4071,
+                "FactionId": 0,
+                "Sector": 66,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 9647,
+                "FactionId": 0,
+                "Sector": 73,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9686,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9323,
+                "FactionId": 0,
+                "Sector": 83,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 30513,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 659,
+                "FactionId": 0,
+                "Sector": 94,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 13077,
+                "FactionId": 0,
+                "Sector": 100,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 277,
+                "FactionId": 0,
+                "Sector": 110,
+                "LocationId": 18567,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "10481",
+            "MapId": 145840,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 161,
+    "RegionIndex": 33,
+    "LocationIndex": 0
+}

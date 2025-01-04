@@ -1,0 +1,213 @@
+{
+    "Loaded": true,
+    "Name": "Mesascuza",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 81161870,
+        "Latitude": 10016,
+        "Longitude": 66336,
+        "LocationType": "TownVillage",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 16777984
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16986112,
+                "Y": 2568193,
+                "IsExterior": 32768,
+                "Unknown2": 77,
+                "LocationId": 27241,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mesascuza"
+            }
+        },
+        "BuildingCount": 17,
+        "Buildings": [
+            {
+                "NameSeed": 29379,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 3942,
+                "FactionId": 0,
+                "Sector": 11,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 350,
+                "FactionId": 510,
+                "Sector": 23,
+                "LocationId": 27241,
+                "BuildingType": "HouseForSale",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 1525,
+                "FactionId": 0,
+                "Sector": 29,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 30252,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 32441,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 13913,
+                "FactionId": 0,
+                "Sector": 48,
+                "LocationId": 27241,
+                "BuildingType": "House4",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 16616,
+                "FactionId": 510,
+                "Sector": 65,
+                "LocationId": 27241,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 14821,
+                "FactionId": 0,
+                "Sector": 79,
+                "LocationId": 27241,
+                "BuildingType": "House4",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11457,
+                "FactionId": 0,
+                "Sector": 100,
+                "LocationId": 27241,
+                "BuildingType": "House4",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4756,
+                "FactionId": 0,
+                "Sector": 121,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 21829,
+                "FactionId": 510,
+                "Sector": 124,
+                "LocationId": 27241,
+                "BuildingType": "GeneralStore",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22925,
+                "FactionId": 510,
+                "Sector": 136,
+                "LocationId": 27241,
+                "BuildingType": "WeaponSmith",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29421,
+                "FactionId": 0,
+                "Sector": 139,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 9281,
+                "FactionId": 0,
+                "Sector": 144,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21829,
+                "FactionId": 0,
+                "Sector": 149,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 10376,
+                "FactionId": 0,
+                "Sector": 155,
+                "LocationId": 27241,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mesascuza",
+            "MapId": 421518,
+            "LocationId": 0,
+            "Width": 2,
+            "Height": 2,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "RESIBS01.RMB",
+                "RESIBS02.RMB",
+                "GENRBS00.RMB",
+                "WEAPBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 77
+}

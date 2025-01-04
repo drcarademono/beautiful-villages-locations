@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Dirchta Palace",
+    "RegionName": "Ephesus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 136768762,
+        "Latitude": 5928,
+        "Longitude": 112936,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28915712,
+                "Y": 1521665,
+                "IsExterior": 32768,
+                "Unknown2": 130,
+                "LocationId": 28156,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Dirchta Palace"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 20407,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 1541,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 8531,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 29719,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 28156,
+                "BuildingType": "House3",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 26930,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 1108,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 7908,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 28156,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10985,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 28156,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 16125,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 28156,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Dirchta Palace",
+            "MapId": 453882,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 181,
+    "RegionIndex": 53,
+    "LocationIndex": 130
+}

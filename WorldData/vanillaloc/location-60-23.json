@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Mooring Manor",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 24175539,
+        "Latitude": 56488,
+        "Longitude": 37288,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9549824,
+                "Y": 14465025,
+                "IsExterior": 32768,
+                "Unknown2": 23,
+                "LocationId": 13089,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mooring Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 7172,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13089,
+                "BuildingType": "House1",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12455,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9346,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19102,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 24572,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 2974,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 6862,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 18442,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 4393,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 22579,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 13089,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15008,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 13089,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mooring Manor",
+            "MapId": 58291,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 23
+}
