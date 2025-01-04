@@ -25,15 +25,15 @@
                 "LocationName": "Updale"
             }
         },
-        "BuildingCount": 47,
+        "BuildingCount": 38,
         "Buildings": [
             {
+                "NameSeed": 28268,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 29495,
-                "Sector": 3,
-                "LocationId": 17482
+                "Sector": 4,
+                "LocationId": 17482,
+                "BuildingType": "Tavern",
+                "Quality": 2
             },
             {
                 "NameSeed": 4536,
@@ -108,14 +108,6 @@
                 "Quality": 2
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 4,
-                "NameSeed": 8095,
-                "Sector": 3,
-                "LocationId": 17482
-            },
-            {
                 "NameSeed": 8811,
                 "FactionId": 0,
                 "Sector": 88,
@@ -164,6 +156,22 @@
                 "Quality": 13
             },
             {
+                "FactionId": 404,
+                "BuildingType": 7,
+                "Quality": 5,
+                "NameSeed": 849,
+                "Sector": 198,
+                "LocationId": 17482
+            },
+            {
+                "FactionId": 510,
+                "BuildingType": 12,
+                "Quality": 15,
+                "NameSeed": 7189,
+                "Sector": 212,
+                "LocationId": 17482
+            },
+            {
                 "NameSeed": 17600,
                 "FactionId": 0,
                 "Sector": 127,
@@ -180,12 +188,20 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 19574,
+                "NameSeed": 4271,
                 "FactionId": 0,
-                "Sector": 157,
+                "Sector": 284,
                 "LocationId": 17482,
-                "BuildingType": "House3",
-                "Quality": 4
+                "BuildingType": "Bookseller",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 11059,
+                "FactionId": 0,
+                "Sector": 293,
+                "LocationId": 17482,
+                "BuildingType": "ClothingStore",
+                "Quality": 2
             },
             {
                 "NameSeed": 1453,
@@ -194,14 +210,6 @@
                 "LocationId": 17482,
                 "BuildingType": "House2",
                 "Quality": 8
-            },
-            {
-                "NameSeed": 21015,
-                "FactionId": 0,
-                "Sector": 164,
-                "LocationId": 17482,
-                "BuildingType": "House3",
-                "Quality": 7
             },
             {
                 "NameSeed": 261,
@@ -218,22 +226,6 @@
                 "LocationId": 17482,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "FactionId": 404,
-                "BuildingType": 7,
-                "Quality": 10,
-                "NameSeed": 25064,
-                "Sector": 190,
-                "LocationId": 17482
-            },
-            {
-                "FactionId": 510,
-                "BuildingType": 12,
-                "Quality": 10,
-                "NameSeed": 15342,
-                "Sector": 190,
-                "LocationId": 17482
             },
             {
                 "NameSeed": 21895,
@@ -308,22 +300,6 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 4271,
-                "FactionId": 0,
-                "Sector": 284,
-                "LocationId": 17482,
-                "BuildingType": "Bookseller",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 11059,
-                "FactionId": 0,
-                "Sector": 293,
-                "LocationId": 17482,
-                "BuildingType": "ClothingStore",
-                "Quality": 2
-            },
-            {
                 "NameSeed": 23485,
                 "FactionId": 0,
                 "Sector": 301,
@@ -340,60 +316,12 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 15177,
+                "NameSeed": 19404,
                 "FactionId": 0,
-                "Sector": 310,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 29097,
-                "FactionId": 0,
-                "Sector": 314,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 3231,
-                "FactionId": 0,
-                "Sector": 319,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
-                "NameSeed": 2694,
-                "FactionId": 0,
-                "Sector": 328,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 15200,
-                "FactionId": 0,
-                "Sector": 334,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 27830,
-                "FactionId": 0,
-                "Sector": 338,
-                "LocationId": 17482,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
-                "NameSeed": 28268,
-                "FactionId": 0,
-                "Sector": 4,
+                "Sector": 359,
                 "LocationId": 17482,
                 "BuildingType": "Tavern",
-                "Quality": 2
+                "Quality": 5
             },
             {
                 "NameSeed": 11299,

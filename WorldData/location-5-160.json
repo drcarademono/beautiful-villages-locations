@@ -25,31 +25,23 @@
                 "LocationName": "Grimleigh"
             }
         },
-        "BuildingCount": 41,
+        "BuildingCount": 32,
         "Buildings": [
             {
+                "NameSeed": 20038,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 8,
-                "NameSeed": 7968,
-                "Sector": 3,
-                "LocationId": 11791
+                "Sector": 4,
+                "LocationId": 11791,
+                "BuildingType": "Tavern",
+                "Quality": 5
             },
             {
+                "NameSeed": 17596,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 22048,
-                "Sector": 3,
-                "LocationId": 11791
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 7,
-                "NameSeed": 18415,
-                "Sector": 3,
-                "LocationId": 11791
+                "Sector": 16,
+                "LocationId": 11791,
+                "BuildingType": "Tavern",
+                "Quality": 15
             },
             {
                 "NameSeed": 27170,
@@ -76,20 +68,20 @@
                 "Quality": 14
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 8,
-                "NameSeed": 28245,
-                "Sector": 3,
-                "LocationId": 11791
-            },
-            {
                 "NameSeed": 6001,
                 "FactionId": 0,
                 "Sector": 63,
                 "LocationId": 11791,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 25629,
+                "FactionId": 0,
+                "Sector": 32,
+                "LocationId": 11791,
+                "BuildingType": "Tavern",
+                "Quality": 3
             },
             {
                 "NameSeed": 28603,
@@ -108,14 +100,6 @@
                 "Quality": 2
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 1521,
-                "Sector": 3,
-                "LocationId": 11791
-            },
-            {
                 "NameSeed": 18716,
                 "FactionId": 0,
                 "Sector": 92,
@@ -132,19 +116,11 @@
                 "Quality": 9
             },
             {
-                "NameSeed": 16614,
-                "FactionId": 0,
-                "Sector": 103,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 7294,
-                "Sector": 6,
+                "Quality": 9,
+                "NameSeed": 16614,
+                "Sector": 103,
                 "LocationId": 11791
             },
             {
@@ -158,18 +134,10 @@
             {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 4,
-                "NameSeed": 7545,
-                "Sector": 6,
-                "LocationId": 11791
-            },
-            {
+                "Quality": 14,
                 "NameSeed": 13290,
-                "FactionId": 0,
                 "Sector": 123,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 14
+                "LocationId": 11791
             },
             {
                 "NameSeed": 1048,
@@ -268,11 +236,11 @@
                 "Quality": 9
             },
             {
-                "NameSeed": 20109,
+                "NameSeed": 27373,
                 "FactionId": 0,
-                "Sector": 193,
+                "Sector": 228,
                 "LocationId": 11791,
-                "BuildingType": "House2",
+                "BuildingType": "Tavern",
                 "Quality": 10
             },
             {
@@ -284,12 +252,12 @@
                 "Quality": 11
             },
             {
+                "NameSeed": 20109,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 4196,
-                "Sector": 171,
-                "LocationId": 11791
+                "Sector": 193,
+                "LocationId": 11791,
+                "BuildingType": "House2",
+                "Quality": 10
             },
             {
                 "NameSeed": 9966,
@@ -314,46 +282,6 @@
                 "LocationId": 11791,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 3578,
-                "FactionId": 0,
-                "Sector": 213,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 4537,
-                "FactionId": 0,
-                "Sector": 251,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 25016,
-                "FactionId": 0,
-                "Sector": 255,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 16,
-                "NameSeed": 27015,
-                "Sector": 174,
-                "LocationId": 11791
-            },
-            {
-                "NameSeed": 15822,
-                "FactionId": 0,
-                "Sector": 262,
-                "LocationId": 11791,
-                "BuildingType": "House2",
-                "Quality": 12
             }
         ],
         "ExteriorData": {

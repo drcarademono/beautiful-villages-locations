@@ -25,7 +25,7 @@
                 "LocationName": "Vanbrugh Minster"
             }
         },
-        "BuildingCount": 35,
+        "BuildingCount": 31,
         "Buildings": [
             {
                 "NameSeed": 3996,
@@ -108,28 +108,20 @@
                 "Quality": 12
             },
             {
+                "NameSeed": 16390,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 8,
-                "NameSeed": 16251,
-                "Sector": 77,
-                "LocationId": 16871
+                "Sector": 88,
+                "LocationId": 16871,
+                "BuildingType": "Tavern",
+                "Quality": 12
             },
             {
+                "NameSeed": 29553,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 26428,
-                "Sector": 77,
-                "LocationId": 16871
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 7,
-                "NameSeed": 14306,
-                "Sector": 77,
-                "LocationId": 16871
+                "Sector": 100,
+                "LocationId": 16871,
+                "BuildingType": "Tavern",
+                "Quality": 11
             },
             {
                 "NameSeed": 15780,
@@ -156,20 +148,20 @@
                 "Quality": 14
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 8,
-                "NameSeed": 24844,
-                "Sector": 77,
-                "LocationId": 16871
-            },
-            {
                 "NameSeed": 32271,
                 "FactionId": 0,
                 "Sector": 128,
                 "LocationId": 16871,
                 "BuildingType": "House2",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 8201,
+                "FactionId": 0,
+                "Sector": 116,
+                "LocationId": 16871,
+                "BuildingType": "Tavern",
+                "Quality": 2
             },
             {
                 "NameSeed": 27222,
@@ -188,11 +180,19 @@
                 "Quality": 15
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 24115,
-                "Sector": 77,
+                "FactionId": 404,
+                "BuildingType": 7,
+                "Quality": 3,
+                "NameSeed": 7087,
+                "Sector": 253,
+                "LocationId": 16871
+            },
+            {
+                "FactionId": 510,
+                "BuildingType": 12,
+                "Quality": 9,
+                "NameSeed": 26150,
+                "Sector": 267,
                 "LocationId": 16871
             },
             {
@@ -204,28 +204,28 @@
                 "Quality": 12
             },
             {
-                "FactionId": 404,
-                "BuildingType": 7,
-                "Quality": 10,
-                "NameSeed": 19239,
-                "Sector": 150,
-                "LocationId": 16871
-            },
-            {
-                "FactionId": 510,
-                "BuildingType": 12,
-                "Quality": 10,
-                "NameSeed": 7506,
-                "Sector": 150,
-                "LocationId": 16871
-            },
-            {
                 "NameSeed": 12153,
                 "FactionId": 0,
                 "Sector": 156,
                 "LocationId": 16871,
                 "BuildingType": "House2",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 2717,
+                "FactionId": 0,
+                "Sector": 339,
+                "LocationId": 16871,
+                "BuildingType": "Bookseller",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 4687,
+                "FactionId": 0,
+                "Sector": 348,
+                "LocationId": 16871,
+                "BuildingType": "ClothingStore",
+                "Quality": 3
             },
             {
                 "NameSeed": 28907,
@@ -274,38 +274,6 @@
                 "LocationId": 16871,
                 "BuildingType": "House2",
                 "Quality": 14
-            },
-            {
-                "NameSeed": 13913,
-                "FactionId": 0,
-                "Sector": 212,
-                "LocationId": 16871,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 12114,
-                "FactionId": 0,
-                "Sector": 222,
-                "LocationId": 16871,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 2717,
-                "FactionId": 0,
-                "Sector": 339,
-                "LocationId": 16871,
-                "BuildingType": "Bookseller",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 4687,
-                "FactionId": 0,
-                "Sector": 348,
-                "LocationId": 16871,
-                "BuildingType": "ClothingStore",
-                "Quality": 3
             }
         ],
         "ExteriorData": {

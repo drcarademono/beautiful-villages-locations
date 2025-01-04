@@ -25,7 +25,7 @@
                 "LocationName": "Badai"
             }
         },
-        "BuildingCount": 29,
+        "BuildingCount": 26,
         "Buildings": [
             {
                 "NameSeed": 10395,
@@ -46,10 +46,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 3,
-                "Quality": 10,
-                "NameSeed": 8121,
-                "Sector": 3,
+                "Quality": 14,
+                "NameSeed": 18306,
+                "Sector": 16,
                 "LocationId": 27162
+            },
+            {
+                "NameSeed": 28197,
+                "FactionId": 404,
+                "Sector": 98,
+                "LocationId": 27162,
+                "BuildingType": "ClothingStore",
+                "Quality": 1
             },
             {
                 "NameSeed": 29140,
@@ -124,14 +132,6 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 28197,
-                "FactionId": 404,
-                "Sector": 98,
-                "LocationId": 27162,
-                "BuildingType": "ClothingStore",
-                "Quality": 1
-            },
-            {
                 "NameSeed": 20071,
                 "FactionId": 0,
                 "Sector": 109,
@@ -188,6 +188,22 @@
                 "Quality": 14
             },
             {
+                "NameSeed": 11993,
+                "FactionId": 0,
+                "Sector": 163,
+                "LocationId": 27162,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17900,
+                "FactionId": 0,
+                "Sector": 152,
+                "LocationId": 27162,
+                "BuildingType": "GeneralStore",
+                "Quality": 10
+            },
+            {
                 "NameSeed": 28798,
                 "FactionId": 0,
                 "Sector": 143,
@@ -212,52 +228,12 @@
                 "Quality": 9
             },
             {
-                "NameSeed": 17900,
-                "FactionId": 0,
-                "Sector": 152,
-                "LocationId": 27162,
-                "BuildingType": "GeneralStore",
-                "Quality": 10
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 21750,
-                "Sector": 101,
-                "LocationId": 27162
-            },
-            {
                 "NameSeed": 27131,
                 "FactionId": 0,
                 "Sector": 190,
                 "LocationId": 27162,
                 "BuildingType": "House2",
                 "Quality": 13
-            },
-            {
-                "NameSeed": 26266,
-                "FactionId": 0,
-                "Sector": 197,
-                "LocationId": 27162,
-                "BuildingType": "House2",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 21676,
-                "FactionId": 0,
-                "Sector": 207,
-                "LocationId": 27162,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 17345,
-                "FactionId": 0,
-                "Sector": 215,
-                "LocationId": 27162,
-                "BuildingType": "House2",
-                "Quality": 12
             }
         ],
         "ExteriorData": {

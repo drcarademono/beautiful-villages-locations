@@ -25,7 +25,7 @@
                 "LocationName": "Longwall"
             }
         },
-        "BuildingCount": 35,
+        "BuildingCount": 32,
         "Buildings": [
             {
                 "NameSeed": 8406,
@@ -116,14 +116,6 @@
                 "Quality": 10
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 12,
-                "NameSeed": 7681,
-                "Sector": 77,
-                "LocationId": 21482
-            },
-            {
                 "NameSeed": 29229,
                 "FactionId": 0,
                 "Sector": 53,
@@ -132,12 +124,12 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 23414,
                 "FactionId": 0,
-                "BuildingType": 19,
-                "Quality": 4,
-                "NameSeed": 3774,
-                "Sector": 77,
-                "LocationId": 21482
+                "Sector": 58,
+                "LocationId": 21482,
+                "BuildingType": "House2",
+                "Quality": 1
             },
             {
                 "NameSeed": 25539,
@@ -148,12 +140,12 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 23414,
+                "NameSeed": 31288,
                 "FactionId": 0,
-                "Sector": 58,
+                "Sector": 117,
                 "LocationId": 21482,
-                "BuildingType": "House2",
-                "Quality": 1
+                "BuildingType": "House3",
+                "Quality": 14
             },
             {
                 "NameSeed": 11144,
@@ -180,20 +172,20 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 6938,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 15,
-                "NameSeed": 16823,
-                "Sector": 77,
-                "LocationId": 21482
+                "Sector": 151,
+                "LocationId": 21482,
+                "BuildingType": "Tavern",
+                "Quality": 8
             },
             {
+                "NameSeed": 2223,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 6,
-                "NameSeed": 2463,
-                "Sector": 77,
-                "LocationId": 21482
+                "Sector": 168,
+                "LocationId": 21482,
+                "BuildingType": "Tavern",
+                "Quality": 2
             },
             {
                 "NameSeed": 16825,
@@ -214,10 +206,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 3,
-                "Quality": 10,
-                "NameSeed": 5249,
-                "Sector": 80,
+                "Quality": 15,
+                "NameSeed": 10552,
+                "Sector": 209,
                 "LocationId": 21482
+            },
+            {
+                "NameSeed": 24088,
+                "FactionId": 404,
+                "Sector": 291,
+                "LocationId": 21482,
+                "BuildingType": "ClothingStore",
+                "Quality": 14
             },
             {
                 "NameSeed": 27210,
@@ -276,33 +276,9 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 12306,
+                "NameSeed": 16454,
                 "FactionId": 0,
-                "Sector": 246,
-                "LocationId": 21482,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 15137,
-                "FactionId": 0,
-                "Sector": 252,
-                "LocationId": 21482,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 24088,
-                "FactionId": 404,
-                "Sector": 291,
-                "LocationId": 21482,
-                "BuildingType": "ClothingStore",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 15031,
-                "FactionId": 0,
-                "Sector": 294,
+                "Sector": 369,
                 "LocationId": 21482,
                 "BuildingType": "House1",
                 "Quality": 16

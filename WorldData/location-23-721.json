@@ -25,7 +25,7 @@
                 "LocationName": "Broadshire Hall"
             }
         },
-        "BuildingCount": 39,
+        "BuildingCount": 29,
         "Buildings": [
             {
                 "NameSeed": 16309,
@@ -68,12 +68,12 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 29418,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 9,
+                "NameSeed": 29418,
                 "Sector": 67,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 9
+                "LocationId": 22527
             },
             {
                 "NameSeed": 3578,
@@ -84,12 +84,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 16357,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 16357,
                 "Sector": 77,
+                "LocationId": 22527
+            },
+            {
+                "NameSeed": 27683,
+                "FactionId": 0,
+                "Sector": 140,
                 "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 11
+                "BuildingType": "House3",
+                "Quality": 14
             },
             {
                 "NameSeed": 13137,
@@ -98,6 +106,30 @@
                 "LocationId": 22527,
                 "BuildingType": "House2",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 12755,
+                "FactionId": 0,
+                "Sector": 151,
+                "LocationId": 22527,
+                "BuildingType": "House3",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17585,
+                "FactionId": 0,
+                "Sector": 157,
+                "LocationId": 22527,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20867,
+                "FactionId": 0,
+                "Sector": 169,
+                "LocationId": 22527,
+                "BuildingType": "Tavern",
+                "Quality": 3
             },
             {
                 "NameSeed": 5529,
@@ -116,28 +148,12 @@
                 "Quality": 10
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 29741,
-                "Sector": 80,
-                "LocationId": 22527
-            },
-            {
                 "NameSeed": 5418,
                 "FactionId": 0,
                 "Sector": 114,
                 "LocationId": 22527,
                 "BuildingType": "House2",
                 "Quality": 15
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 4,
-                "NameSeed": 20337,
-                "Sector": 80,
-                "LocationId": 22527
             },
             {
                 "NameSeed": 7885,
@@ -148,12 +164,12 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 27683,
+                "NameSeed": 251,
                 "FactionId": 0,
-                "Sector": 140,
+                "Sector": 185,
                 "LocationId": 22527,
-                "BuildingType": "House3",
-                "Quality": 14
+                "BuildingType": "Tavern",
+                "Quality": 4
             },
             {
                 "NameSeed": 27469,
@@ -162,38 +178,6 @@
                 "LocationId": 22527,
                 "BuildingType": "House2",
                 "Quality": 7
-            },
-            {
-                "NameSeed": 12755,
-                "FactionId": 0,
-                "Sector": 151,
-                "LocationId": 22527,
-                "BuildingType": "House3",
-                "Quality": 7
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 8,
-                "NameSeed": 14414,
-                "Sector": 154,
-                "LocationId": 22527
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 1554,
-                "Sector": 154,
-                "LocationId": 22527
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 7,
-                "NameSeed": 16372,
-                "Sector": 154,
-                "LocationId": 22527
             },
             {
                 "NameSeed": 17477,
@@ -220,14 +204,6 @@
                 "Quality": 2
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 8,
-                "NameSeed": 7545,
-                "Sector": 154,
-                "LocationId": 22527
-            },
-            {
                 "NameSeed": 1125,
                 "FactionId": 0,
                 "Sector": 204,
@@ -252,14 +228,6 @@
                 "Quality": 12
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 20431,
-                "Sector": 154,
-                "LocationId": 22527
-            },
-            {
                 "NameSeed": 25836,
                 "FactionId": 0,
                 "Sector": 225,
@@ -276,60 +244,12 @@
                 "Quality": 9
             },
             {
-                "NameSeed": 25192,
+                "NameSeed": 15035,
                 "FactionId": 0,
-                "Sector": 245,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 787,
-                "FactionId": 0,
-                "Sector": 249,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 17600,
-                "FactionId": 0,
-                "Sector": 256,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 31304,
-                "FactionId": 0,
-                "Sector": 261,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 1453,
-                "FactionId": 0,
-                "Sector": 265,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
-                "NameSeed": 19574,
-                "FactionId": 0,
-                "Sector": 269,
-                "LocationId": 22527,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 17585,
-                "FactionId": 0,
-                "Sector": 157,
+                "Sector": 314,
                 "LocationId": 22527,
                 "BuildingType": "Tavern",
-                "Quality": 1
+                "Quality": 12
             },
             {
                 "NameSeed": 14279,

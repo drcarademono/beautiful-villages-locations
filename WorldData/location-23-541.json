@@ -25,7 +25,7 @@
                 "LocationName": "Ipsmont Heath"
             }
         },
-        "BuildingCount": 43,
+        "BuildingCount": 40,
         "Buildings": [
             {
                 "NameSeed": 6423,
@@ -44,19 +44,19 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 26675,
                 "FactionId": 0,
-                "Sector": 15,
-                "LocationId": 22305,
-                "BuildingType": "House2",
-                "Quality": 2
+                "BuildingType": 15,
+                "Quality": 11,
+                "NameSeed": 12668,
+                "Sector": 55,
+                "LocationId": 22305
             },
             {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 22190,
-                "Sector": 3,
+                "Quality": 2,
+                "NameSeed": 26675,
+                "Sector": 15,
                 "LocationId": 22305
             },
             {
@@ -86,18 +86,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 20209,
-                "Sector": 3,
+                "Quality": 14,
+                "NameSeed": 28368,
+                "Sector": 39,
                 "LocationId": 22305
             },
             {
-                "NameSeed": 28368,
+                "NameSeed": 377,
                 "FactionId": 0,
-                "Sector": 39,
+                "Sector": 71,
                 "LocationId": 22305,
-                "BuildingType": "House2",
-                "Quality": 14
+                "BuildingType": "Tavern",
+                "Quality": 9
             },
             {
                 "NameSeed": 10846,
@@ -106,22 +106,6 @@
                 "LocationId": 22305,
                 "BuildingType": "House2",
                 "Quality": 7
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 5087,
-                "Sector": 3,
-                "LocationId": 22305
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 6633,
-                "Sector": 3,
-                "LocationId": 22305
             },
             {
                 "NameSeed": 23504,
@@ -204,20 +188,20 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 23884,
-                "FactionId": 0,
-                "Sector": 148,
-                "LocationId": 22305,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
                 "NameSeed": 13807,
                 "FactionId": 0,
                 "Sector": 167,
                 "LocationId": 22305,
                 "BuildingType": "House3",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 23884,
+                "FactionId": 0,
+                "Sector": 148,
+                "LocationId": 22305,
+                "BuildingType": "House2",
+                "Quality": 6
             },
             {
                 "NameSeed": 2184,
@@ -234,14 +218,6 @@
                 "LocationId": 22305,
                 "BuildingType": "House2",
                 "Quality": 8
-            },
-            {
-                "NameSeed": 6089,
-                "FactionId": 0,
-                "Sector": 181,
-                "LocationId": 22305,
-                "BuildingType": "House3",
-                "Quality": 4
             },
             {
                 "NameSeed": 29136,
@@ -268,19 +244,11 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 31668,
-                "FactionId": 0,
-                "Sector": 192,
-                "LocationId": 22305,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
                 "FactionId": 0,
                 "BuildingType": 15,
-                "Quality": 6,
-                "NameSeed": 5517,
-                "Sector": 148,
+                "Quality": 7,
+                "NameSeed": 19323,
+                "Sector": 205,
                 "LocationId": 22305
             },
             {
@@ -300,12 +268,28 @@
                 "Quality": 1
             },
             {
+                "NameSeed": 6089,
+                "FactionId": 0,
+                "Sector": 181,
+                "LocationId": 22305,
+                "BuildingType": "House3",
+                "Quality": 4
+            },
+            {
                 "NameSeed": 11244,
                 "FactionId": 0,
                 "Sector": 242,
                 "LocationId": 22305,
                 "BuildingType": "WeaponSmith",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 31668,
+                "FactionId": 0,
+                "Sector": 192,
+                "LocationId": 22305,
+                "BuildingType": "House2",
+                "Quality": 5
             },
             {
                 "NameSeed": 29869,
@@ -362,14 +346,6 @@
                 "LocationId": 22305,
                 "BuildingType": "House2",
                 "Quality": 4
-            },
-            {
-                "NameSeed": 2356,
-                "FactionId": 0,
-                "Sector": 279,
-                "LocationId": 22305,
-                "BuildingType": "House2",
-                "Quality": 2
             }
         ],
         "ExteriorData": {

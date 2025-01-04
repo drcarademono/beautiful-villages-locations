@@ -25,7 +25,7 @@
                 "LocationName": "Deerpath"
             }
         },
-        "BuildingCount": 56,
+        "BuildingCount": 52,
         "Buildings": [
             {
                 "NameSeed": 16806,
@@ -100,12 +100,12 @@
                 "Quality": 8
             },
             {
-                "NameSeed": 20346,
+                "NameSeed": 24783,
                 "FactionId": 0,
-                "Sector": 111,
+                "Sector": 82,
                 "LocationId": 14278,
-                "BuildingType": "House2",
-                "Quality": 17
+                "BuildingType": "Tavern",
+                "Quality": 20
             },
             {
                 "NameSeed": 261,
@@ -116,12 +116,12 @@
                 "Quality": 5
             },
             {
+                "NameSeed": 20346,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 6074,
-                "Sector": 3,
-                "LocationId": 14278
+                "Sector": 111,
+                "LocationId": 14278,
+                "BuildingType": "House2",
+                "Quality": 17
             },
             {
                 "NameSeed": 15314,
@@ -132,12 +132,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 11080,
                 "FactionId": 0,
+                "BuildingType": 15,
+                "Quality": 12,
+                "NameSeed": 11287,
+                "Sector": 94,
+                "LocationId": 14278
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 19,
+                "NameSeed": 11080,
                 "Sector": 122,
-                "LocationId": 14278,
-                "BuildingType": "House2",
-                "Quality": 19
+                "LocationId": 14278
             },
             {
                 "NameSeed": 20602,
@@ -146,14 +154,6 @@
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 5
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 11981,
-                "Sector": 6,
-                "LocationId": 14278
             },
             {
                 "NameSeed": 15841,
@@ -172,20 +172,28 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 31378,
-                "FactionId": 0,
-                "Sector": 151,
-                "LocationId": 14278,
-                "BuildingType": "House2",
-                "Quality": 20
-            },
-            {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 21706,
-                "Sector": 6,
+                "Quality": 20,
+                "NameSeed": 31378,
+                "Sector": 151,
                 "LocationId": 14278
+            },
+            {
+                "NameSeed": 25992,
+                "FactionId": 0,
+                "Sector": 173,
+                "LocationId": 14278,
+                "BuildingType": "Tavern",
+                "Quality": 16
+            },
+            {
+                "NameSeed": 29870,
+                "FactionId": 0,
+                "Sector": 288,
+                "LocationId": 14278,
+                "BuildingType": "Armorer",
+                "Quality": 9
             },
             {
                 "NameSeed": 12492,
@@ -202,30 +210,6 @@
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 17
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 23890,
-                "Sector": 6,
-                "LocationId": 14278
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 11158,
-                "Sector": 6,
-                "LocationId": 14278
-            },
-            {
-                "NameSeed": 29870,
-                "FactionId": 0,
-                "Sector": 288,
-                "LocationId": 14278,
-                "BuildingType": "Armorer",
-                "Quality": 9
             },
             {
                 "NameSeed": 13469,
@@ -332,6 +316,14 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 24202,
+                "FactionId": 0,
+                "Sector": 368,
+                "LocationId": 14278,
+                "BuildingType": "Armorer",
+                "Quality": 8
+            },
+            {
                 "NameSeed": 5978,
                 "FactionId": 0,
                 "Sector": 281,
@@ -346,14 +338,6 @@
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 15
-            },
-            {
-                "NameSeed": 29306,
-                "FactionId": 0,
-                "Sector": 297,
-                "LocationId": 14278,
-                "BuildingType": "Armorer",
-                "Quality": 8
             },
             {
                 "NameSeed": 16582,
@@ -436,41 +420,25 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 9931,
+                "NameSeed": 10158,
                 "FactionId": 0,
-                "Sector": 297,
-                "LocationId": 14278,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 18445,
-                "FactionId": 0,
-                "Sector": 297,
-                "LocationId": 14278,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 25534,
-                "FactionId": 0,
-                "Sector": 297,
+                "Sector": 371,
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 10
             },
             {
-                "NameSeed": 19733,
+                "NameSeed": 13632,
                 "FactionId": 0,
-                "Sector": 297,
+                "Sector": 374,
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 6
             },
             {
-                "NameSeed": 4309,
+                "NameSeed": 19877,
                 "FactionId": 0,
-                "Sector": 297,
+                "Sector": 377,
                 "LocationId": 14278,
                 "BuildingType": "House2",
                 "Quality": 7

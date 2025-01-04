@@ -25,7 +25,7 @@
                 "LocationName": "Naroajet"
             }
         },
-        "BuildingCount": 26,
+        "BuildingCount": 22,
         "Buildings": [
             {
                 "NameSeed": 30210,
@@ -100,12 +100,12 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 11836,
+                "NameSeed": 29526,
                 "FactionId": 0,
-                "Sector": 43,
+                "Sector": 58,
                 "LocationId": 25004,
-                "BuildingType": "House2",
-                "Quality": 1
+                "BuildingType": "Tavern",
+                "Quality": 4
             },
             {
                 "NameSeed": 16274,
@@ -116,12 +116,12 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 11836,
                 "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 8407,
-                "Sector": 3,
-                "LocationId": 25004
+                "Sector": 43,
+                "LocationId": 25004,
+                "BuildingType": "House2",
+                "Quality": 1
             },
             {
                 "NameSeed": 13750,
@@ -140,12 +140,20 @@
                 "Quality": 3
             },
             {
-                "NameSeed": 20521,
                 "FactionId": 0,
+                "BuildingType": 15,
+                "Quality": 12,
+                "NameSeed": 2012,
+                "Sector": 199,
+                "LocationId": 25004
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 1,
+                "NameSeed": 20521,
                 "Sector": 89,
-                "LocationId": 25004,
-                "BuildingType": "House2",
-                "Quality": 1
+                "LocationId": 25004
             },
             {
                 "NameSeed": 27703,
@@ -154,14 +162,6 @@
                 "LocationId": 25004,
                 "BuildingType": "House2",
                 "Quality": 6
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 12,
-                "NameSeed": 16739,
-                "Sector": 6,
-                "LocationId": 25004
             },
             {
                 "NameSeed": 1990,
@@ -180,20 +180,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 8874,
-                "FactionId": 0,
-                "Sector": 133,
-                "LocationId": 25004,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 13307,
-                "Sector": 9,
+                "Quality": 7,
+                "NameSeed": 8874,
+                "Sector": 133,
                 "LocationId": 25004
+            },
+            {
+                "NameSeed": 10097,
+                "FactionId": 0,
+                "Sector": 215,
+                "LocationId": 25004,
+                "BuildingType": "Tavern",
+                "Quality": 13
             },
             {
                 "NameSeed": 18843,
@@ -202,38 +202,6 @@
                 "LocationId": 25004,
                 "BuildingType": "House2",
                 "Quality": 13
-            },
-            {
-                "NameSeed": 32633,
-                "FactionId": 0,
-                "Sector": 142,
-                "LocationId": 25004,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 15656,
-                "Sector": 9,
-                "LocationId": 25004
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 5066,
-                "Sector": 9,
-                "LocationId": 25004
-            },
-            {
-                "NameSeed": 10392,
-                "FactionId": 0,
-                "Sector": 12,
-                "LocationId": 25004,
-                "BuildingType": "House2",
-                "Quality": 12
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "Arkmoth"
             }
         },
-        "BuildingCount": 39,
+        "BuildingCount": 31,
         "Buildings": [
             {
                 "NameSeed": 5632,
@@ -46,10 +46,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 3,
-                "Quality": 10,
-                "NameSeed": 10138,
-                "Sector": 3,
+                "Quality": 13,
+                "NameSeed": 23465,
+                "Sector": 16,
                 "LocationId": 19304
+            },
+            {
+                "NameSeed": 27065,
+                "FactionId": 404,
+                "Sector": 98,
+                "LocationId": 19304,
+                "BuildingType": "ClothingStore",
+                "Quality": 7
             },
             {
                 "NameSeed": 30665,
@@ -124,14 +132,6 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 27065,
-                "FactionId": 404,
-                "Sector": 98,
-                "LocationId": 19304,
-                "BuildingType": "ClothingStore",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 7466,
                 "FactionId": 0,
                 "Sector": 109,
@@ -180,22 +180,6 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 26071,
-                "FactionId": 0,
-                "Sector": 149,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 7376,
-                "FactionId": 0,
-                "Sector": 158,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
                 "NameSeed": 17347,
                 "FactionId": 0,
                 "Sector": 164,
@@ -218,6 +202,22 @@
                 "LocationId": 19304,
                 "BuildingType": "WeaponSmith",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 26071,
+                "FactionId": 0,
+                "Sector": 149,
+                "LocationId": 19304,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 7376,
+                "FactionId": 0,
+                "Sector": 158,
+                "LocationId": 19304,
+                "BuildingType": "House2",
+                "Quality": 5
             },
             {
                 "NameSeed": 11250,
@@ -274,70 +274,6 @@
                 "LocationId": 19304,
                 "BuildingType": "House2",
                 "Quality": 11
-            },
-            {
-                "NameSeed": 29999,
-                "FactionId": 0,
-                "Sector": 242,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 18593,
-                "FactionId": 0,
-                "Sector": 256,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 24488,
-                "FactionId": 0,
-                "Sector": 268,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
-                "NameSeed": 21718,
-                "FactionId": 0,
-                "Sector": 282,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 12646,
-                "FactionId": 0,
-                "Sector": 299,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
-                "NameSeed": 6603,
-                "FactionId": 0,
-                "Sector": 315,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 26364,
-                "FactionId": 0,
-                "Sector": 240,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 9740,
-                "FactionId": 0,
-                "Sector": 240,
-                "LocationId": 19304,
-                "BuildingType": "House2",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

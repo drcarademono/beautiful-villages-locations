@@ -25,7 +25,7 @@
                 "LocationName": "Cromcroft"
             }
         },
-        "BuildingCount": 35,
+        "BuildingCount": 32,
         "Buildings": [
             {
                 "NameSeed": 2398,
@@ -44,19 +44,19 @@
                 "Quality": 9
             },
             {
-                "NameSeed": 31647,
                 "FactionId": 0,
-                "Sector": 15,
-                "LocationId": 13770,
-                "BuildingType": "House2",
-                "Quality": 15
+                "BuildingType": 15,
+                "Quality": 5,
+                "NameSeed": 13643,
+                "Sector": 55,
+                "LocationId": 13770
             },
             {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 16537,
-                "Sector": 3,
+                "Quality": 15,
+                "NameSeed": 31647,
+                "Sector": 15,
                 "LocationId": 13770
             },
             {
@@ -86,18 +86,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 18,
-                "Quality": 6,
-                "NameSeed": 12917,
-                "Sector": 3,
+                "Quality": 2,
+                "NameSeed": 4052,
+                "Sector": 39,
                 "LocationId": 13770
             },
             {
-                "NameSeed": 4052,
+                "NameSeed": 7122,
                 "FactionId": 0,
-                "Sector": 39,
+                "Sector": 71,
                 "LocationId": 13770,
-                "BuildingType": "House2",
-                "Quality": 2
+                "BuildingType": "Tavern",
+                "Quality": 10
             },
             {
                 "NameSeed": 9735,
@@ -106,22 +106,6 @@
                 "LocationId": 13770,
                 "BuildingType": "House2",
                 "Quality": 13
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 9,
-                "NameSeed": 18113,
-                "Sector": 3,
-                "LocationId": 13770
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 21879,
-                "Sector": 3,
-                "LocationId": 13770
             },
             {
                 "NameSeed": 25520,
@@ -140,20 +124,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 25017,
-                "FactionId": 0,
-                "Sector": 95,
-                "LocationId": 13770,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
                 "NameSeed": 30212,
                 "FactionId": 0,
                 "Sector": 167,
                 "LocationId": 13770,
                 "BuildingType": "House3",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 25017,
+                "FactionId": 0,
+                "Sector": 95,
+                "LocationId": 13770,
+                "BuildingType": "House2",
+                "Quality": 3
             },
             {
                 "NameSeed": 2689,
@@ -170,14 +154,6 @@
                 "LocationId": 13770,
                 "BuildingType": "House2",
                 "Quality": 4
-            },
-            {
-                "NameSeed": 5506,
-                "FactionId": 0,
-                "Sector": 181,
-                "LocationId": 13770,
-                "BuildingType": "House3",
-                "Quality": 15
             },
             {
                 "NameSeed": 10459,
@@ -204,19 +180,11 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 30101,
-                "FactionId": 0,
-                "Sector": 135,
-                "LocationId": 13770,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "FactionId": 0,
                 "BuildingType": 15,
-                "Quality": 6,
-                "NameSeed": 24675,
-                "Sector": 54,
+                "Quality": 5,
+                "NameSeed": 6934,
+                "Sector": 205,
                 "LocationId": 13770
             },
             {
@@ -236,12 +204,28 @@
                 "Quality": 10
             },
             {
+                "NameSeed": 5506,
+                "FactionId": 0,
+                "Sector": 181,
+                "LocationId": 13770,
+                "BuildingType": "House3",
+                "Quality": 15
+            },
+            {
                 "NameSeed": 15870,
                 "FactionId": 0,
                 "Sector": 242,
                 "LocationId": 13770,
                 "BuildingType": "WeaponSmith",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 30101,
+                "FactionId": 0,
+                "Sector": 135,
+                "LocationId": 13770,
+                "BuildingType": "House2",
+                "Quality": 9
             },
             {
                 "NameSeed": 32529,
@@ -298,14 +282,6 @@
                 "LocationId": 13770,
                 "BuildingType": "House2",
                 "Quality": 4
-            },
-            {
-                "NameSeed": 12174,
-                "FactionId": 0,
-                "Sector": 192,
-                "LocationId": 13770,
-                "BuildingType": "House2",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

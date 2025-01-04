@@ -25,7 +25,7 @@
                 "LocationName": "Eastfort"
             }
         },
-        "BuildingCount": 38,
+        "BuildingCount": 35,
         "Buildings": [
             {
                 "NameSeed": 10703,
@@ -46,10 +46,18 @@
             {
                 "FactionId": 0,
                 "BuildingType": 3,
-                "Quality": 10,
-                "NameSeed": 6591,
-                "Sector": 3,
+                "Quality": 4,
+                "NameSeed": 26974,
+                "Sector": 16,
                 "LocationId": 19677
+            },
+            {
+                "NameSeed": 9696,
+                "FactionId": 404,
+                "Sector": 98,
+                "LocationId": 19677,
+                "BuildingType": "ClothingStore",
+                "Quality": 5
             },
             {
                 "NameSeed": 14693,
@@ -124,14 +132,6 @@
                 "Quality": 8
             },
             {
-                "NameSeed": 9696,
-                "FactionId": 404,
-                "Sector": 98,
-                "LocationId": 19677,
-                "BuildingType": "ClothingStore",
-                "Quality": 5
-            },
-            {
                 "NameSeed": 14084,
                 "FactionId": 0,
                 "Sector": 109,
@@ -188,6 +188,30 @@
                 "Quality": 5
             },
             {
+                "NameSeed": 15747,
+                "FactionId": 0,
+                "Sector": 163,
+                "LocationId": 19677,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 8721,
+                "FactionId": 0,
+                "Sector": 152,
+                "LocationId": 19677,
+                "BuildingType": "GeneralStore",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 15698,
+                "FactionId": 0,
+                "Sector": 186,
+                "LocationId": 19677,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            },
+            {
                 "NameSeed": 10742,
                 "FactionId": 0,
                 "Sector": 148,
@@ -210,30 +234,6 @@
                 "LocationId": 19677,
                 "BuildingType": "House2",
                 "Quality": 12
-            },
-            {
-                "NameSeed": 8721,
-                "FactionId": 0,
-                "Sector": 152,
-                "LocationId": 19677,
-                "BuildingType": "GeneralStore",
-                "Quality": 12
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 12532,
-                "Sector": 101,
-                "LocationId": 19677
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 15,
-                "Quality": 12,
-                "NameSeed": 29993,
-                "Sector": 104,
-                "LocationId": 19677
             },
             {
                 "NameSeed": 18440,
@@ -306,30 +306,6 @@
                 "LocationId": 19677,
                 "BuildingType": "House2",
                 "Quality": 5
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 4,
-                "NameSeed": 4011,
-                "Sector": 104,
-                "LocationId": 19677
-            },
-            {
-                "NameSeed": 21143,
-                "FactionId": 0,
-                "Sector": 287,
-                "LocationId": 19677,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 6086,
-                "FactionId": 0,
-                "Sector": 290,
-                "LocationId": 19677,
-                "BuildingType": "House2",
-                "Quality": 12
             }
         ],
         "ExteriorData": {
