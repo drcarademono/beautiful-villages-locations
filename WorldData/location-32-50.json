@@ -120,11 +120,16 @@
             "AnotherName": "Buckingsmith Manor",
             "MapId": 14210,
             "LocationId": 0,
-            "Width": 1,
-            "Height": 1,
+            "Width": 3,
+            "Height": 2,
             "PortTownAndUnknown": 8,
             "BlockNames": [
-                "MANRAS00.RMB"
+                "FARMAA11.RMB",
+                "FARMAA05.RMB",
+                "MANRAM03.RMB",
+                "FARMAA12.RMB",
+                "FARMAA11.RMB",
+                "FARMAA04.RMB"
             ]
         }
     },
@@ -147,14 +152,14 @@
         "Blocks": null
     },
     "Climate": {
-        "WorldClimate": 231,
-        "ClimateType": "Temperate",
+        "WorldClimate": 223,
+        "ClimateType": "Swamp",
         "NatureSet": "Nature_TemperateWoodland",
-        "GroundArchive": 302,
+        "GroundArchive": 402,
         "NatureArchive": 504,
-        "SkyBase": 16,
+        "SkyBase": 24,
         "People": "Breton",
-        "Names": "Nord"
+        "Names": null
     },
     "Politic": 64,
     "RegionIndex": 32,

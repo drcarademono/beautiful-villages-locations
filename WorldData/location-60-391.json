@@ -136,11 +136,19 @@
             "AnotherName": "Yeomton Palace",
             "MapId": 91271,
             "LocationId": 0,
-            "Width": 1,
-            "Height": 1,
+            "Width": 3,
+            "Height": 3,
             "PortTownAndUnknown": 0,
             "BlockNames": [
-                "MANRAS01.RMB"
+                "FARMAA10.RMB",
+                "FARMAA11.RMB",
+                "FARMAA13.RMB",
+                "FARMAA04.RMB",
+                "MANRAL02.RMB",
+                "FARMAA10.RMB",
+                "FARMAA07.RMB",
+                "FARMAA13.RMB",
+                "FARMAA02.RMB"
             ]
         }
     },
@@ -165,12 +173,12 @@
     "Climate": {
         "WorldClimate": 230,
         "ClimateType": "Temperate",
-        "NatureSet": "Nature_WoodlandHills",
+        "NatureSet": "Nature_TemperateWoodland",
         "GroundArchive": 102,
-        "NatureArchive": 506,
+        "NatureArchive": 504,
         "SkyBase": 16,
         "People": "Breton",
-        "Names": "Nord"
+        "Names": null
     },
     "Politic": 188,
     "RegionIndex": 60,
