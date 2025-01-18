@@ -110,6 +110,24 @@ def get_vanilla_building_data(location_name):
 
     return name_seed_list, quality_list, sector_list
 
+def collect_existing_name_seeds(location_data):
+    """Collect all preexisting Sector and NameSeed combinations from the current location file."""
+    sector_name_seed_map = {}
+
+    # Extract buildings from the location data
+    buildings = location_data.get("Exterior", {}).get("Buildings", [])
+    for building in buildings:
+        sector = building.get("Sector")
+        name_seed = building.get("NameSeed")
+
+        if sector is not None and name_seed is not None:
+            # Store the first NameSeed found for each Sector
+            sector_name_seed_map[sector] = name_seed
+
+    print(f"Collected Sector-NameSeed map: {sector_name_seed_map}")
+
+    return sector_name_seed_map
+
 def update_buildings():
     """Update buildings in all location JSON files with vanilla data."""
     # Get all location JSON files
@@ -122,6 +140,9 @@ def update_buildings():
         location_data = load_json_file(location_file)
         if location_data is None:
             continue
+
+        # Extract preexisting Sector and NameSeed combos for this file
+        sector_name_seed_map = collect_existing_name_seeds(location_data)
 
         # Extract the LocationId
         location_id = location_data.get('Exterior', {}).get('RecordElement', {}).get('Header', {}).get('LocationId')
@@ -162,8 +183,15 @@ def update_buildings():
             default=0
         )
 
+        # Determine the global maximum NameSeed value
+        global_max_name_seed = max(
+            (max(name_seeds) for name_seeds in name_seed_list.values() if name_seeds),
+            default=0
+        )
+
         new_buildings = []
         used_sectors = set()  # Track used sectors to ensure uniqueness
+        used_name_seeds = set()  # Track used sectors to ensure uniqueness
 
         # Process each block in BlockNames
         for block_name in block_names:
@@ -201,21 +229,15 @@ def update_buildings():
                         "Sector": sector_list[building_type].pop(0) if sector_list.get(building_type) else None,
                     }
 
-                # Assign NameSeed
-                if vanilla_data and vanilla_data["NameSeed"] is not None:
-                    building["NameSeed"] = vanilla_data["NameSeed"]
-                else:
-                    building["NameSeed"] = random.randint(0, 30000)
-
-                # Assign Quality
-                if vanilla_data and vanilla_data["Quality"] is not None:
-                    building["Quality"] = vanilla_data["Quality"]
-                else:
-                    building["Quality"] = building.get("Quality")  # Fallback to RMB quality
-
                 # Assign Sector
                 if vanilla_data and vanilla_data["Sector"] is not None:
+                    # Start with the vanilla Sector value
                     sector = vanilla_data["Sector"]
+
+                    # If the vanilla Sector is already used, increment to the next available value
+                    while sector in used_sectors:
+                        sector = global_max_sector + 3
+                        global_max_sector = sector  # Update the global max
                 else:
                     # Increment from the global maximum Sector
                     while global_max_sector in used_sectors:
@@ -223,8 +245,49 @@ def update_buildings():
                     sector = global_max_sector
                     global_max_sector = sector  # Update the global max
 
+                # Mark the Sector as used
+                used_sectors.add(sector)
+
+                # Assign the Sector to the building
+                building["Sector"] = sector
+
                 building["Sector"] = sector
                 used_sectors.add(sector)  # Track the used sector
+
+                # Helper function to find a preexisting NameSeed for a matching Sector
+                def find_preexisting_name_seed(buildings, target_sector):
+                    for b in buildings:
+                        if b.get("Sector") == target_sector and b.get("NameSeed") is not None:
+                            return b["NameSeed"]
+                    return None
+
+                # Assign NameSeed
+                if vanilla_data and vanilla_data.get("NameSeed") is not None:
+                    # Start with the vanilla NameSeed value
+                    name_seed = vanilla_data["NameSeed"]
+
+                    # If the vanilla NameSeed is already used, increment to the next available value
+                    while name_seed in used_name_seeds:
+                        name_seed = global_max_name_seed + 3
+                        global_max_name_seed = name_seed  # Update the global max
+                else:
+                    # Start from the global max NameSeed if no vanilla data is available
+                    while global_max_name_seed in used_name_seeds:
+                        global_max_name_seed += 3
+                    name_seed = global_max_name_seed
+                    global_max_name_seed = name_seed  # Update the global max
+
+                # Mark the NameSeed as used
+                used_name_seeds.add(name_seed)
+
+                # Assign the NameSeed to the building
+                building["NameSeed"] = name_seed
+
+                # Assign Quality
+                if vanilla_data and vanilla_data["Quality"] is not None:
+                    building["Quality"] = vanilla_data["Quality"]
+                else:
+                    building["Quality"] = building.get("Quality")  # Fallback to RMB quality
 
                 # Assign LocationId
                 building["LocationId"] = location_id
