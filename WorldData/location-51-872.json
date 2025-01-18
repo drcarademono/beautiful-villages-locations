@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Ghavte Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 914745192,
+        "Latitude": 14504,
+        "Longitude": 117800,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30160896,
+                "Y": 3717121,
+                "IsExterior": 32768,
+                "Unknown2": 872,
+                "LocationId": 26196,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ghavte Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 32615,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 22597,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2398,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29328,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 26196,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 31647,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7416,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 145,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 26196,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 28197,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 26196,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20071,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 26196,
+                "BuildingType": "House1",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ghavte Manor",
+            "MapId": 386920,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 872
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Greenhouse Hall",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 163684040,
+        "Latitude": 50344,
+        "Longitude": 23592,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6043648,
+                "Y": 12892161,
+                "IsExterior": 32768,
+                "Unknown2": 156,
+                "LocationId": 16228,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Greenhouse Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 20086,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16228,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 28071,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5339,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 25451,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 9563,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 22539,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 2849,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 23972,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 1180,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 2657,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 16228,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1850,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 16228,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Greenhouse Hall",
+            "MapId": 106184,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 156
+}

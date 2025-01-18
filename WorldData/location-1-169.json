@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Nithe Manor",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 177568970,
+        "Latitude": 17960,
+        "Longitude": 80168,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20527104,
+                "Y": 4601857,
+                "IsExterior": 32768,
+                "Unknown2": 169,
+                "LocationId": 25108,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Nithe Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 5036,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19125,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 576,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31821,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 25108,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16100,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17306,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 8772,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 25108,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 21614,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 25108,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29851,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 25108,
+                "BuildingType": "House1",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Nithe Manor",
+            "MapId": 359626,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 169
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "V'orgom Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 315966112,
+        "Latitude": 19880,
+        "Longitude": 94248,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24131584,
+                "Y": 5093377,
+                "IsExterior": 32768,
+                "Unknown2": 301,
+                "LocationId": 24564,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "V'orgom Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 30914,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24564,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 6170,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 25881,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 4483,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4654,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 23565,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17579,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8851,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4180,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14258,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24564,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27568,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24564,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "V'orgom Manor",
+            "MapId": 344736,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 301
+}

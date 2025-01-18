@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Klergta Court",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 59096747,
+        "Latitude": 15784,
+        "Longitude": 62888,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16103424,
+                "Y": 4044801,
+                "IsExterior": 32768,
+                "Unknown2": 56,
+                "LocationId": 25821,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Klergta Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 10249,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25821,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4242,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 25821,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12628,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 25821,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 5446,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 25821,
+                "BuildingType": "House1",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Klergta Court",
+            "MapId": 376491,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 56
+}

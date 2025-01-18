@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Gaersly Palace",
+    "RegionName": "Alcaire",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 129108593,
+        "Latitude": 46888,
+        "Longitude": 95400,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24426496,
+                "Y": 12007425,
+                "IsExterior": 32768,
+                "Unknown2": 123,
+                "LocationId": 17837,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaersly Palace"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12290,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17837,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 10890,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5124,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 8082,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 18049,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3407,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 7485,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 21958,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 20602,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 15841,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 17837,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 31251,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 17837,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaersly Palace",
+            "MapId": 133745,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 162,
+    "RegionIndex": 34,
+    "LocationIndex": 123
+}

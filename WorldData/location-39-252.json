@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Gaerhart Manor",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 264366591,
+        "Latitude": 47912,
+        "Longitude": 56232,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14399488,
+                "Y": 12269569,
+                "IsExterior": 32768,
+                "Unknown2": 252,
+                "LocationId": 17376,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaerhart Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 11075,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17376,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26034,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 13443,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17558,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 25965,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 24398,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 27057,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 22470,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13804,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23433,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 17376,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 8694,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 17376,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaerhart Manor",
+            "MapId": 125439,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 252
+}

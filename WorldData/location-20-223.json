@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Bloth Court",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 234215850,
+        "Latitude": 14888,
+        "Longitude": 51496,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13187072,
+                "Y": 3815425,
+                "IsExterior": 32768,
+                "Unknown2": 223,
+                "LocationId": 26071,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Bloth Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 13741,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26071,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 9133,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26071,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 27620,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26071,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 20734,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26071,
+                "BuildingType": "House1",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Bloth Court",
+            "MapId": 383402,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 223
+}

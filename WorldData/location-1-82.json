@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Kruct Hall",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 86309862,
+        "Latitude": 22184,
+        "Longitude": 80680,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 20658176,
+                "Y": 5683201,
+                "IsExterior": 32768,
+                "Unknown2": 82,
+                "LocationId": 23955,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kruct Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26945,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23955,
+                "BuildingType": "House1",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 18489,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 14445,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 20970,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 32573,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 13913,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 12114,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29270,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 32098,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24789,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23955,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16351,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23955,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kruct Hall",
+            "MapId": 326630,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 82
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Ashsley Manor",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 528524598,
+        "Latitude": 58536,
+        "Longitude": 37672,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9648128,
+                "Y": 14989313,
+                "IsExterior": 32768,
+                "Unknown2": 504,
+                "LocationId": 12168,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ashsley Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12745,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12168,
+                "BuildingType": "House1",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3994,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 10186,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 26055,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29097,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3231,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2694,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15200,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 27830,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23352,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 12168,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 30878,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 12168,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ashsley Manor",
+            "MapId": 42294,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 504
+}

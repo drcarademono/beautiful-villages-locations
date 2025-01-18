@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Blefyl Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 254095200,
+        "Latitude": 20520,
+        "Longitude": 103464,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26490880,
+                "Y": 5257217,
+                "IsExterior": 32768,
+                "Unknown2": 242,
+                "LocationId": 24405,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Blefyl Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 25280,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24405,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6582,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26780,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13781,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 24699,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 24335,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12758,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 15672,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 28089,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15290,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 24405,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10508,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 24405,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Blefyl Manor",
+            "MapId": 339808,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 242
+}

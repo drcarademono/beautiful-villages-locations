@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Kingsly Manor",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 322076946,
+        "Latitude": 42920,
+        "Longitude": 14632,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3749888,
+                "Y": 10991617,
+                "IsExterior": 32768,
+                "Unknown2": 307,
+                "LocationId": 19551,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kingsly Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 14493,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19551,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 10290,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 12926,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12950,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 24269,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 29416,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 30643,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 27724,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 7605,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 3039,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 19551,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 17514,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 19551,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingsly Manor",
+            "MapId": 164114,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 307
+}

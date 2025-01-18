@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Blarcan Hall",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1327340,
+        "Latitude": 28328,
+        "Longitude": 97832,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25049088,
+                "Y": 7256065,
+                "IsExterior": 32768,
+                "Unknown2": 1,
+                "LocationId": 22745,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Blarcan Hall"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 15593,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 28817,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5677,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32592,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 13825,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 6318,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20090,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 10054,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 22710,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5830,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25622,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 22745,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23432,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 22745,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12124,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 22745,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Blarcan Hall",
+            "MapId": 278764,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 13,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 22,
+    "LocationIndex": 1
+}

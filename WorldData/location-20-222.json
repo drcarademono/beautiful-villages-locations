@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Slornum Hall",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 233167272,
+        "Latitude": 14888,
+        "Longitude": 51240,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13121536,
+                "Y": 3815425,
+                "IsExterior": 32768,
+                "Unknown2": 222,
+                "LocationId": 26070,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Slornum Hall"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 16873,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26070,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8149,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26070,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 1391,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26070,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 21204,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26070,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Slornum Hall",
+            "MapId": 383400,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 222
+}

@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Blernin Hall",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 82215202,
+        "Latitude": 9384,
+        "Longitude": 35112,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8992768,
+                "Y": 2406401,
+                "IsExterior": 32768,
+                "Unknown2": 78,
+                "LocationId": 27399,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Blernin Hall"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 14625,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27399,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 30474,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27399,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 27900,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 27399,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 12397,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27399,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Blernin Hall",
+            "MapId": 426274,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 78
+}

@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Woodham Manor",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 124790959,
+        "Latitude": 62632,
+        "Longitude": 53160,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13613056,
+                "Y": 16037889,
+                "IsExterior": 32768,
+                "Unknown2": 119,
+                "LocationId": 10432,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodham Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 13422,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11943,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 3559,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 16445,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2094,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 273,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 2765,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9948,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 6964,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 32379,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 32381,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 10432,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 26194,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 10432,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 9317,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 10432,
+                "BuildingType": "House1",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodham Manor",
+            "MapId": 10415,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 119
+}

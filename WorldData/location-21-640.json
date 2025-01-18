@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Mastering Manor",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 671260989,
+        "Latitude": 41896,
+        "Longitude": 44712,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11450368,
+                "Y": 10729473,
+                "IsExterior": 32768,
+                "Unknown2": 640,
+                "LocationId": 19998,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mastering Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 19956,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 1006,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 26740,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 30983,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 27983,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32312,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 16271,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10248,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7587,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 3127,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 15822,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 19998,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 12511,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 19998,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 8413,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 19998,
+                "BuildingType": "House1",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mastering Manor",
+            "MapId": 172349,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 640
+}

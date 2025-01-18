@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Caoldun Court",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 862307406,
+        "Latitude": 15656,
+        "Longitude": 119592,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30619648,
+                "Y": 4012033,
+                "IsExterior": 32768,
+                "Unknown2": 822,
+                "LocationId": 25881,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Caoldun Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 30916,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25881,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 11873,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14514,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25944,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 31367,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 22447,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 15070,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 30189,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 21486,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 4413,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 25881,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 11142,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 25881,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Caoldun Court",
+            "MapId": 377934,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 822
+}

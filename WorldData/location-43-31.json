@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Kozta Court",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 32969056,
+        "Latitude": 4648,
+        "Longitude": 25640,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6567936,
+                "Y": 1193985,
+                "IsExterior": 32768,
+                "Unknown2": 31,
+                "LocationId": 28441,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Kozta Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 18755,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28441,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10908,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 28441,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 5036,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 28441,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19125,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 28441,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kozta Court",
+            "MapId": 463200,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 31
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Masterton Palace",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 531863918,
+        "Latitude": 33832,
+        "Longitude": 113448,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29046784,
+                "Y": 8665089,
+                "IsExterior": 32768,
+                "Unknown2": 507,
+                "LocationId": 22257,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterton Palace"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 19,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22257,
+                "BuildingType": "House1",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 5395,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 31881,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21352,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 28134,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 29677,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 28284,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 29590,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29289,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9281,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 22257,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 3979,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 22257,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterton Palace",
+            "MapId": 235886,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 507
+}

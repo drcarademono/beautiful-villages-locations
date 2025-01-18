@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Rlect Hall",
+    "RegionName": "Satakalaam",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1313401,
+        "Latitude": 30120,
+        "Longitude": 105640,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27047936,
+                "Y": 7714817,
+                "IsExterior": 32768,
+                "Unknown2": 1,
+                "LocationId": 22680,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Rlect Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 30665,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 20206,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 9151,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 27532,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 22680,
+                "BuildingType": "House3",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31777,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 1712,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 11512,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 22680,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 24326,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 22680,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 31879,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 22680,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Rlect Hall",
+            "MapId": 264825,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 6,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 50,
+    "LocationIndex": 1
+}

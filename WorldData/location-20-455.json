@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Lavar Court",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 477505490,
+        "Latitude": 12328,
+        "Longitude": 52520,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13449216,
+                "Y": 3160065,
+                "IsExterior": 32768,
+                "Unknown2": 455,
+                "LocationId": 26712,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Lavar Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 23029,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26712,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 13607,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26712,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 16015,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26712,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7175,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26712,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Lavar Court",
+            "MapId": 403410,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 455
+}

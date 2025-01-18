@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Moorsmith Manor",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 57755889,
+        "Latitude": 53160,
+        "Longitude": 26792,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6862848,
+                "Y": 13613057,
+                "IsExterior": 32768,
+                "Unknown2": 55,
+                "LocationId": 14816,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Moorsmith Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 12156,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17771,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 17447,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5506,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 14816,
+                "BuildingType": "House3",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29611,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 12174,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 11792,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 14816,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10400,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 14816,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 29816,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 14816,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Moorsmith Manor",
+            "MapId": 84209,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 55
+}

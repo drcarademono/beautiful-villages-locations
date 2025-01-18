@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Copperhart Court",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 849407505,
+        "Latitude": 56232,
+        "Longitude": 121000,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30980096,
+                "Y": 14399489,
+                "IsExterior": 32768,
+                "Unknown2": 810,
+                "LocationId": 13261,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Copperhart Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 20334,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13261,
+                "BuildingType": "House1",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 30513,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 659,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 13077,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 277,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 17517,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 27319,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 20111,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 15670,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 13261,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 23428,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 13261,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Copperhart Court",
+            "MapId": 60945,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 810
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Buckinghouse Palace",
+    "RegionName": "Northmoor",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 201366803,
+        "Latitude": 58792,
+        "Longitude": 27048,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6928384,
+                "Y": 15054849,
+                "IsExterior": 32768,
+                "Unknown2": 192,
+                "LocationId": 12044,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckinghouse Palace"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 12126,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12044,
+                "BuildingType": "House1",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 28363,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32207,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 29400,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 26395,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 19317,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 9172,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 10418,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 1520,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2916,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 12044,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1689,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 12044,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckinghouse Palace",
+            "MapId": 40211,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 160,
+    "RegionIndex": 32,
+    "LocationIndex": 192
+}

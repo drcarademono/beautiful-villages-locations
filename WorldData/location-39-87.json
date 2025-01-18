@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Gaersley Manor",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 91299575,
+        "Latitude": 54568,
+        "Longitude": 59304,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15185920,
+                "Y": 13973505,
+                "IsExterior": 32768,
+                "Unknown2": 87,
+                "LocationId": 14027,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaersley Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 26284,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31627,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14385,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28303,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 14027,
+                "BuildingType": "House3",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29502,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7563,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 14537,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 14027,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 14011,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 14027,
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31937,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 14027,
+                "BuildingType": "House1",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaersley Manor",
+            "MapId": 73463,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 87
+}

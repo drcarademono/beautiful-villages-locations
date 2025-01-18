@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Moorford Court",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 92349115,
+        "Latitude": 54440,
+        "Longitude": 54696,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14006272,
+                "Y": 13940737,
+                "IsExterior": 32768,
+                "Unknown2": 88,
+                "LocationId": 14095,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Moorford Court"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 1006,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 26740,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 30983,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 27983,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 14095,
+                "BuildingType": "House3",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32312,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 16271,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10248,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 14095,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 12062,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 14095,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21557,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 14095,
+                "BuildingType": "House1",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Moorford Court",
+            "MapId": 74427,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 88
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hawkcroft Manor",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 526426503,
+        "Latitude": 58664,
+        "Longitude": 44968,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11515904,
+                "Y": 15022081,
+                "IsExterior": 32768,
+                "Unknown2": 502,
+                "LocationId": 12110,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawkcroft Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 22525,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12110,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 17688,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 20262,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2997,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 21526,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4050,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4031,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20049,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 1370,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5550,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 12110,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23935,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 12110,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawkcroft Manor",
+            "MapId": 41351,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 502
+}

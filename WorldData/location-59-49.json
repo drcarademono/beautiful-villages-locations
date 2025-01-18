@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hawkhart Manor",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 51450358,
+        "Latitude": 54952,
+        "Longitude": 17192,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4405248,
+                "Y": 14071809,
+                "IsExterior": 32768,
+                "Unknown2": 49,
+                "LocationId": 13795,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawkhart Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 11658,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13795,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 29914,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 18500,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3942,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 27935,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10223,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 19988,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 28886,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 27490,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 23093,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 13795,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 31039,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 13795,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawkhart Manor",
+            "MapId": 70134,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 49
+}

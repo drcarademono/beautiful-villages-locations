@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Greencroft Hall",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 616605521,
+        "Latitude": 58536,
+        "Longitude": 106664,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27310080,
+                "Y": 14989313,
+                "IsExterior": 32768,
+                "Unknown2": 588,
+                "LocationId": 12222,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Greencroft Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 26263,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12222,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 15973,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 28712,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 18806,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15971,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 2826,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 15200,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 27830,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23352,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 3367,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 12222,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 25875,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 12222,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Greencroft Hall",
+            "MapId": 42833,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 588
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Dirnke Manor",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 57988233,
+        "Latitude": 23464,
+        "Longitude": 70824,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 18135040,
+                "Y": 6010881,
+                "IsExterior": 32768,
+                "Unknown2": 55,
+                "LocationId": 23653,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Dirnke Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 1814,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15852,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 4825,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 26546,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 23653,
+                "BuildingType": "House3",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29268,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6212,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 14383,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 23653,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 26773,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 23653,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5251,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 23653,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Dirnke Manor",
+            "MapId": 316553,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 55
+}

@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Woodsmith Hall",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 447970848,
+        "Latitude": 34728,
+        "Longitude": 114728,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29374464,
+                "Y": 8894465,
+                "IsExterior": 32768,
+                "Unknown2": 427,
+                "LocationId": 22144,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodsmith Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 20840,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 2164,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 12047,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 23199,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 22144,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 298,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 23132,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 16956,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 22144,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 25040,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 22144,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 30554,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 22144,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodsmith Hall",
+            "MapId": 228896,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 427
+}

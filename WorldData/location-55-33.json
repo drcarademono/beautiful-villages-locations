@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Mairpte Court",
+    "RegionName": "Antiphyllos",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 35041490,
+        "Latitude": 7848,
+        "Longitude": 61736,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15808512,
+                "Y": 2013185,
+                "IsExterior": 32768,
+                "Unknown2": 33,
+                "LocationId": 27731,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mairpte Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 19915,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27731,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 25090,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27731,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 19618,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 27731,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 6450,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27731,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mairpte Court",
+            "MapId": 438482,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 183,
+    "RegionIndex": 55,
+    "LocationIndex": 33
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Ghurm Manor",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 870696997,
+        "Latitude": 15528,
+        "Longitude": 117416,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30062592,
+                "Y": 3979265,
+                "IsExterior": 32768,
+                "Unknown2": 830,
+                "LocationId": 25924,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ghurm Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 24826,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25924,
+                "BuildingType": "House1",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 12929,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 18653,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 29740,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 9816,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 3619,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 9112,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5166,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13422,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11943,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 25924,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 29508,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 25924,
+                "BuildingType": "Tavern",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ghurm Manor",
+            "MapId": 378917,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 830
+}

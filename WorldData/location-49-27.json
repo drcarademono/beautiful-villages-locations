@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Baig Hall",
+    "RegionName": "Kozanset",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 28646272,
+        "Latitude": 21160,
+        "Longitude": 92200,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23607296,
+                "Y": 5421057,
+                "IsExterior": 32768,
+                "Unknown2": 27,
+                "LocationId": 24205,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Baig Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 16028,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 22558,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 29638,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12718,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 24205,
+                "BuildingType": "House3",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 106,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 14535,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15630,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 24205,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 20931,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 24205,
+                "BuildingType": "Tavern",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 32674,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 24205,
+                "BuildingType": "House1",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Baig Hall",
+            "MapId": 334720,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 177,
+    "RegionIndex": 49,
+    "LocationIndex": 27
+}

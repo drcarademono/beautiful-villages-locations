@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Thirht Court",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 145116934,
+        "Latitude": 11048,
+        "Longitude": 57128,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14628864,
+                "Y": 2832385,
+                "IsExterior": 32768,
+                "Unknown2": 138,
+                "LocationId": 27010,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Thirht Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 29911,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27010,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12797,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27010,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 15308,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 27010,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 16512,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27010,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Thirht Court",
+            "MapId": 413446,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 138
+}

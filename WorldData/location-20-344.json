@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "B'urdte Court",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 361103586,
+        "Latitude": 13608,
+        "Longitude": 56616,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14497792,
+                "Y": 3487745,
+                "IsExterior": 32768,
+                "Unknown2": 344,
+                "LocationId": 26410,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "B'urdte Court"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 26224,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26410,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 16336,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26410,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7522,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26410,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 15892,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26410,
+                "BuildingType": "House1",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "B'urdte Court",
+            "MapId": 393442,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 344
+}

@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Fage Hall",
+    "RegionName": "Ayasofya",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 25535299,
+        "Latitude": 16680,
+        "Longitude": 60840,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15579136,
+                "Y": 4274177,
+                "IsExterior": 32768,
+                "Unknown2": 24,
+                "LocationId": 25523,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Fage Hall"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 13121,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25523,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 27250,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 25523,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 8337,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 25523,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 28004,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 25523,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Fage Hall",
+            "MapId": 369475,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 175,
+    "RegionIndex": 47,
+    "LocationIndex": 24
+}

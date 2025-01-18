@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Woodsly Manor",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 456300712,
+        "Latitude": 42152,
+        "Longitude": 19496,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4995072,
+                "Y": 10795009,
+                "IsExterior": 32768,
+                "Unknown2": 435,
+                "LocationId": 19892,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodsly Manor"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 14294,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 17352,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12024,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 14427,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 4219,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 13894,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 28131,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 3791,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 24678,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 8681,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 10246,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 19892,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 11429,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 19892,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4711,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 19892,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodsly Manor",
+            "MapId": 170152,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 435
+}

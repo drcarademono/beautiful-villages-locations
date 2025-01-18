@@ -35,8 +35,18 @@ def modify_location_files(directory):
 
                 # Generate new BlockNames
                 block_count = height * width
-                new_blocks = [f"{block_prefix}{random.randint(10, 13)}.RMB" for _ in range(block_count)]
-                data["Exterior"]["ExteriorData"]["BlockNames"] = new_blocks
+                existing_blocks = data["Exterior"]["ExteriorData"].get("BlockNames", [])
+                new_blocks_needed = block_count - len(existing_blocks)
+
+                # Generate new block names as needed
+                new_blocks = [f"{block_prefix}{random.randint(10, 13)}.RMB" for _ in range(new_blocks_needed)]
+
+                # Combine and shuffle existing and new blocks
+                combined_blocks = existing_blocks + new_blocks
+                random.shuffle(combined_blocks)
+
+                # Update BlockNames
+                data["Exterior"]["ExteriorData"]["BlockNames"] = combined_blocks
 
                 # Save the modified JSON file
                 with open(filepath, 'w') as file:

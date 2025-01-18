@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "T'irdar Hall",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 252042656,
+        "Latitude": 14760,
+        "Longitude": 53288,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13645824,
+                "Y": 3782657,
+                "IsExterior": 32768,
+                "Unknown2": 240,
+                "LocationId": 26111,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "T'irdar Hall"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 26374,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26111,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13702,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 26111,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 9496,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 26111,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 6429,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 26111,
+                "BuildingType": "House1",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "T'irdar Hall",
+            "MapId": 384416,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 148,
+    "RegionIndex": 20,
+    "LocationIndex": 240
+}

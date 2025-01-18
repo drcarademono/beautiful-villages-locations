@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Coppersly Hall",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 848559909,
+        "Latitude": 30504,
+        "Longitude": 118440,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30324736,
+                "Y": 7813121,
+                "IsExterior": 32768,
+                "Unknown2": 809,
+                "LocationId": 22655,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Coppersly Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 31909,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22655,
+                "BuildingType": "House1",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 5057,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 2011,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 3087,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 256,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 1863,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 24808,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 18908,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29907,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 30814,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 22655,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8218,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 22655,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Coppersly Hall",
+            "MapId": 261925,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 2,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 809
+}

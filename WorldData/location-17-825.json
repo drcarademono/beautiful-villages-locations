@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Buckington Court",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 865266411,
+        "Latitude": 39464,
+        "Longitude": 27048,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6928384,
+                "Y": 10106881,
+                "IsExterior": 32768,
+                "Unknown2": 825,
+                "LocationId": 20756,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckington Court"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 28089,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20756,
+                "BuildingType": "House1",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15290,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 22491,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 29458,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 25944,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 18782,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27382,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 1643,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 22467,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8101,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 20756,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 2565,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 20756,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckington Court",
+            "MapId": 191211,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 825
+}

@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Masterton Manor",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 28313940,
+        "Latitude": 63656,
+        "Longitude": 49704,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12728320,
+                "Y": 16300033,
+                "IsExterior": 32768,
+                "Unknown2": 27,
+                "LocationId": 10071,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterton Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 14082,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10071,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 9392,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 19558,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 1199,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 12607,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 12415,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 26548,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 22386,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26657,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16959,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 10071,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 25305,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 10071,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterton Manor",
+            "MapId": 2388,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 27
+}

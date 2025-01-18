@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Krethen Manor",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 134528616,
+        "Latitude": 24232,
+        "Longitude": 113704,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29112320,
+                "Y": 6207489,
+                "IsExterior": 32768,
+                "Unknown2": 128,
+                "LocationId": 23523,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Krethen Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 15660,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23523,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 12159,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 23475,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 22919,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2744,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 4332,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 7288,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 11552,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8276,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 22752,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 23523,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 20617,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 23523,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Krethen Manor",
+            "MapId": 310888,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 128
+}

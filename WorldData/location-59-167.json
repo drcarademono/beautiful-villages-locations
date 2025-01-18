@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Moorfield Hall",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 175213292,
+        "Latitude": 50984,
+        "Longitude": 12840,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 3291136,
+                "Y": 13056001,
+                "IsExterior": 32768,
+                "Unknown2": 167,
+                "LocationId": 15886,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Moorfield Hall"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 26266,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21676,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 17345,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 24338,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 18461,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 21143,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 1050,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 8360,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 15886,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 2403,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 15886,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16848,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 15886,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Moorfield Hall",
+            "MapId": 101100,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 167
+}

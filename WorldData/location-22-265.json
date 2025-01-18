@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Fegun Hall",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 278179314,
+        "Latitude": 24744,
+        "Longitude": 86312,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22099968,
+                "Y": 6338561,
+                "IsExterior": 32768,
+                "Unknown2": 265,
+                "LocationId": 23390,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Fegun Hall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 24954,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 11119,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 7654,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 19236,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 23390,
+                "BuildingType": "House3",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 852,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 21673,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 11642,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 23390,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 24061,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 23390,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19152,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 23390,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Fegun Hall",
+            "MapId": 306674,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 265
+}

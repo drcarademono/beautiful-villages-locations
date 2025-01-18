@@ -1,0 +1,178 @@
+{
+    "Loaded": true,
+    "Name": "Mastersmith Palace",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 273806816,
+        "Latitude": 47528,
+        "Longitude": 61480,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15742976,
+                "Y": 12171265,
+                "IsExterior": 32768,
+                "Unknown2": 261,
+                "LocationId": 17537,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mastersmith Palace"
+            }
+        },
+        "BuildingCount": 13,
+        "Buildings": [
+            {
+                "NameSeed": 25880,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 20961,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16012,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 1472,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29525,
+                "FactionId": 0,
+                "Sector": 28,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9286,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 3812,
+                "FactionId": 0,
+                "Sector": 39,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 17708,
+                "FactionId": 0,
+                "Sector": 45,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 23331,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3643,
+                "FactionId": 0,
+                "Sector": 57,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30469,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 17537,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30033,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 17537,
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 22440,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 17537,
+                "BuildingType": "House1",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mastersmith Palace",
+            "MapId": 128480,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 261
+}

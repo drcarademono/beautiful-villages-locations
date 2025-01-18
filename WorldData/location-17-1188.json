@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Woodcroft Hall",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1245918501,
+        "Latitude": 37032,
+        "Longitude": 27304,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6993920,
+                "Y": 9484289,
+                "IsExterior": 32768,
+                "Unknown2": 1188,
+                "LocationId": 21611,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodcroft Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 18246,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21611,
+                "BuildingType": "House1",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 23410,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 2916,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 30043,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 212,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20243,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 19014,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 2846,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 18269,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 12547,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 21611,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 7531,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 21611,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodcroft Hall",
+            "MapId": 210213,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 1188
+}

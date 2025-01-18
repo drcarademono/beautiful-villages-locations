@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Yeomhouse Manor",
+    "RegionName": "Koegria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 47259582,
+        "Latitude": 54568,
+        "Longitude": 84776,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21706752,
+                "Y": 13973505,
+                "IsExterior": 32768,
+                "Unknown2": 45,
+                "LocationId": 14043,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Yeomhouse Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 5978,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14043,
+                "BuildingType": "House1",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 17285,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 9048,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 27527,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17026,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17109,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31133,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25349,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28395,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 27319,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 14043,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 8375,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 14043,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Yeomhouse Manor",
+            "MapId": 73662,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 163,
+    "RegionIndex": 35,
+    "LocationIndex": 45
+}

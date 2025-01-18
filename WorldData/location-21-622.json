@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Copperhart Manor",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 652384614,
+        "Latitude": 42152,
+        "Longitude": 43816,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11220992,
+                "Y": 10795009,
+                "IsExterior": 32768,
+                "Unknown2": 622,
+                "LocationId": 19914,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Copperhart Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 29136,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19914,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2867,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 23884,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 2184,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 15116,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 13807,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 29136,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23051,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6089,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 17561,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 19914,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 3063,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 19914,
+                "BuildingType": "Tavern",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Copperhart Manor",
+            "MapId": 170342,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 622
+}

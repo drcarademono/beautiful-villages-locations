@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Ashton Hall",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 106058341,
+        "Latitude": 44456,
+        "Longitude": 21160,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 5421056,
+                "Y": 11384833,
+                "IsExterior": 32768,
+                "Unknown2": 101,
+                "LocationId": 18870,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ashton Hall"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 5904,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18870,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 29418,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 3578,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 16357,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 13137,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 5529,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 28344,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 5418,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7885,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 27469,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 18870,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27483,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 18870,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ashton Hall",
+            "MapId": 152165,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 101
+}

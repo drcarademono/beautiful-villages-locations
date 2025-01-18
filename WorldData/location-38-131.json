@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Masterhart Manor",
+    "RegionName": "Phrygias",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 137387903,
+        "Latitude": 60840,
+        "Longitude": 57256,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14661632,
+                "Y": 15579137,
+                "IsExterior": 32768,
+                "Unknown2": 131,
+                "LocationId": 11187,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterhart Manor"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 22653,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 6282,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 26157,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 10265,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 11187,
+                "BuildingType": "House3",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 11187,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 8874,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 11187,
+                "BuildingType": "Tavern",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 4761,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 11187,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterhart Manor",
+            "MapId": 24447,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 166,
+    "RegionIndex": 38,
+    "LocationIndex": 131
+}

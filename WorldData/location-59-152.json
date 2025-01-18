@@ -1,0 +1,162 @@
+{
+    "Loaded": true,
+    "Name": "Hawksmith Manor",
+    "RegionName": "Glenumbra Moors",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 159480623,
+        "Latitude": 51496,
+        "Longitude": 9128,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 2340864,
+                "Y": 13187073,
+                "IsExterior": 32768,
+                "Unknown2": 152,
+                "LocationId": 15620,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawksmith Manor"
+            }
+        },
+        "BuildingCount": 11,
+        "Buildings": [
+            {
+                "NameSeed": 8057,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15620,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30450,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19128,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 6279,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 20454,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 21632,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 2958,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 18544,
+                "FactionId": 0,
+                "Sector": 61,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 18329,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 960,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 15620,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 16539,
+                "FactionId": 510,
+                "Sector": 87,
+                "LocationId": 15620,
+                "BuildingType": "Tavern",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawksmith Manor",
+            "MapId": 97071,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 187,
+    "RegionIndex": 59,
+    "LocationIndex": 152
+}

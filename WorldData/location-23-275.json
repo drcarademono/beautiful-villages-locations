@@ -1,0 +1,146 @@
+{
+    "Loaded": true,
+    "Name": "Woodsmith Palace",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 288575321,
+        "Latitude": 36264,
+        "Longitude": 117928,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30193664,
+                "Y": 9287681,
+                "IsExterior": 32768,
+                "Unknown2": 275,
+                "LocationId": 21843,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodsmith Palace"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 15334,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 4110,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 25213,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 23240,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 21843,
+                "BuildingType": "House3",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8983,
+                "FactionId": 0,
+                "Sector": 36,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 7524,
+                "FactionId": 0,
+                "Sector": 42,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21595,
+                "FactionId": 0,
+                "Sector": 59,
+                "LocationId": 21843,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 21586,
+                "FactionId": 510,
+                "Sector": 69,
+                "LocationId": 21843,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 26812,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 21843,
+                "BuildingType": "House1",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodsmith Palace",
+            "MapId": 216921,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRAS02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 275
+}
