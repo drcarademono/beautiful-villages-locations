@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Rhold Farmstead",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 74770408,
+        "Latitude": 22824,
+        "Longitude": 65576,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16791552,
+                "Y": 5847041,
+                "IsExterior": 32768,
+                "Unknown2": 71,
+                "LocationId": 23792,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Rhold Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 5999,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23792,
+                "BuildingType": "House2",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Rhold Farmstead",
+            "MapId": 321512,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_Swamp",
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 71
+}

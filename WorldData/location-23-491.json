@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Woodsley Farmstead",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 515085675,
+        "Latitude": 33960,
+        "Longitude": 109992,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28162048,
+                "Y": 8697857,
+                "IsExterior": 32768,
+                "Unknown2": 491,
+                "LocationId": 22235,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Woodsley Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 31488,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22235,
+                "BuildingType": "House2",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Woodsley Farmstead",
+            "MapId": 234859,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 151,
+    "RegionIndex": 23,
+    "LocationIndex": 491
+}

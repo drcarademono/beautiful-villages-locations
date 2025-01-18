@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Kreth Farmstead",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 893872515,
+        "Latitude": 1832,
+        "Longitude": 97704,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25016320,
+                "Y": 473089,
+                "IsExterior": 32768,
+                "Unknown2": 852,
+                "LocationId": 29109,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kreth Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18440,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29109,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Kreth Farmstead",
+            "MapId": 485763,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 852
+}

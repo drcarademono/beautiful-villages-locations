@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Carolyn's Farm",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 630238038,
+        "Latitude": 58408,
+        "Longitude": 110376,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28260352,
+                "Y": 14956545,
+                "IsExterior": 32768,
+                "Unknown2": 601,
+                "LocationId": 12276,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Carolyn's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 10098,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12276,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Carolyn's Farm",
+            "MapId": 43862,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 601
+}

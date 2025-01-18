@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Woodton Farmstead",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 36824589,
+        "Latitude": 48040,
+        "Longitude": 54952,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 14071808,
+                "Y": 12302337,
+                "IsExterior": 32768,
+                "Unknown2": 35,
+                "LocationId": 17318,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Woodton Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 14106,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17318,
+                "BuildingType": "House1",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Woodton Farmstead",
+            "MapId": 124429,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 35
+}

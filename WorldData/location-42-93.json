@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Gaerford Farmstead",
+    "RegionName": "Shalgora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 97653884,
+        "Latitude": 46504,
+        "Longitude": 40488,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10369024,
+                "Y": 11909121,
+                "IsExterior": 32768,
+                "Unknown2": 93,
+                "LocationId": 18020,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Gaerford Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 29458,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18020,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Gaerford Farmstead",
+            "MapId": 136316,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 170,
+    "RegionIndex": 42,
+    "LocationIndex": 93
+}

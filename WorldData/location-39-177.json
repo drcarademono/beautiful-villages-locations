@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Vyctara's Farm",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 185699433,
+        "Latitude": 50984,
+        "Longitude": 61608,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15775744,
+                "Y": 13056001,
+                "IsExterior": 32768,
+                "Unknown2": 177,
+                "LocationId": 15913,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Vyctara's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 19585,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15913,
+                "BuildingType": "House1",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Vyctara's Farm",
+            "MapId": 101481,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 177
+}

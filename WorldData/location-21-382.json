@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Hearthcroft Grange",
+    "RegionName": "Anticlere",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 400709373,
+        "Latitude": 44328,
+        "Longitude": 43688,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11188224,
+                "Y": 11352065,
+                "IsExterior": 32768,
+                "Unknown2": 382,
+                "LocationId": 18928,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hearthcroft Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 24507,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18928,
+                "BuildingType": "House2",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hearthcroft Grange",
+            "MapId": 153341,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 149,
+    "RegionIndex": 21,
+    "LocationIndex": 382
+}

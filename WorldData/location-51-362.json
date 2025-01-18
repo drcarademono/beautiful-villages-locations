@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Cojem Grange",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 379933283,
+        "Latitude": 19368,
+        "Longitude": 98728,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25278464,
+                "Y": 4962305,
+                "IsExterior": 32768,
+                "Unknown2": 362,
+                "LocationId": 24701,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Cojem Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 7814,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 24701,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Cojem Grange",
+            "MapId": 348771,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 362
+}

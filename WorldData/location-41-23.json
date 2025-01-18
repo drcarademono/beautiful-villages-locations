@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Gaercroft Grange",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 24164610,
+        "Latitude": 57896,
+        "Longitude": 46376,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11876352,
+                "Y": 14825473,
+                "IsExterior": 32768,
+                "Unknown2": 23,
+                "LocationId": 12471,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaercroft Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 5726,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12471,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaercroft Grange",
+            "MapId": 47362,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 23
+}

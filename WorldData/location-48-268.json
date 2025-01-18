@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Mhermun Farmstead",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 281378887,
+        "Latitude": 17832,
+        "Longitude": 66472,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17020928,
+                "Y": 4569089,
+                "IsExterior": 32768,
+                "Unknown2": 268,
+                "LocationId": 25142,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Mhermun Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 17991,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25142,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Mhermun Farmstead",
+            "MapId": 360519,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 268
+}

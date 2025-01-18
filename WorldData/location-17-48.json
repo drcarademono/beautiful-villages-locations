@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Masterton Farmstead",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 50475913,
+        "Latitude": 45480,
+        "Longitude": 33960,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8697856,
+                "Y": 11646977,
+                "IsExterior": 32768,
+                "Unknown2": 48,
+                "LocationId": 18483,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Masterton Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 9756,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18483,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Masterton Farmstead",
+            "MapId": 144265,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 48
+}

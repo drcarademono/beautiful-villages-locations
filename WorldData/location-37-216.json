@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Wooding Orchard",
+    "RegionName": "Kambria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 226573004,
+        "Latitude": 53672,
+        "Longitude": 75304,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19281920,
+                "Y": 13744129,
+                "IsExterior": 32768,
+                "Unknown2": 216,
+                "LocationId": 14550,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wooding Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27872,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14550,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wooding Orchard",
+            "MapId": 80588,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 165,
+    "RegionIndex": 37,
+    "LocationIndex": 216
+}

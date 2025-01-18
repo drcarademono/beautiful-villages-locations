@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Carolona's Farm",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 409111910,
+        "Latitude": 42536,
+        "Longitude": 34600,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8861696,
+                "Y": 10893313,
+                "IsExterior": 32768,
+                "Unknown2": 390,
+                "LocationId": 19744,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Carolona's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 19125,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19744,
+                "BuildingType": "House1",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Carolona's Farm",
+            "MapId": 167270,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 390
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Mhernte Orchard",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 203917946,
+        "Latitude": 680,
+        "Longitude": 25896,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6633472,
+                "Y": 178177,
+                "IsExterior": 32768,
+                "Unknown2": 194,
+                "LocationId": 29338,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mhernte Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3661,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29338,
+                "BuildingType": "House2",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mhernte Orchard",
+            "MapId": 494202,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 194
+}

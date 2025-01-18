@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old M'urcta's Farm",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 94848043,
+        "Latitude": 2984,
+        "Longitude": 26024,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6666240,
+                "Y": 768001,
+                "IsExterior": 32768,
+                "Unknown2": 90,
+                "LocationId": 28818,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old M'urcta's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23029,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28818,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old M'urcta's Farm",
+            "MapId": 476203,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 90
+}

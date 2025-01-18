@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Kinghart Farmstead",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 541103051,
+        "Latitude": 59176,
+        "Longitude": 106920,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27375616,
+                "Y": 15153153,
+                "IsExterior": 32768,
+                "Unknown2": 516,
+                "LocationId": 11926,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kinghart Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23199,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11926,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Kinghart Farmstead",
+            "MapId": 37835,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 516
+}

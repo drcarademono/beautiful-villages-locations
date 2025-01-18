@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Gaersley Farmstead",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 98634500,
+        "Latitude": 55208,
+        "Longitude": 45608,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11679744,
+                "Y": 14137345,
+                "IsExterior": 32768,
+                "Unknown2": 94,
+                "LocationId": 13680,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Gaersley Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 15214,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13680,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Gaersley Farmstead",
+            "MapId": 68356,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 94
+}

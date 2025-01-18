@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Masterton Grange",
+    "RegionName": "Urvaius",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 231849759,
+        "Latitude": 49320,
+        "Longitude": 59304,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15185920,
+                "Y": 12630017,
+                "IsExterior": 32768,
+                "Unknown2": 221,
+                "LocationId": 16793,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterton Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27569,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16793,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterton Grange",
+            "MapId": 114463,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 167,
+    "RegionIndex": 39,
+    "LocationIndex": 221
+}

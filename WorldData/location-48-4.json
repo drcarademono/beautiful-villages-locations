@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Krurta Farmstead",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 4484886,
+        "Latitude": 26792,
+        "Longitude": 74536,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19085312,
+                "Y": 6862849,
+                "IsExterior": 32768,
+                "Unknown2": 4,
+                "LocationId": 22980,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Krurta Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 31587,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22980,
+                "BuildingType": "House1",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Krurta Farmstead",
+            "MapId": 290582,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 8,
+            "BlockNames": [
+                "FARMBA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 4
+}

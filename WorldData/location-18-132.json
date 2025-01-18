@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Buckingfield Farmstead",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 138514182,
+        "Latitude": 50856,
+        "Longitude": 19240,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4929536,
+                "Y": 13023233,
+                "IsExterior": 32768,
+                "Unknown2": 132,
+                "LocationId": 15956,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Buckingfield Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27659,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15956,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Buckingfield Farmstead",
+            "MapId": 102150,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 132
+}

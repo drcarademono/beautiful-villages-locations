@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Blarnim Plantation",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 520450555,
+        "Latitude": 18344,
+        "Longitude": 109992,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28162048,
+                "Y": 4700161,
+                "IsExterior": 32768,
+                "Unknown2": 496,
+                "LocationId": 25003,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Blarnim Plantation"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3171,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25003,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Blarnim Plantation",
+            "MapId": 356859,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 496
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Belladara's Farm",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 83952343,
+        "Latitude": 55464,
+        "Longitude": 33704,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8632320,
+                "Y": 14202881,
+                "IsExterior": 32768,
+                "Unknown2": 80,
+                "LocationId": 13550,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Belladara's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 31474,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13550,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Belladara's Farm",
+            "MapId": 66263,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 80
+}

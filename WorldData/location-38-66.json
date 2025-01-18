@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Ashton Farmstead",
+    "RegionName": "Phrygias",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 69218512,
+        "Latitude": 62376,
+        "Longitude": 63528,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16267264,
+                "Y": 15972353,
+                "IsExterior": 32768,
+                "Unknown2": 66,
+                "LocationId": 10526,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Ashton Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 22824,
+                "FactionId": 0,
+                "Sector": 10,
+                "LocationId": 10526,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Ashton Farmstead",
+            "MapId": 12496,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 166,
+    "RegionIndex": 38,
+    "LocationIndex": 66
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Raefylt Orchard",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 412440304,
+        "Latitude": 19240,
+        "Longitude": 119848,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30685184,
+                "Y": 4929537,
+                "IsExterior": 32768,
+                "Unknown2": 393,
+                "LocationId": 24754,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Raefylt Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 11170,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24754,
+                "BuildingType": "House2",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Raefylt Orchard",
+            "MapId": 349936,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 393
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Wickwing Grange",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 3214912,
+        "Latitude": 55080,
+        "Longitude": 23592,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6043648,
+                "Y": 14104577,
+                "IsExterior": 32768,
+                "Unknown2": 3,
+                "LocationId": 13734,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Wickwing Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 17347,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13734,
+                "BuildingType": "House2",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Wickwing Grange",
+            "MapId": 69184,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 3
+}

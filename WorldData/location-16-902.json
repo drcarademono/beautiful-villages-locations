@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Mooring Farmstead",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 945886331,
+        "Latitude": 54952,
+        "Longitude": 99752,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25540608,
+                "Y": 14071809,
+                "IsExterior": 32768,
+                "Unknown2": 902,
+                "LocationId": 13846,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Mooring Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 28949,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13846,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Mooring Farmstead",
+            "MapId": 70779,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 144,
+    "RegionIndex": 16,
+    "LocationIndex": 902
+}

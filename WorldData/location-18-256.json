@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Masterford Grange",
+    "RegionName": "Glenpoint",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 268555648,
+        "Latitude": 48552,
+        "Longitude": 24616,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6305792,
+                "Y": 12433409,
+                "IsExterior": 32768,
+                "Unknown2": 256,
+                "LocationId": 17100,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Masterford Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 17561,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17100,
+                "BuildingType": "House1",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Masterford Grange",
+            "MapId": 120192,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 146,
+    "RegionIndex": 18,
+    "LocationIndex": 256
+}

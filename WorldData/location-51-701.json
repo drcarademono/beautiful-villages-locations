@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Blelper Farmstead",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 735420677,
+        "Latitude": 16808,
+        "Longitude": 115368,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 29538304,
+                "Y": 4306945,
+                "IsExterior": 32768,
+                "Unknown2": 701,
+                "LocationId": 25503,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Blelper Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23285,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25503,
+                "BuildingType": "House2",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Blelper Farmstead",
+            "MapId": 368901,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 701
+}

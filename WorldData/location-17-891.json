@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Hawking Farmstead",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 934475466,
+        "Latitude": 39080,
+        "Longitude": 32040,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8206336,
+                "Y": 10008577,
+                "IsExterior": 32768,
+                "Unknown2": 891,
+                "LocationId": 20909,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hawking Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 14045,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20909,
+                "BuildingType": "House2",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Hawking Farmstead",
+            "MapId": 194250,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 891
+}

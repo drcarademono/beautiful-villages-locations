@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Blirmki's Farm",
+    "RegionName": "Satakalaam",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 26500212,
+        "Latitude": 27432,
+        "Longitude": 103976,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26621952,
+                "Y": 7026689,
+                "IsExterior": 32768,
+                "Unknown2": 25,
+                "LocationId": 22889,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Blirmki's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 13400,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22889,
+                "BuildingType": "House2",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Blirmki's Farm",
+            "MapId": 285812,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA07.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 178,
+    "RegionIndex": 50,
+    "LocationIndex": 25
+}

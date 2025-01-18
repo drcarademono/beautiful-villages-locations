@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Masterwing Farmstead",
+    "RegionName": "Shalgora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 217248570,
+        "Latitude": 39208,
+        "Longitude": 43304,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11089920,
+                "Y": 10041345,
+                "IsExterior": 32768,
+                "Unknown2": 207,
+                "LocationId": 20860,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Masterwing Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 14390,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20860,
+                "BuildingType": "House1",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Masterwing Farmstead",
+            "MapId": 193338,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 170,
+    "RegionIndex": 42,
+    "LocationIndex": 207
+}

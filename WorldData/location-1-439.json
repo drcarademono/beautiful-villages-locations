@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Nhordar Farmstead",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 460736834,
+        "Latitude": 11304,
+        "Longitude": 124200,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31799296,
+                "Y": 2897921,
+                "IsExterior": 32768,
+                "Unknown2": 439,
+                "LocationId": 26971,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Nhordar Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 4432,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 26971,
+                "BuildingType": "House2",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Nhordar Farmstead",
+            "MapId": 411970,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 439
+}

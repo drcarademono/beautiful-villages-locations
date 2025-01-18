@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Ashsmith Grange",
+    "RegionName": "Alcaire",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 135401064,
+        "Latitude": 46760,
+        "Longitude": 97320,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24918016,
+                "Y": 11974657,
+                "IsExterior": 32768,
+                "Unknown2": 129,
+                "LocationId": 17911,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Ashsmith Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 597,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17911,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Ashsmith Grange",
+            "MapId": 134760,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 162,
+    "RegionIndex": 34,
+    "LocationIndex": 129
+}

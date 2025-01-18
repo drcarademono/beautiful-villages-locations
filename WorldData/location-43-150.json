@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Merrn Farmstead",
+    "RegionName": "Abibon-Gora",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 157772607,
+        "Latitude": 1704,
+        "Longitude": 26536,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6797312,
+                "Y": 440321,
+                "IsExterior": 32768,
+                "Unknown2": 150,
+                "LocationId": 29124,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Merrn Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 10657,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 29124,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Merrn Farmstead",
+            "MapId": 486207,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 171,
+    "RegionIndex": 43,
+    "LocationIndex": 150
+}

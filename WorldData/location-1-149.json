@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Stort-si's Farm",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 156591521,
+        "Latitude": 18728,
+        "Longitude": 89256,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22853632,
+                "Y": 4798465,
+                "IsExterior": 32768,
+                "Unknown2": 149,
+                "LocationId": 24883,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Stort-si's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3258,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24883,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Stort-si's Farm",
+            "MapId": 353697,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 149
+}

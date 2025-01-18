@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Kurgrn Farmstead",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 16010303,
+        "Latitude": 27944,
+        "Longitude": 84904,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 21739520,
+                "Y": 7157761,
+                "IsExterior": 32768,
+                "Unknown2": 15,
+                "LocationId": 22788,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kurgrn Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 11796,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22788,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Kurgrn Farmstead",
+            "MapId": 281663,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 13,
+            "BlockNames": [
+                "FARMAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 64,
+    "RegionIndex": 22,
+    "LocationIndex": 15
+}

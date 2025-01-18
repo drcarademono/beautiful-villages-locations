@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Lysyna's Farm",
+    "RegionName": "Koegria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 80827066,
+        "Latitude": 52904,
+        "Longitude": 91432,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23410688,
+                "Y": 13547521,
+                "IsExterior": 32768,
+                "Unknown2": 77,
+                "LocationId": 14989,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Lysyna's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 24069,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14989,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Lysyna's Farm",
+            "MapId": 86714,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 163,
+    "RegionIndex": 35,
+    "LocationIndex": 77
+}

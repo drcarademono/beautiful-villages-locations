@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Kinging Farmstead",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 227560276,
+        "Latitude": 61480,
+        "Longitude": 36392,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9320448,
+                "Y": 15742977,
+                "IsExterior": 32768,
+                "Unknown2": 217,
+                "LocationId": 10874,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Kinging Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 12758,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10874,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Kinging Farmstead",
+            "MapId": 19284,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 217
+}

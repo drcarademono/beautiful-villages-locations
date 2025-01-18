@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Chrystara's Farm",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 183594148,
+        "Latitude": 52008,
+        "Longitude": 44584,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11417600,
+                "Y": 13318145,
+                "IsExterior": 32768,
+                "Unknown2": 175,
+                "LocationId": 15395,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Chrystara's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 27359,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15395,
+                "BuildingType": "House2",
+                "Quality": 15
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Chrystara's Farm",
+            "MapId": 93348,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 41,
+    "LocationIndex": 175
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Hawkston Orchard",
+    "RegionName": "Phrygias",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 128997322,
+        "Latitude": 61096,
+        "Longitude": 60712,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 15546368,
+                "Y": 15644673,
+                "IsExterior": 32768,
+                "Unknown2": 123,
+                "LocationId": 11071,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Hawkston Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3444,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 11071,
+                "BuildingType": "House2",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Hawkston Orchard",
+            "MapId": 22474,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 166,
+    "RegionIndex": 38,
+    "LocationIndex": 123
+}

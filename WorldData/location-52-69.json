@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Thifyl Farmstead",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 72648704,
+        "Latitude": 26024,
+        "Longitude": 122920,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31471616,
+                "Y": 6666241,
+                "IsExterior": 32768,
+                "Unknown2": 69,
+                "LocationId": 23137,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Thifyl Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 29761,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23137,
+                "BuildingType": "House2",
+                "Quality": 13
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Thifyl Farmstead",
+            "MapId": 296960,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA02.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 180,
+    "RegionIndex": 52,
+    "LocationIndex": 69
+}

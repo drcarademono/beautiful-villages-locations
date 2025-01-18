@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Gaerston Farmstead",
+    "RegionName": "Ilessan Hills",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 458323959,
+        "Latitude": 51624,
+        "Longitude": 31656,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 8108032,
+                "Y": 13219841,
+                "IsExterior": 32768,
+                "Unknown2": 437,
+                "LocationId": 15565,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Gaerston Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 29291,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15565,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Gaerston Farmstead",
+            "MapId": 96247,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA05.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 188,
+    "RegionIndex": 60,
+    "LocationIndex": 437
+}

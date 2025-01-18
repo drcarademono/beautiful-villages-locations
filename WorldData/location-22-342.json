@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Fhurchtha's Farm",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 358927682,
+        "Latitude": 23720,
+        "Longitude": 88360,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22624256,
+                "Y": 6076417,
+                "IsExterior": 32768,
+                "Unknown2": 342,
+                "LocationId": 23611,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Fhurchtha's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 20703,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23611,
+                "BuildingType": "House2",
+                "Quality": 2
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Fhurchtha's Farm",
+            "MapId": 314690,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 342
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Wooding Plantation",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 148004360,
+        "Latitude": 44072,
+        "Longitude": 18472,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 4732928,
+                "Y": 11286529,
+                "IsExterior": 32768,
+                "Unknown2": 141,
+                "LocationId": 19015,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Wooding Plantation"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 13687,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19015,
+                "BuildingType": "House2",
+                "Quality": 11
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Wooding Plantation",
+            "MapId": 155144,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 141
+}

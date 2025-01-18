@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Klishe Farmstead",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 714534963,
+        "Latitude": 5800,
+        "Longitude": 90536,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23181312,
+                "Y": 1488897,
+                "IsExterior": 32768,
+                "Unknown2": 681,
+                "LocationId": 28184,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Klishe Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23373,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28184,
+                "BuildingType": "House2",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Klishe Farmstead",
+            "MapId": 454707,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 681
+}

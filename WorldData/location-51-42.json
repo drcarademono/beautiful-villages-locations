@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Mill Orchard",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 44364026,
+        "Latitude": 22568,
+        "Longitude": 106792,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 27342848,
+                "Y": 5781505,
+                "IsExterior": 32768,
+                "Unknown2": 42,
+                "LocationId": 23868,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Mill Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 30836,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23868,
+                "BuildingType": "House2",
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Mill Orchard",
+            "MapId": 323834,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA01.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 42
+}

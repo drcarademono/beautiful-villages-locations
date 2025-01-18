@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Stuthon Farmstead",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 160769667,
+        "Latitude": 20776,
+        "Longitude": 69032,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 17676288,
+                "Y": 5322753,
+                "IsExterior": 32768,
+                "Unknown2": 153,
+                "LocationId": 24313,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Stuthon Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 26284,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24313,
+                "BuildingType": "House2",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Stuthon Farmstead",
+            "MapId": 337539,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 153
+}

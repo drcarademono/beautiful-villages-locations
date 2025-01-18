@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Stose Farmstead",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 470175759,
+        "Latitude": 11048,
+        "Longitude": 91048,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23312384,
+                "Y": 2832385,
+                "IsExterior": 32768,
+                "Unknown2": 448,
+                "LocationId": 27016,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Stose Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 29205,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27016,
+                "BuildingType": "House2",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Stose Farmstead",
+            "MapId": 413711,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 129,
+    "RegionIndex": 1,
+    "LocationIndex": 448
+}

@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Ashsmith Farmstead",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 264262514,
+        "Latitude": 61224,
+        "Longitude": 46376,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 11876352,
+                "Y": 15677441,
+                "IsExterior": 32768,
+                "Unknown2": 252,
+                "LocationId": 10998,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Ashsmith Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 12394,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10998,
+                "BuildingType": "House1",
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Ashsmith Farmstead",
+            "MapId": 21362,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 252
+}

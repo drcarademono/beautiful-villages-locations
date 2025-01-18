@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Noctem Orchard",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 73727128,
+        "Latitude": 22184,
+        "Longitude": 103464,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 26490880,
+                "Y": 5683201,
+                "IsExterior": 32768,
+                "Unknown2": 70,
+                "LocationId": 23962,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Noctem Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 7156,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23962,
+                "BuildingType": "House2",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Noctem Orchard",
+            "MapId": 326808,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 179,
+    "RegionIndex": 51,
+    "LocationIndex": 70
+}

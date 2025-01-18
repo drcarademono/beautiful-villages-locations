@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Buckington Grange",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1308837069,
+        "Latitude": 36520,
+        "Longitude": 28328,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7256064,
+                "Y": 9353217,
+                "IsExterior": 32768,
+                "Unknown2": 1248,
+                "LocationId": 21775,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Buckington Grange"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 26368,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21775,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Buckington Grange",
+            "MapId": 214221,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 1248
+}

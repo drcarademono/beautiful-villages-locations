@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Fercun Farmstead",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 17224899,
+        "Latitude": 6696,
+        "Longitude": 87464,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 22394880,
+                "Y": 1718273,
+                "IsExterior": 32768,
+                "Unknown2": 16,
+                "LocationId": 27968,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Fercun Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 19338,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27968,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Fercun Farmstead",
+            "MapId": 447683,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 226,
+        "ClimateType": "Mountain",
+        "NatureSet": "Nature_Mountains",
+        "GroundArchive": 102,
+        "NatureArchive": 510,
+        "SkyBase": 0,
+        "People": "Nord",
+        "Names": "Nord"
+    },
+    "Politic": 139,
+    "RegionIndex": 11,
+    "LocationIndex": 16
+}

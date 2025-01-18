@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Yeomsmith Farmstead",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 82987660,
+        "Latitude": 44712,
+        "Longitude": 20008,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 5126144,
+                "Y": 11450369,
+                "IsExterior": 32768,
+                "Unknown2": 79,
+                "LocationId": 18771,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Yeomsmith Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18211,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 18771,
+                "BuildingType": "House2",
+                "Quality": 5
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Yeomsmith Farmstead",
+            "MapId": 150156,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA06.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 79
+}

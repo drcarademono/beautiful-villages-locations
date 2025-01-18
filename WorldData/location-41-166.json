@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Old Vannausa's Farm",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 174153013,
+        "Latitude": 52520,
+        "Longitude": 50856,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 13023232,
+                "Y": 13449217,
+                "IsExterior": 32768,
+                "Unknown2": 166,
+                "LocationId": 15163,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Old Vannausa's Farm"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 18780,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15163,
+                "BuildingType": "House2",
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Old Vannausa's Farm",
+            "MapId": 89397,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA04.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 169,
+    "RegionIndex": 41,
+    "LocationIndex": 166
+}

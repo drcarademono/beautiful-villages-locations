@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Gaerton Orchard",
+    "RegionName": "Ykalon",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 95428791,
+        "Latitude": 62888,
+        "Longitude": 48040,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12302336,
+                "Y": 16103425,
+                "IsExterior": 32768,
+                "Unknown2": 91,
+                "LocationId": 10327,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Gaerton Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 3619,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10327,
+                "BuildingType": "House2",
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Gaerton Orchard",
+            "MapId": 8375,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_HauntedWoodlands",
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 168,
+    "RegionIndex": 40,
+    "LocationIndex": 91
+}

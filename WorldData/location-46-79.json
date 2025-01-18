@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Shrizan Plantation",
+    "RegionName": "Myrkwasa",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 83263781,
+        "Latitude": 9384,
+        "Longitude": 35496,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 9091072,
+                "Y": 2406401,
+                "IsExterior": 32768,
+                "Unknown2": 79,
+                "LocationId": 27400,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Shrizan Plantation"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 9798,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27400,
+                "BuildingType": "House1",
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Shrizan Plantation",
+            "MapId": 426277,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA09.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": null
+    },
+    "Politic": 174,
+    "RegionIndex": 46,
+    "LocationIndex": 79
+}

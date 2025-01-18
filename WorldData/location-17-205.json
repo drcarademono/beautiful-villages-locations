@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Woodsley Orchard",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 215117282,
+        "Latitude": 43560,
+        "Longitude": 25896,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6633472,
+                "Y": 11155457,
+                "IsExterior": 32768,
+                "Unknown2": 205,
+                "LocationId": 19245,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Woodsley Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 21956,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19245,
+                "BuildingType": "House2",
+                "Quality": 9
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Woodsley Orchard",
+            "MapId": 159202,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA03.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_WoodlandHills",
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 205
+}

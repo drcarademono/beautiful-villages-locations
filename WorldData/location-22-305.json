@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "Dith Orchard",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 320125440,
+        "Latitude": 24360,
+        "Longitude": 97320,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 24918016,
+                "Y": 6240257,
+                "IsExterior": 32768,
+                "Unknown2": 305,
+                "LocationId": 23488,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Dith Orchard"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 25453,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23488,
+                "BuildingType": "House2",
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Dith Orchard",
+            "MapId": 309760,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": "Swamp",
+        "NatureSet": "Nature_RainForest",
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 150,
+    "RegionIndex": 22,
+    "LocationIndex": 305
+}

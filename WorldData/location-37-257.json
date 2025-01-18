@@ -1,0 +1,82 @@
+{
+    "Loaded": true,
+    "Name": "The Hearthfield Farmstead",
+    "RegionName": "Kambria",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 269569612,
+        "Latitude": 53032,
+        "Longitude": 74280,
+        "LocationType": "HomeFarms",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 19019776,
+                "Y": 13580289,
+                "IsExterior": 32768,
+                "Unknown2": 257,
+                "LocationId": 14928,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "The Hearthfield Farmstead"
+            }
+        },
+        "BuildingCount": 1,
+        "Buildings": [
+            {
+                "NameSeed": 23006,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14928,
+                "BuildingType": "House2",
+                "Quality": 3
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Hearthfield Farmstead",
+            "MapId": 85580,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA08.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 165,
+    "RegionIndex": 37,
+    "LocationIndex": 257
+}
