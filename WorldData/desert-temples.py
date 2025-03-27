@@ -10,10 +10,24 @@ def replace_tempba_with_tempbs(block_names):
             suffix = match.group(1)
             block_names[idx] = f"TEMPBS{suffix}.RMB"
 
+def fix_invalid_escapes(json_string):
+    """Escape invalid backslashes in the JSON string."""
+    # Replace backslashes not followed by valid escape characters
+    return re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', json_string)
+
 def process_json_file(filepath):
     """Process a single RMB.json file."""
-    with open(filepath, 'r') as file:
-        data = json.load(file)
+    with open(filepath, 'r', encoding='utf-8') as file:
+        raw = file.read()
+    
+    # Preprocess to fix invalid escape sequences
+    fixed_raw = fix_invalid_escapes(raw)
+
+    try:
+        data = json.loads(fixed_raw)
+    except json.JSONDecodeError as e:
+        print(f"Failed to parse JSON in {filepath}: {e}")
+        return
 
     # Skip TownHamlet locations
     if data.get("MapTableData", {}).get("LocationType") != "TownHamlet":
@@ -24,7 +38,8 @@ def process_json_file(filepath):
             replace_tempba_with_tempbs(block_names)
             exterior_data["BlockNames"] = block_names  # Update in place
 
-        with open(filepath, 'w') as file:
+        # Write the modified data back to the file
+        with open(filepath, 'w', encoding='utf-8') as file:
             json.dump(data, file, indent=4)
 
 def main():
