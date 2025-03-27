@@ -25,16 +25,8 @@
                 "LocationName": "Glort Palace"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 31231,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 25096,
-                "BuildingType": "House1",
-                "Quality": 8
-            },
             {
                 "NameSeed": 7696,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 25096,
                 "BuildingType": "House2",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 31231,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25096,
+                "BuildingType": "House1",
+                "Quality": 8
             },
             {
                 "NameSeed": 14537,
@@ -92,6 +92,22 @@
                 "Quality": 9
             },
             {
+                "NameSeed": 30303,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 25096,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 31310,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 25096,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 8207,
                 "FactionId": 0,
                 "Sector": 69,
@@ -100,20 +116,12 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 939,
+                "NameSeed": 31313,
                 "FactionId": 0,
-                "Sector": 78,
+                "Sector": 93,
                 "LocationId": 25096,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 30303,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 25096,
-                "BuildingType": "Tavern",
-                "Quality": 12
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

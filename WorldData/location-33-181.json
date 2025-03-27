@@ -25,16 +25,8 @@
                 "LocationName": "Coppering Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 16954,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 21450,
-                "BuildingType": "House1",
-                "Quality": 11
-            },
             {
                 "NameSeed": 29055,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 21450,
                 "BuildingType": "House2",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 16954,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21450,
+                "BuildingType": "House1",
+                "Quality": 11
             },
             {
                 "NameSeed": 24768,
@@ -92,28 +92,20 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 11253,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 21450,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 16702,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 21450,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "NameSeed": 8847,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 21450,
                 "BuildingType": "Tavern",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 29058,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 21450,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

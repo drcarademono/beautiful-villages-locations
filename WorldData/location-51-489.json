@@ -25,16 +25,8 @@
                 "LocationName": "Caajer Court"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 24826,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24995,
-                "BuildingType": "House1",
-                "Quality": 2
-            },
             {
                 "NameSeed": 12929,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 24995,
                 "BuildingType": "House2",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 24826,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24995,
+                "BuildingType": "House1",
+                "Quality": 2
             },
             {
                 "NameSeed": 18653,
@@ -92,28 +92,20 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 13422,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 24995,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 11943,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 24995,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
                 "NameSeed": 29508,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 24995,
                 "BuildingType": "Tavern",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 29743,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24995,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

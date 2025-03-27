@@ -25,16 +25,8 @@
                 "LocationName": "Greensley Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 31070,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 15846,
-                "BuildingType": "House1",
-                "Quality": 7
-            },
             {
                 "NameSeed": 4356,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 15846,
                 "BuildingType": "House2",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 31070,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15846,
+                "BuildingType": "House1",
+                "Quality": 7
             },
             {
                 "NameSeed": 16060,
@@ -92,28 +92,20 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 24375,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 15846,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 28324,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 15846,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
                 "NameSeed": 20801,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 15846,
                 "BuildingType": "Tavern",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 31073,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 15846,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

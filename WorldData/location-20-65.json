@@ -25,7 +25,7 @@
                 "LocationName": "Kercte Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 26267,
@@ -36,12 +36,12 @@
                 "Quality": 8
             },
             {
-                "NameSeed": 21128,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 2,
+                "NameSeed": 21128,
                 "Sector": 9,
-                "LocationId": 25306,
-                "BuildingType": "House2",
-                "Quality": 2
+                "LocationId": 25306
             },
             {
                 "NameSeed": 4242,
@@ -52,12 +52,36 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 12628,
+                "NameSeed": 26270,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 25306,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12628,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25306,
                 "BuildingType": "House1",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 26273,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 25306,
+                "BuildingType": "House1",
+                "Quality": 16
+            },
+            {
+                "NameSeed": 26276,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 25306,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

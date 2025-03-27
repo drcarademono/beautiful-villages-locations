@@ -25,15 +25,15 @@
                 "LocationName": "Mes'kern Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 11389,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 12,
+                "NameSeed": 11389,
                 "Sector": 4,
-                "LocationId": 27781,
-                "BuildingType": "House2",
-                "Quality": 12
+                "LocationId": 27781
             },
             {
                 "NameSeed": 15163,
@@ -58,6 +58,14 @@
                 "LocationId": 27781,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 23565,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27781,
+                "BuildingType": "House2",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

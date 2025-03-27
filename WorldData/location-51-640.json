@@ -25,7 +25,7 @@
                 "LocationName": "Nargon Hall"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 32272,
@@ -34,6 +34,14 @@
                 "LocationId": 25366,
                 "BuildingType": "House2",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 4673,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 25366,
+                "BuildingType": "House3",
+                "Quality": 1
             },
             {
                 "NameSeed": 16635,
@@ -52,12 +60,20 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 4673,
+                "NameSeed": 18960,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 25366,
-                "BuildingType": "House3",
-                "Quality": 1
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32275,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 25366,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 7547,
@@ -66,38 +82,6 @@
                 "LocationId": 25366,
                 "BuildingType": "House2",
                 "Quality": 3
-            },
-            {
-                "NameSeed": 3490,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 25366,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 27400,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 25366,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 18960,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 25366,
-                "BuildingType": "Tavern",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 27564,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 25366,
-                "BuildingType": "House1",
-                "Quality": 8
             }
         ],
         "ExteriorData": {

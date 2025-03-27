@@ -25,22 +25,22 @@
                 "LocationName": "Masterwing Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 21761,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 16154,
-                "BuildingType": "House1",
-                "Quality": 14
-            },
             {
                 "NameSeed": 17438,
                 "FactionId": 0,
                 "Sector": 16,
                 "LocationId": 16154,
                 "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21761,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16154,
+                "BuildingType": "House1",
                 "Quality": 14
             },
             {
@@ -92,28 +92,20 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 16422,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 16154,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 23544,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 16154,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
                 "NameSeed": 22458,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 16154,
                 "BuildingType": "Tavern",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 23544,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 16154,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

@@ -25,16 +25,8 @@
                 "LocationName": "Chethte Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 25810,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 28570,
-                "BuildingType": "House1",
-                "Quality": 9
-            },
             {
                 "NameSeed": 22320,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 28570,
                 "BuildingType": "House2",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 25810,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 28570,
+                "BuildingType": "House1",
+                "Quality": 9
             },
             {
                 "NameSeed": 10547,
@@ -92,6 +92,22 @@
                 "Quality": 14
             },
             {
+                "NameSeed": 13611,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 28570,
+                "BuildingType": "Tavern",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31972,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 28570,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 12839,
                 "FactionId": 0,
                 "Sector": 69,
@@ -106,14 +122,6 @@
                 "LocationId": 28570,
                 "BuildingType": "House2",
                 "Quality": 11
-            },
-            {
-                "NameSeed": 13611,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 28570,
-                "BuildingType": "Tavern",
-                "Quality": 15
             }
         ],
         "ExteriorData": {

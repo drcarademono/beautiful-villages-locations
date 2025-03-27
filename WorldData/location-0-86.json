@@ -25,7 +25,7 @@
                 "LocationName": "Mhustun Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 6515,
@@ -36,12 +36,12 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 20709,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 2,
+                "NameSeed": 20709,
                 "Sector": 9,
-                "LocationId": 27307,
-                "BuildingType": "House2",
-                "Quality": 2
+                "LocationId": 27307
             },
             {
                 "NameSeed": 31587,
@@ -52,9 +52,17 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 31587,
+                "NameSeed": 31590,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 27307,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 31593,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27307,
                 "BuildingType": "House1",
                 "Quality": 7

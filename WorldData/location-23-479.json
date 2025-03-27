@@ -25,16 +25,8 @@
                 "LocationName": "Kinghart Palace"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 29737,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 22215,
-                "BuildingType": "House1",
-                "Quality": 8
-            },
             {
                 "NameSeed": 20951,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 22215,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 29737,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22215,
+                "BuildingType": "House1",
+                "Quality": 8
             },
             {
                 "NameSeed": 22623,
@@ -92,28 +92,20 @@
                 "Quality": 14
             },
             {
-                "NameSeed": 9133,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 22215,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 27620,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 22215,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
                 "NameSeed": 13822,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 22215,
                 "BuildingType": "Tavern",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 29740,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 22215,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

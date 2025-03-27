@@ -25,15 +25,15 @@
                 "LocationName": "Bloth Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 13741,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 14,
+                "NameSeed": 13741,
                 "Sector": 4,
-                "LocationId": 26071,
-                "BuildingType": "House2",
-                "Quality": 14
+                "LocationId": 26071
             },
             {
                 "NameSeed": 9133,
@@ -58,6 +58,14 @@
                 "LocationId": 26071,
                 "BuildingType": "House1",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 27623,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26071,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

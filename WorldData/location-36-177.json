@@ -25,7 +25,7 @@
                 "LocationName": "Moorcroft Court"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 26661,
@@ -34,6 +34,14 @@
                 "LocationId": 18102,
                 "BuildingType": "House2",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 4606,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 18102,
+                "BuildingType": "House3",
+                "Quality": 14
             },
             {
                 "NameSeed": 15780,
@@ -52,12 +60,20 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 4606,
+                "NameSeed": 30168,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 18102,
-                "BuildingType": "House3",
-                "Quality": 14
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 30171,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 18102,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 24206,
@@ -74,30 +90,6 @@
                 "LocationId": 18102,
                 "BuildingType": "House2",
                 "Quality": 8
-            },
-            {
-                "NameSeed": 21143,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 18102,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 30168,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 18102,
-                "BuildingType": "Tavern",
-                "Quality": 3
-            },
-            {
-                "NameSeed": 9251,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 18102,
-                "BuildingType": "House1",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

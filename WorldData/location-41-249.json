@@ -25,16 +25,8 @@
                 "LocationName": "Greening Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 12327,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 16457,
-                "BuildingType": "House1",
-                "Quality": 11
-            },
             {
                 "NameSeed": 20753,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 16457,
                 "BuildingType": "House2",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 12327,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 16457,
+                "BuildingType": "House1",
+                "Quality": 11
             },
             {
                 "NameSeed": 27342,
@@ -100,20 +100,28 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 30342,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 16457,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
                 "NameSeed": 30563,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 16457,
                 "BuildingType": "Tavern",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 30566,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 16457,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
+                "NameSeed": 30569,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 16457,
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

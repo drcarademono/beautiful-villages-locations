@@ -25,7 +25,7 @@
                 "LocationName": "Tlircem Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 11680,
@@ -44,17 +44,33 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 11753,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 11753,
                 "Sector": 12,
-                "LocationId": 28725,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 28725
             },
             {
                 "NameSeed": 23396,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 28725,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23399,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28725,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23402,
+                "FactionId": 0,
+                "Sector": 21,
                 "LocationId": 28725,
                 "BuildingType": "House1",
                 "Quality": 4

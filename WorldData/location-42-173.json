@@ -25,8 +25,16 @@
                 "LocationName": "Yeomsmith Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
+            {
+                "NameSeed": 23971,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 19636,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
             {
                 "NameSeed": 30085,
                 "FactionId": 0,
@@ -34,6 +42,14 @@
                 "LocationId": 19636,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 8276,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 19636,
+                "BuildingType": "House3",
+                "Quality": 7
             },
             {
                 "NameSeed": 21481,
@@ -52,12 +68,20 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 8276,
+                "NameSeed": 20855,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 19636,
-                "BuildingType": "House3",
-                "Quality": 7
+                "BuildingType": "Tavern",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 30088,
+                "FactionId": 852,
+                "Sector": 89,
+                "LocationId": 19636,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 22752,
@@ -66,38 +90,6 @@
                 "LocationId": 19636,
                 "BuildingType": "House2",
                 "Quality": 13
-            },
-            {
-                "NameSeed": 11170,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 19636,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 2678,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 19636,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 20855,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 19636,
-                "BuildingType": "Tavern",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 23971,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 19636,
-                "BuildingType": "House1",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

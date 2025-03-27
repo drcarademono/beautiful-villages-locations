@@ -25,7 +25,7 @@
                 "LocationName": "Kast Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 6862,
@@ -36,12 +36,12 @@
                 "Quality": 3
             },
             {
-                "NameSeed": 18442,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 18442,
                 "Sector": 9,
-                "LocationId": 27300,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 27300
             },
             {
                 "NameSeed": 4393,
@@ -56,8 +56,24 @@
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 27300,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 22582,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27300,
                 "BuildingType": "House1",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 22585,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 27300,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

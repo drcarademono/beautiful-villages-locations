@@ -25,8 +25,16 @@
                 "LocationName": "Kingsley Court"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 7269,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 14523,
+                "BuildingType": "House1",
+                "Quality": 12
+            },
             {
                 "NameSeed": 32101,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 4606,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 14523,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
                 "NameSeed": 2722,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 14523,
                 "BuildingType": "Tavern",
                 "Quality": 5
             },
             {
-                "NameSeed": 7269,
+                "NameSeed": 32104,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 14523,
                 "BuildingType": "House1",
-                "Quality": 12
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32107,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 14523,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 4606,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 14523,
+                "BuildingType": "House2",
+                "Quality": 14
             }
         ],
         "ExteriorData": {

@@ -25,15 +25,15 @@
                 "LocationName": "Lajke Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 26907,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 15,
+                "NameSeed": 26907,
                 "Sector": 4,
-                "LocationId": 24648,
-                "BuildingType": "House2",
-                "Quality": 15
+                "LocationId": 24648
             },
             {
                 "NameSeed": 2375,
@@ -58,6 +58,14 @@
                 "LocationId": 24648,
                 "BuildingType": "House1",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 26910,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24648,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

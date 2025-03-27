@@ -25,16 +25,8 @@
                 "LocationName": "Blir Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 28474,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24579,
-                "BuildingType": "House1",
-                "Quality": 11
-            },
             {
                 "NameSeed": 32483,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 24579,
                 "BuildingType": "House2",
                 "Quality": 14
+            },
+            {
+                "NameSeed": 28474,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24579,
+                "BuildingType": "House1",
+                "Quality": 11
             },
             {
                 "NameSeed": 19252,
@@ -92,28 +92,20 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 21285,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 24579,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
-                "NameSeed": 22062,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 24579,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
                 "NameSeed": 31479,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 24579,
                 "BuildingType": "Tavern",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 32486,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24579,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

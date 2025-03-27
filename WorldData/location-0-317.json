@@ -25,15 +25,15 @@
                 "LocationName": "V'ej Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 16186,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 13,
+                "NameSeed": 16186,
                 "Sector": 4,
-                "LocationId": 29344,
-                "BuildingType": "House2",
-                "Quality": 13
+                "LocationId": 29344
             },
             {
                 "NameSeed": 10156,
@@ -58,6 +58,14 @@
                 "LocationId": 29344,
                 "BuildingType": "House1",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 16189,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29344,
+                "BuildingType": "House2",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

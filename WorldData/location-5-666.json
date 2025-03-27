@@ -25,7 +25,7 @@
                 "LocationName": "Mastercroft Palace"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
             {
                 "NameSeed": 20111,
@@ -34,6 +34,14 @@
                 "LocationId": 16529,
                 "BuildingType": "House2",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 17249,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 16529,
+                "BuildingType": "House1",
+                "Quality": 2
             },
             {
                 "NameSeed": 15670,
@@ -117,18 +125,34 @@
             },
             {
                 "NameSeed": 23984,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 16529,
                 "BuildingType": "Tavern",
                 "Quality": 2
             },
             {
-                "NameSeed": 17249,
+                "NameSeed": 32104,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 16529,
                 "BuildingType": "House1",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32107,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 16529,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32110,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 16529,
+                "BuildingType": "House2",
                 "Quality": 2
             }
         ],

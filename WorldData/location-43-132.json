@@ -25,7 +25,7 @@
                 "LocationName": "Flightke Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 25944,
@@ -36,12 +36,12 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 31367,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 31367,
                 "Sector": 9,
-                "LocationId": 29086,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 29086
             },
             {
                 "NameSeed": 22447,
@@ -52,12 +52,28 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 15070,
+                "NameSeed": 31370,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 29086,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15070,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29086,
                 "BuildingType": "House1",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 31373,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 29086,
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

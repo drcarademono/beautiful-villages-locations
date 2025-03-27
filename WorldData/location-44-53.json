@@ -25,15 +25,15 @@
                 "LocationName": "Dirn Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 24810,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 14,
+                "NameSeed": 24810,
                 "Sector": 4,
-                "LocationId": 27903,
-                "BuildingType": "House2",
-                "Quality": 14
+                "LocationId": 27903
             },
             {
                 "NameSeed": 12026,
@@ -58,6 +58,22 @@
                 "LocationId": 27903,
                 "BuildingType": "House1",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 24813,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27903,
+                "BuildingType": "House2",
+                "Quality": 18
+            },
+            {
+                "NameSeed": 24816,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 27903,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

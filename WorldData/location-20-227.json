@@ -25,7 +25,7 @@
                 "LocationName": "C'uct Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 11216,
@@ -52,12 +52,44 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 25087,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 4,
+                "NameSeed": 25087,
                 "Sector": 15,
+                "LocationId": 26076
+            },
+            {
+                "NameSeed": 25090,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26076,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25093,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26076,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25096,
+                "FactionId": 0,
+                "Sector": 24,
                 "LocationId": 26076,
                 "BuildingType": "House1",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 25099,
+                "FactionId": 0,
+                "Sector": 27,
+                "LocationId": 26076,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

@@ -25,16 +25,8 @@
                 "LocationName": "Buckingcroft Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 14385,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 14419,
-                "BuildingType": "House1",
-                "Quality": 5
-            },
             {
                 "NameSeed": 15718,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 14419,
                 "BuildingType": "House2",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 14385,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14419,
+                "BuildingType": "House1",
+                "Quality": 5
             },
             {
                 "NameSeed": 11707,
@@ -92,28 +92,20 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 26780,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 14419,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 13781,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 14419,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
                 "NameSeed": 16247,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 14419,
                 "BuildingType": "Tavern",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 26780,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 14419,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

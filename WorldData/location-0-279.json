@@ -25,7 +25,7 @@
                 "LocationName": "Kog'kern Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 9496,
@@ -44,20 +44,44 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 17820,
-                "FactionId": 0,
-                "Sector": 12,
-                "LocationId": 29066,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
                 "NameSeed": 23606,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 29066,
                 "BuildingType": "House1",
                 "Quality": 11
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 4,
+                "NameSeed": 17820,
+                "Sector": 12,
+                "LocationId": 29066
+            },
+            {
+                "NameSeed": 23609,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29066,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23612,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 29066,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 23615,
+                "FactionId": 0,
+                "Sector": 24,
+                "LocationId": 29066,
+                "BuildingType": "House1",
+                "Quality": 9
             }
         ],
         "ExteriorData": {

@@ -25,16 +25,8 @@
                 "LocationName": "Krethen Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 15660,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 23523,
-                "BuildingType": "House1",
-                "Quality": 10
-            },
             {
                 "NameSeed": 12159,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 23523,
                 "BuildingType": "House2",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 15660,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23523,
+                "BuildingType": "House1",
+                "Quality": 10
             },
             {
                 "NameSeed": 23475,
@@ -92,28 +92,20 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 8276,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 23523,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 22752,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 23523,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
                 "NameSeed": 20617,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 23523,
                 "BuildingType": "Tavern",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 23478,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 23523,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

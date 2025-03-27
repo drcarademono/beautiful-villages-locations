@@ -25,7 +25,7 @@
                 "LocationName": "Hawksmith Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
             {
                 "NameSeed": 20509,
@@ -117,7 +117,7 @@
             },
             {
                 "NameSeed": 30909,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 10017,
                 "BuildingType": "Tavern",
@@ -130,6 +130,22 @@
                 "LocationId": 10017,
                 "BuildingType": "House1",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 30912,
+                "FactionId": 852,
+                "Sector": 85,
+                "LocationId": 10017,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30915,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 10017,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

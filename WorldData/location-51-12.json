@@ -25,8 +25,16 @@
                 "LocationName": "Rurt Hall"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
+            {
+                "NameSeed": 17467,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 23750,
+                "BuildingType": "House1",
+                "Quality": 1
+            },
             {
                 "NameSeed": 30342,
                 "FactionId": 0,
@@ -117,19 +125,35 @@
             },
             {
                 "NameSeed": 12349,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 23750,
                 "BuildingType": "Tavern",
                 "Quality": 14
             },
             {
-                "NameSeed": 17467,
+                "NameSeed": 30345,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 23750,
                 "BuildingType": "House1",
-                "Quality": 1
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30348,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 23750,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30351,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 23750,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

@@ -25,15 +25,23 @@
                 "LocationName": "Tlorgir Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 22833,
+                "NameSeed": 20709,
                 "FactionId": 0,
-                "Sector": 4,
+                "Sector": 15,
                 "LocationId": 26646,
-                "BuildingType": "House2",
-                "Quality": 12
+                "BuildingType": "House1",
+                "Quality": 2
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 12,
+                "NameSeed": 22833,
+                "Sector": 4,
+                "LocationId": 26646
             },
             {
                 "NameSeed": 2652,
@@ -52,12 +60,12 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 20709,
+                "NameSeed": 22836,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 18,
                 "LocationId": 26646,
                 "BuildingType": "House1",
-                "Quality": 2
+                "Quality": 9
             }
         ],
         "ExteriorData": {

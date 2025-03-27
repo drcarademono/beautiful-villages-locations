@@ -25,16 +25,8 @@
                 "LocationName": "Gizim Palace"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 13,
         "Buildings": [
-            {
-                "NameSeed": 12879,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24750,
-                "BuildingType": "House1",
-                "Quality": 12
-            },
             {
                 "NameSeed": 26176,
                 "FactionId": 0,
@@ -58,6 +50,14 @@
                 "LocationId": 24750,
                 "BuildingType": "House2",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 12879,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24750,
+                "BuildingType": "House1",
+                "Quality": 12
             },
             {
                 "NameSeed": 5726,
@@ -109,11 +109,27 @@
             },
             {
                 "NameSeed": 3768,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 24750,
                 "BuildingType": "Tavern",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 27018,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24750,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
+                "NameSeed": 27021,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 24750,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

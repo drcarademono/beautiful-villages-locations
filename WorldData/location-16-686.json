@@ -25,16 +25,8 @@
                 "LocationName": "Buckingsly Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 7503,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 12668,
-                "BuildingType": "House1",
-                "Quality": 7
-            },
             {
                 "NameSeed": 21871,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 12668,
                 "BuildingType": "House2",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 7503,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12668,
+                "BuildingType": "House1",
+                "Quality": 7
             },
             {
                 "NameSeed": 31136,
@@ -100,20 +100,28 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 28050,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 12668,
-                "BuildingType": "House2",
-                "Quality": 11
-            },
-            {
                 "NameSeed": 19004,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 12668,
                 "BuildingType": "Tavern",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 31648,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 12668,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
+                "NameSeed": 31651,
+                "FactionId": 0,
+                "Sector": 93,
+                "LocationId": 12668,
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

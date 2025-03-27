@@ -25,15 +25,15 @@
                 "LocationName": "Kizt Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 28354,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 2,
+                "NameSeed": 28354,
                 "Sector": 4,
-                "LocationId": 26855,
-                "BuildingType": "House2",
-                "Quality": 2
+                "LocationId": 26855
             },
             {
                 "NameSeed": 28231,
@@ -58,6 +58,14 @@
                 "LocationId": 26855,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 28865,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26855,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

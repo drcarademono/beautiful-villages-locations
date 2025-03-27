@@ -25,16 +25,8 @@
                 "LocationName": "Copperham Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 4761,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 13660,
-                "BuildingType": "House1",
-                "Quality": 6
-            },
             {
                 "NameSeed": 16139,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 13660,
                 "BuildingType": "House2",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 4761,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13660,
+                "BuildingType": "House1",
+                "Quality": 6
             },
             {
                 "NameSeed": 22833,
@@ -84,7 +84,7 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 31587,
+                "NameSeed": 31590,
                 "FactionId": 0,
                 "Sector": 61,
                 "LocationId": 13660,
@@ -92,28 +92,20 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 31587,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 13660,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 31587,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 13660,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 24088,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 13660,
                 "BuildingType": "Tavern",
                 "Quality": 14
+            },
+            {
+                "NameSeed": 31593,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 13660,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "Hearthwing Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
             {
                 "NameSeed": 22407,
@@ -117,7 +117,7 @@
             },
             {
                 "NameSeed": 5771,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 21262,
                 "BuildingType": "Tavern",
@@ -130,6 +130,22 @@
                 "LocationId": 21262,
                 "BuildingType": "House1",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 32275,
+                "FactionId": 852,
+                "Sector": 85,
+                "LocationId": 21262,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32278,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 21262,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

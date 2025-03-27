@@ -25,7 +25,7 @@
                 "LocationName": "Moorhouse Palace"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
             {
                 "NameSeed": 11533,
@@ -34,6 +34,14 @@
                 "LocationId": 12229,
                 "BuildingType": "House2",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 22563,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 12229,
+                "BuildingType": "House1",
+                "Quality": 1
             },
             {
                 "NameSeed": 14255,
@@ -117,19 +125,35 @@
             },
             {
                 "NameSeed": 15744,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 12229,
                 "BuildingType": "Tavern",
                 "Quality": 6
             },
             {
-                "NameSeed": 22563,
+                "NameSeed": 23547,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 12229,
                 "BuildingType": "House1",
-                "Quality": 1
+                "Quality": 15
+            },
+            {
+                "NameSeed": 23550,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 12229,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 23553,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 12229,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

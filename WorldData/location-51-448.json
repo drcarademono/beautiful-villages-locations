@@ -25,16 +25,8 @@
                 "LocationName": "Soll'kern Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 20625,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24890,
-                "BuildingType": "House1",
-                "Quality": 13
-            },
             {
                 "NameSeed": 4978,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 24890,
                 "BuildingType": "House2",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 20625,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24890,
+                "BuildingType": "House1",
+                "Quality": 13
             },
             {
                 "NameSeed": 1111,
@@ -100,20 +100,28 @@
                 "Quality": 7
             },
             {
+                "NameSeed": 24613,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 24890,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 26269,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24890,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 17345,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 24890,
                 "BuildingType": "House2",
                 "Quality": 12
-            },
-            {
-                "NameSeed": 24613,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 24890,
-                "BuildingType": "Tavern",
-                "Quality": 5
             }
         ],
         "ExteriorData": {

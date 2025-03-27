@@ -25,7 +25,7 @@
                 "LocationName": "M'eg Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 13137,
@@ -36,12 +36,12 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 5529,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 14,
+                "NameSeed": 5529,
                 "Sector": 9,
-                "LocationId": 27935,
-                "BuildingType": "House2",
-                "Quality": 14
+                "LocationId": 27935
             },
             {
                 "NameSeed": 28344,
@@ -52,12 +52,28 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 5418,
+                "NameSeed": 28347,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 27935,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 5418,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27935,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 28350,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 27935,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

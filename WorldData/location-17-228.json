@@ -25,8 +25,16 @@
                 "LocationName": "Hawkcroft Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 510,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 19316,
+                "BuildingType": "House1",
+                "Quality": 7
+            },
             {
                 "NameSeed": 6643,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 22710,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 19316,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
                 "NameSeed": 15376,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 19316,
                 "BuildingType": "Tavern",
                 "Quality": 8
             },
             {
-                "NameSeed": 510,
+                "NameSeed": 32595,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 19316,
                 "BuildingType": "House1",
-                "Quality": 7
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32598,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 19316,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 22710,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 19316,
+                "BuildingType": "House2",
+                "Quality": 4
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "B'ech Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
             {
                 "NameSeed": 12605,
@@ -117,7 +117,7 @@
             },
             {
                 "NameSeed": 1509,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 28367,
                 "BuildingType": "Tavern",
@@ -130,6 +130,22 @@
                 "LocationId": 28367,
                 "BuildingType": "House1",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 25151,
+                "FactionId": 852,
+                "Sector": 85,
+                "LocationId": 28367,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 25154,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 28367,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

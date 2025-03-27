@@ -25,16 +25,8 @@
                 "LocationName": "Kington Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 27015,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 19628,
-                "BuildingType": "House1",
-                "Quality": 7
-            },
             {
                 "NameSeed": 1201,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 19628,
                 "BuildingType": "House2",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 27015,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19628,
+                "BuildingType": "House1",
+                "Quality": 7
             },
             {
                 "NameSeed": 5983,
@@ -100,20 +100,28 @@
                 "Quality": 14
             },
             {
+                "NameSeed": 9323,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 19628,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 27018,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 19628,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 9452,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 19628,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 9323,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 19628,
-                "BuildingType": "Tavern",
-                "Quality": 13
             }
         ],
         "ExteriorData": {

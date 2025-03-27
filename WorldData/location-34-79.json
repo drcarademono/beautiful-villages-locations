@@ -25,7 +25,7 @@
                 "LocationName": "Greenston Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 8851,
@@ -33,6 +33,14 @@
                 "Sector": 4,
                 "LocationId": 17217,
                 "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6941,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17217,
+                "BuildingType": "House3",
                 "Quality": 15
             },
             {
@@ -52,11 +60,19 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 6941,
+                "NameSeed": 31619,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 17217,
-                "BuildingType": "House3",
+                "BuildingType": "Tavern",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 31622,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 17217,
+                "BuildingType": "Palace",
                 "Quality": 15
             },
             {
@@ -66,38 +82,6 @@
                 "LocationId": 17217,
                 "BuildingType": "House2",
                 "Quality": 11
-            },
-            {
-                "NameSeed": 26263,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 17217,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 15973,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 17217,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 31619,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 17217,
-                "BuildingType": "Tavern",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 12277,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 17217,
-                "BuildingType": "House1",
-                "Quality": 4
             }
         ],
         "ExteriorData": {

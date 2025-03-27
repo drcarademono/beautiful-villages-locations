@@ -25,7 +25,7 @@
                 "LocationName": "Greencroft Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 5418,
@@ -34,6 +34,14 @@
                 "LocationId": 20633,
                 "BuildingType": "House2",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 17477,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 20633,
+                "BuildingType": "House3",
+                "Quality": 8
             },
             {
                 "NameSeed": 7885,
@@ -52,12 +60,20 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 17477,
+                "NameSeed": 17585,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 20633,
-                "BuildingType": "House3",
-                "Quality": 8
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31689,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 20633,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 27683,
@@ -68,36 +84,12 @@
                 "Quality": 14
             },
             {
-                "NameSeed": 31689,
+                "NameSeed": 31692,
                 "FactionId": 0,
                 "Sector": 42,
                 "LocationId": 20633,
                 "BuildingType": "House2",
                 "Quality": 10
-            },
-            {
-                "NameSeed": 12755,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 20633,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 17585,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 20633,
-                "BuildingType": "Tavern",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 26442,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 20633,
-                "BuildingType": "House1",
-                "Quality": 2
             }
         ],
         "ExteriorData": {

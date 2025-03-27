@@ -25,8 +25,16 @@
                 "LocationName": "Coppercroft Court"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
+            {
+                "NameSeed": 22191,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 20843,
+                "BuildingType": "House1",
+                "Quality": 2
+            },
             {
                 "NameSeed": 15640,
                 "FactionId": 0,
@@ -34,6 +42,14 @@
                 "LocationId": 20843,
                 "BuildingType": "House2",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 2652,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 20843,
+                "BuildingType": "House3",
+                "Quality": 2
             },
             {
                 "NameSeed": 16139,
@@ -52,52 +68,20 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 2652,
-                "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 20843,
-                "BuildingType": "House3",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 6515,
-                "FactionId": 0,
-                "Sector": 36,
-                "LocationId": 20843,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 20709,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 20843,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 31587,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 20843,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 24088,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 20843,
                 "BuildingType": "Tavern",
                 "Quality": 14
             },
             {
-                "NameSeed": 22191,
-                "FactionId": 0,
-                "Sector": 86,
+                "NameSeed": 31587,
+                "FactionId": 852,
+                "Sector": 89,
                 "LocationId": 20843,
-                "BuildingType": "House1",
-                "Quality": 2
+                "BuildingType": "Palace",
+                "Quality": 15
             }
         ],
         "ExteriorData": {

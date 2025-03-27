@@ -25,8 +25,16 @@
                 "LocationName": "Gerdun Hall"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 10,
         "Buildings": [
+            {
+                "NameSeed": 15063,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 26131,
+                "BuildingType": "House1",
+                "Quality": 10
+            },
             {
                 "NameSeed": 215,
                 "FactionId": 0,
@@ -44,14 +52,6 @@
                 "Quality": 14
             },
             {
-                "NameSeed": 24486,
-                "FactionId": 0,
-                "Sector": 22,
-                "LocationId": 26131,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
                 "NameSeed": 85,
                 "FactionId": 0,
                 "Sector": 30,
@@ -60,12 +60,36 @@
                 "Quality": 11
             },
             {
+                "NameSeed": 24486,
+                "FactionId": 0,
+                "Sector": 22,
+                "LocationId": 26131,
+                "BuildingType": "House2",
+                "Quality": 8
+            },
+            {
                 "NameSeed": 31650,
                 "FactionId": 0,
                 "Sector": 36,
                 "LocationId": 26131,
                 "BuildingType": "House2",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 32068,
+                "FactionId": 0,
+                "Sector": 69,
+                "LocationId": 26131,
+                "BuildingType": "Tavern",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 32071,
+                "FactionId": 852,
+                "Sector": 89,
+                "LocationId": 26131,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 13119,
@@ -82,22 +106,6 @@
                 "LocationId": 26131,
                 "BuildingType": "House2",
                 "Quality": 3
-            },
-            {
-                "NameSeed": 32068,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 26131,
-                "BuildingType": "Tavern",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 15063,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 26131,
-                "BuildingType": "House1",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

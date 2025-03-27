@@ -25,16 +25,8 @@
                 "LocationName": "Ashing Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 23736,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 21630,
-                "BuildingType": "House1",
-                "Quality": 13
-            },
             {
                 "NameSeed": 20560,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 21630,
                 "BuildingType": "House2",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 23736,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21630,
+                "BuildingType": "House1",
+                "Quality": 13
             },
             {
                 "NameSeed": 27340,
@@ -92,28 +92,20 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 21958,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 21630,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 20602,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 21630,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
                 "NameSeed": 10854,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 21630,
                 "BuildingType": "Tavern",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 28931,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 21630,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

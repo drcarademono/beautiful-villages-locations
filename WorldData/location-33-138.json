@@ -25,7 +25,7 @@
                 "LocationName": "Kingford Court"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
             {
                 "NameSeed": 20956,
@@ -116,8 +116,16 @@
                 "Quality": 4
             },
             {
+                "NameSeed": 30002,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 20867,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
                 "NameSeed": 18771,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 20867,
                 "BuildingType": "Tavern",
@@ -126,10 +134,26 @@
             {
                 "NameSeed": 22445,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 20867,
                 "BuildingType": "House1",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 30005,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 20867,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30008,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 20867,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

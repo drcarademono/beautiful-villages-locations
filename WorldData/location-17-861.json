@@ -25,16 +25,8 @@
                 "LocationName": "Coppersmith Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 12357,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 20844,
-                "BuildingType": "House1",
-                "Quality": 11
-            },
             {
                 "NameSeed": 26999,
                 "FactionId": 0,
@@ -58,6 +50,14 @@
                 "LocationId": 20844,
                 "BuildingType": "House2",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 12357,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 20844,
+                "BuildingType": "House1",
+                "Quality": 11
             },
             {
                 "NameSeed": 25734,
@@ -109,11 +109,19 @@
             },
             {
                 "NameSeed": 21820,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 20844,
                 "BuildingType": "Tavern",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 31139,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 20844,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

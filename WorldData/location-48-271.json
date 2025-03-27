@@ -25,7 +25,7 @@
                 "LocationName": "Tlachim Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 27553,
@@ -36,12 +36,12 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 4624,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 4624,
                 "Sector": 9,
-                "LocationId": 25145,
-                "BuildingType": "House2",
-                "Quality": 11
+                "LocationId": 25145
             },
             {
                 "NameSeed": 1388,
@@ -52,12 +52,28 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 15501,
+                "NameSeed": 27556,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 25145,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15501,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25145,
                 "BuildingType": "House1",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 27559,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 25145,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

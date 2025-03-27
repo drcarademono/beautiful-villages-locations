@@ -25,15 +25,15 @@
                 "LocationName": "Cull Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 20581,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 15,
+                "NameSeed": 20581,
                 "Sector": 4,
-                "LocationId": 25201,
-                "BuildingType": "House2",
-                "Quality": 15
+                "LocationId": 25201
             },
             {
                 "NameSeed": 10225,
@@ -58,6 +58,14 @@
                 "LocationId": 25201,
                 "BuildingType": "House1",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 20584,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25201,
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

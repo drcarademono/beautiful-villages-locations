@@ -25,15 +25,15 @@
                 "LocationName": "Rhorkke Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 2245,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 2245,
                 "Sector": 4,
-                "LocationId": 24012,
-                "BuildingType": "House2",
-                "Quality": 11
+                "LocationId": 24012
             },
             {
                 "NameSeed": 185,
@@ -57,6 +57,22 @@
                 "Sector": 15,
                 "LocationId": 24012,
                 "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 30704,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24012,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 30707,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 24012,
+                "BuildingType": "House2",
                 "Quality": 8
             }
         ],

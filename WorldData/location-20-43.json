@@ -25,15 +25,15 @@
                 "LocationName": "Gothon Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 6490,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 14,
+                "NameSeed": 6490,
                 "Sector": 4,
-                "LocationId": 25068,
-                "BuildingType": "House2",
-                "Quality": 14
+                "LocationId": 25068
             },
             {
                 "NameSeed": 23072,
@@ -57,6 +57,22 @@
                 "Sector": 15,
                 "LocationId": 25068,
                 "BuildingType": "House1",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 23075,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25068,
+                "BuildingType": "House1",
+                "Quality": 16
+            },
+            {
+                "NameSeed": 23078,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 25068,
+                "BuildingType": "House2",
                 "Quality": 8
             }
         ],

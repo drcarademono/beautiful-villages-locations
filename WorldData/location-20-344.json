@@ -25,15 +25,23 @@
                 "LocationName": "B'urdte Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 26224,
+                "NameSeed": 15892,
                 "FactionId": 0,
-                "Sector": 4,
+                "Sector": 15,
                 "LocationId": 26410,
-                "BuildingType": "House2",
-                "Quality": 2
+                "BuildingType": "House1",
+                "Quality": 7
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 2,
+                "NameSeed": 26224,
+                "Sector": 4,
+                "LocationId": 26410
             },
             {
                 "NameSeed": 16336,
@@ -52,12 +60,20 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 15892,
+                "NameSeed": 26227,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 18,
                 "LocationId": 26410,
                 "BuildingType": "House1",
-                "Quality": 7
+                "Quality": 9
+            },
+            {
+                "NameSeed": 26230,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 26410,
+                "BuildingType": "House2",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

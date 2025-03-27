@@ -25,16 +25,8 @@
                 "LocationName": "Buckinging Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 32400,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 13824,
-                "BuildingType": "House1",
-                "Quality": 8
-            },
             {
                 "NameSeed": 5228,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 13824,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 32400,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13824,
+                "BuildingType": "House1",
+                "Quality": 8
             },
             {
                 "NameSeed": 4992,
@@ -92,28 +92,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 22618,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 13824,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 18051,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 13824,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
                 "NameSeed": 32225,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 13824,
                 "BuildingType": "Tavern",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 32403,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 13824,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

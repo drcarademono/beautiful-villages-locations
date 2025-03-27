@@ -25,7 +25,7 @@
                 "LocationName": "Masterhouse Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
             {
                 "NameSeed": 26666,
@@ -42,6 +42,14 @@
                 "LocationId": 10384,
                 "BuildingType": "House2",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 32101,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 10384,
+                "BuildingType": "House1",
+                "Quality": 15
             },
             {
                 "NameSeed": 20111,
@@ -92,28 +100,28 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 32101,
+                "NameSeed": 16777,
+                "FactionId": 0,
+                "Sector": 90,
+                "LocationId": 10384,
+                "BuildingType": "Tavern",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 32104,
+                "FactionId": 84,
+                "Sector": 93,
+                "LocationId": 10384,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
+                "NameSeed": 32107,
                 "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 10384,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 13654,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 10384,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 16777,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 10384,
-                "BuildingType": "Tavern",
-                "Quality": 5
             }
         ],
         "ExteriorData": {

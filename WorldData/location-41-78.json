@@ -25,7 +25,7 @@
                 "LocationName": "Masterwing Palace"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
             {
                 "NameSeed": 12006,
@@ -117,7 +117,7 @@
             },
             {
                 "NameSeed": 28879,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 13339,
                 "BuildingType": "Tavern",
@@ -130,6 +130,22 @@
                 "LocationId": 13339,
                 "BuildingType": "House1",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 29849,
+                "FactionId": 852,
+                "Sector": 85,
+                "LocationId": 13339,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29852,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 13339,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

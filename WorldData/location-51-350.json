@@ -25,16 +25,8 @@
                 "LocationName": "Lhallur Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 14,
         "Buildings": [
-            {
-                "NameSeed": 2807,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24672,
-                "BuildingType": "House1",
-                "Quality": 12
-            },
             {
                 "NameSeed": 18632,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 24672,
                 "BuildingType": "House2",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 2807,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24672,
+                "BuildingType": "House1",
+                "Quality": 12
             },
             {
                 "NameSeed": 24125,
@@ -92,6 +92,22 @@
                 "Quality": 15
             },
             {
+                "NameSeed": 29957,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 24672,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29960,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24672,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 22167,
                 "FactionId": 0,
                 "Sector": 69,
@@ -108,12 +124,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 29957,
-                "FactionId": 510,
-                "Sector": 87,
+                "NameSeed": 29963,
+                "FactionId": 0,
+                "Sector": 93,
                 "LocationId": 24672,
-                "BuildingType": "Tavern",
-                "Quality": 14
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 29966,
+                "FactionId": 0,
+                "Sector": 96,
+                "LocationId": 24672,
+                "BuildingType": "House2",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

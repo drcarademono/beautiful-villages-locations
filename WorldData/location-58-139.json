@@ -25,16 +25,8 @@
                 "LocationName": "Gaerham Court"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 3018,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 19609,
-                "BuildingType": "House1",
-                "Quality": 5
-            },
             {
                 "NameSeed": 21250,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 19609,
                 "BuildingType": "House2",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 3018,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19609,
+                "BuildingType": "House1",
+                "Quality": 5
             },
             {
                 "NameSeed": 24419,
@@ -100,20 +100,28 @@
                 "Quality": 4
             },
             {
+                "NameSeed": 15008,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 19609,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 24422,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 19609,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 22579,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 19609,
                 "BuildingType": "House2",
                 "Quality": 7
-            },
-            {
-                "NameSeed": 15008,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 19609,
-                "BuildingType": "Tavern",
-                "Quality": 3
             }
         ],
         "ExteriorData": {

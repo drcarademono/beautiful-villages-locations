@@ -25,16 +25,8 @@
                 "LocationName": "Krerch Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 28902,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 25675,
-                "BuildingType": "House1",
-                "Quality": 7
-            },
             {
                 "NameSeed": 21699,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 25675,
                 "BuildingType": "House2",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 28902,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 25675,
+                "BuildingType": "House1",
+                "Quality": 7
             },
             {
                 "NameSeed": 28664,
@@ -92,28 +92,20 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 939,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 25675,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 20669,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 25675,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 19112,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 25675,
                 "BuildingType": "Tavern",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 28905,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 25675,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

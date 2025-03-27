@@ -25,16 +25,8 @@
                 "LocationName": "Hearthhouse Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 11022,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 19960,
-                "BuildingType": "House1",
-                "Quality": 12
-            },
             {
                 "NameSeed": 21054,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 19960,
                 "BuildingType": "House2",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 11022,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19960,
+                "BuildingType": "House1",
+                "Quality": 12
             },
             {
                 "NameSeed": 16376,
@@ -92,28 +92,20 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 19123,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 19960,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 7458,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 19960,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
                 "NameSeed": 19198,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 19960,
                 "BuildingType": "Tavern",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 21057,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 19960,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

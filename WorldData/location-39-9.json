@@ -25,16 +25,8 @@
                 "LocationName": "Hearthfield Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 8243,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 12308,
-                "BuildingType": "House1",
-                "Quality": 10
-            },
             {
                 "NameSeed": 28189,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 12308,
                 "BuildingType": "House2",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 8243,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12308,
+                "BuildingType": "House1",
+                "Quality": 10
             },
             {
                 "NameSeed": 23523,
@@ -92,28 +92,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 2247,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 12308,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 26071,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 12308,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "NameSeed": 14586,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 12308,
                 "BuildingType": "Tavern",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 32231,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 12308,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

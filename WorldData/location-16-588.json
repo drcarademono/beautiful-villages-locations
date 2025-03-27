@@ -25,16 +25,8 @@
                 "LocationName": "Greencroft Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 26263,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 12222,
-                "BuildingType": "House1",
-                "Quality": 12
-            },
             {
                 "NameSeed": 15973,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 12222,
                 "BuildingType": "House2",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 26263,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 12222,
+                "BuildingType": "House1",
+                "Quality": 12
             },
             {
                 "NameSeed": 28712,
@@ -92,28 +92,20 @@
                 "Quality": 8
             },
             {
-                "NameSeed": 23352,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 12222,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 3367,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 12222,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
                 "NameSeed": 25875,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 12222,
                 "BuildingType": "Tavern",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 28715,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 12222,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

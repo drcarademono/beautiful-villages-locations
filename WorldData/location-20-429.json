@@ -25,7 +25,7 @@
                 "LocationName": "Nov Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 22449,
@@ -44,17 +44,33 @@
                 "Quality": 3
             },
             {
-                "NameSeed": 18822,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 9,
+                "NameSeed": 18822,
                 "Sector": 12,
-                "LocationId": 26645,
-                "BuildingType": "House2",
-                "Quality": 9
+                "LocationId": 26645
             },
             {
                 "NameSeed": 27018,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 26645,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 27021,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26645,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 27024,
+                "FactionId": 0,
+                "Sector": 21,
                 "LocationId": 26645,
                 "BuildingType": "House1",
                 "Quality": 6

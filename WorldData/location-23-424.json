@@ -25,16 +25,8 @@
                 "LocationName": "Kingsmith Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 12022,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 22137,
-                "BuildingType": "House1",
-                "Quality": 2
-            },
             {
                 "NameSeed": 8723,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 22137,
                 "BuildingType": "House2",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 12022,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 22137,
+                "BuildingType": "House1",
+                "Quality": 2
             },
             {
                 "NameSeed": 15586,
@@ -92,28 +92,20 @@
                 "Quality": 3
             },
             {
-                "NameSeed": 32098,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 22137,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 24789,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 22137,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "NameSeed": 16351,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 22137,
                 "BuildingType": "Tavern",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 32444,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 22137,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "Copperhouse Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 8858,
@@ -34,6 +34,14 @@
                 "LocationId": 19267,
                 "BuildingType": "House2",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 7288,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 19267,
+                "BuildingType": "House3",
+                "Quality": 6
             },
             {
                 "NameSeed": 24634,
@@ -52,40 +60,8 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 7288,
-                "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 19267,
-                "BuildingType": "House3",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 11552,
-                "FactionId": 0,
-                "Sector": 36,
-                "LocationId": 19267,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 8276,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 19267,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 22752,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 19267,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
                 "NameSeed": 20617,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 19267,
                 "BuildingType": "Tavern",
@@ -93,11 +69,11 @@
             },
             {
                 "NameSeed": 31121,
-                "FactionId": 0,
+                "FactionId": 852,
                 "Sector": 86,
                 "LocationId": 19267,
-                "BuildingType": "House1",
-                "Quality": 12
+                "BuildingType": "Palace",
+                "Quality": 15
             }
         ],
         "ExteriorData": {

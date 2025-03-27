@@ -25,16 +25,8 @@
                 "LocationName": "Masterhouse Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 127,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 14501,
-                "BuildingType": "House1",
-                "Quality": 5
-            },
             {
                 "NameSeed": 4221,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 14501,
                 "BuildingType": "House2",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 127,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 14501,
+                "BuildingType": "House1",
+                "Quality": 5
             },
             {
                 "NameSeed": 22942,
@@ -92,28 +92,20 @@
                 "Quality": 14
             },
             {
-                "NameSeed": 4907,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 14501,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 4645,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 14501,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
                 "NameSeed": 7697,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 14501,
                 "BuildingType": "Tavern",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 30815,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 14501,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

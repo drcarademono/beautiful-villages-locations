@@ -25,16 +25,8 @@
                 "LocationName": "Woodcroft Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 18246,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 21611,
-                "BuildingType": "House1",
-                "Quality": 4
-            },
             {
                 "NameSeed": 23410,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 21611,
                 "BuildingType": "House2",
                 "Quality": 14
+            },
+            {
+                "NameSeed": 18246,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21611,
+                "BuildingType": "House1",
+                "Quality": 4
             },
             {
                 "NameSeed": 2916,
@@ -92,6 +92,22 @@
                 "Quality": 7
             },
             {
+                "NameSeed": 7531,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 21611,
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 30046,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 21611,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 18269,
                 "FactionId": 0,
                 "Sector": 69,
@@ -106,14 +122,6 @@
                 "LocationId": 21611,
                 "BuildingType": "House2",
                 "Quality": 14
-            },
-            {
-                "NameSeed": 7531,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 21611,
-                "BuildingType": "Tavern",
-                "Quality": 3
             }
         ],
         "ExteriorData": {

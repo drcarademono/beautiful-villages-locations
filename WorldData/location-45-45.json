@@ -25,7 +25,7 @@
                 "LocationName": "Shug Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 2632,
@@ -44,9 +44,25 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 22903,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 6,
+                "NameSeed": 22903,
                 "Sector": 12,
+                "LocationId": 27334
+            },
+            {
+                "NameSeed": 22906,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27334,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 22909,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27334,
                 "BuildingType": "House2",
                 "Quality": 6
@@ -54,7 +70,7 @@
             {
                 "NameSeed": 14427,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 21,
                 "LocationId": 27334,
                 "BuildingType": "House1",
                 "Quality": 14

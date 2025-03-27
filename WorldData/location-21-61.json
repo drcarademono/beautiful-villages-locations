@@ -25,8 +25,16 @@
                 "LocationName": "Hawkwing Court"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 9959,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 17582,
+                "BuildingType": "House1",
+                "Quality": 9
+            },
             {
                 "NameSeed": 14459,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 16271,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 17582,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
                 "NameSeed": 3665,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 17582,
                 "BuildingType": "Tavern",
                 "Quality": 10
             },
             {
-                "NameSeed": 9959,
+                "NameSeed": 32315,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 17582,
                 "BuildingType": "House1",
-                "Quality": 9
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32318,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 17582,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 16271,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 17582,
+                "BuildingType": "House2",
+                "Quality": 13
             }
         ],
         "ExteriorData": {

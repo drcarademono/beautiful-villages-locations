@@ -25,7 +25,7 @@
                 "LocationName": "Mairpte Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 19915,
@@ -36,12 +36,12 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 25090,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 1,
+                "NameSeed": 25090,
                 "Sector": 9,
-                "LocationId": 27731,
-                "BuildingType": "House2",
-                "Quality": 1
+                "LocationId": 27731
             },
             {
                 "NameSeed": 19618,
@@ -52,9 +52,17 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 6450,
+                "NameSeed": 25093,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 27731,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 6450,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27731,
                 "BuildingType": "House1",
                 "Quality": 5

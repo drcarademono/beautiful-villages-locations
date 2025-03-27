@@ -25,15 +25,15 @@
                 "LocationName": "F'ovon Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 31909,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 13,
+                "NameSeed": 31909,
                 "Sector": 4,
-                "LocationId": 25405,
-                "BuildingType": "House2",
-                "Quality": 13
+                "LocationId": 25405
             },
             {
                 "NameSeed": 5057,
@@ -58,6 +58,14 @@
                 "LocationId": 25405,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 31912,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 25405,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

@@ -25,16 +25,8 @@
                 "LocationName": "Moorsley Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 32742,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 17201,
-                "BuildingType": "House1",
-                "Quality": 12
-            },
             {
                 "NameSeed": 11191,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 17201,
                 "BuildingType": "House2",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 32742,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17201,
+                "BuildingType": "House1",
+                "Quality": 12
             },
             {
                 "NameSeed": 6664,
@@ -100,20 +100,28 @@
                 "Quality": 8
             },
             {
+                "NameSeed": 31830,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 17201,
+                "BuildingType": "Tavern",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 32745,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 17201,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 8853,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 17201,
                 "BuildingType": "House2",
                 "Quality": 15
-            },
-            {
-                "NameSeed": 31830,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 17201,
-                "BuildingType": "Tavern",
-                "Quality": 14
             }
         ],
         "ExteriorData": {

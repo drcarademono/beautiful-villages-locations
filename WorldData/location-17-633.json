@@ -25,7 +25,7 @@
                 "LocationName": "Gaerton Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 27935,
@@ -34,6 +34,14 @@
                 "LocationId": 20320,
                 "BuildingType": "House2",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 28886,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 20320,
+                "BuildingType": "House3",
+                "Quality": 10
             },
             {
                 "NameSeed": 10223,
@@ -52,12 +60,20 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 28886,
+                "NameSeed": 13351,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 20320,
-                "BuildingType": "House3",
-                "Quality": 10
+                "BuildingType": "Tavern",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 28889,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 20320,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 27490,
@@ -74,30 +90,6 @@
                 "LocationId": 20320,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 27359,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 20320,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 13351,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 20320,
-                "BuildingType": "Tavern",
-                "Quality": 3
-            },
-            {
-                "NameSeed": 22090,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 20320,
-                "BuildingType": "House1",
-                "Quality": 5
             }
         ],
         "ExteriorData": {

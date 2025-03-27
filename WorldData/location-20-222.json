@@ -25,7 +25,7 @@
                 "LocationName": "Slornum Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 16873,
@@ -36,12 +36,12 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 8149,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 12,
+                "NameSeed": 8149,
                 "Sector": 9,
-                "LocationId": 26070,
-                "BuildingType": "House2",
-                "Quality": 12
+                "LocationId": 26070
             },
             {
                 "NameSeed": 1391,
@@ -55,6 +55,14 @@
                 "NameSeed": 21204,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 26070,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 21207,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 26070,
                 "BuildingType": "House1",
                 "Quality": 14

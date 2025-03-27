@@ -25,7 +25,7 @@
                 "LocationName": "Ashwing Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 19997,
@@ -34,6 +34,14 @@
                 "LocationId": 15377,
                 "BuildingType": "House2",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 5078,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 15377,
+                "BuildingType": "House3",
+                "Quality": 4
             },
             {
                 "NameSeed": 22824,
@@ -52,12 +60,20 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 5078,
+                "NameSeed": 6063,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 15377,
-                "BuildingType": "House3",
-                "Quality": 4
+                "BuildingType": "Tavern",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 32068,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 15377,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 7626,
@@ -74,30 +90,6 @@
                 "LocationId": 15377,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 4245,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 15377,
-                "BuildingType": "House2",
-                "Quality": 5
-            },
-            {
-                "NameSeed": 6063,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 15377,
-                "BuildingType": "Tavern",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 32068,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 15377,
-                "BuildingType": "House1",
-                "Quality": 10
             }
         ],
         "ExteriorData": {

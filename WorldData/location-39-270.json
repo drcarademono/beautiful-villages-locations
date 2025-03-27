@@ -25,16 +25,8 @@
                 "LocationName": "Yeomfield Palace"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 10228,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 17645,
-                "BuildingType": "House1",
-                "Quality": 8
-            },
             {
                 "NameSeed": 14556,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 17645,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 10228,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17645,
+                "BuildingType": "House1",
+                "Quality": 8
             },
             {
                 "NameSeed": 25261,
@@ -100,20 +100,28 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 14801,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 17645,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 31287,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 17645,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 298,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 17645,
                 "BuildingType": "House2",
                 "Quality": 3
-            },
-            {
-                "NameSeed": 14801,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 17645,
-                "BuildingType": "Tavern",
-                "Quality": 8
             }
         ],
         "ExteriorData": {

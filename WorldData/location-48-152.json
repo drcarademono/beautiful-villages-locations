@@ -25,7 +25,7 @@
                 "LocationName": "Lorp Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 2175,
@@ -36,12 +36,12 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 21727,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 21727,
                 "Sector": 9,
-                "LocationId": 24312,
-                "BuildingType": "House2",
-                "Quality": 11
+                "LocationId": 24312
             },
             {
                 "NameSeed": 29208,
@@ -52,9 +52,17 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 960,
+                "NameSeed": 29211,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 24312,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 960,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 24312,
                 "BuildingType": "House1",
                 "Quality": 4

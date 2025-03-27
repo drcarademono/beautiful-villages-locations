@@ -25,7 +25,7 @@
                 "LocationName": "Lavar Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 23029,
@@ -36,12 +36,12 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 13607,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 13607,
                 "Sector": 9,
-                "LocationId": 26712,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 26712
             },
             {
                 "NameSeed": 16015,
@@ -52,9 +52,17 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 7175,
+                "NameSeed": 23032,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 26712,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 7175,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 26712,
                 "BuildingType": "House1",
                 "Quality": 14

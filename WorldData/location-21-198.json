@@ -25,8 +25,16 @@
                 "LocationName": "Hearthcroft Hall"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 17,
         "Buildings": [
+            {
+                "NameSeed": 28540,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 18281,
+                "BuildingType": "House1",
+                "Quality": 9
+            },
             {
                 "NameSeed": 2643,
                 "FactionId": 0,
@@ -116,20 +124,44 @@
                 "Quality": 10
             },
             {
+                "NameSeed": 32764,
+                "FactionId": 0,
+                "Sector": 85,
+                "LocationId": 18281,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
                 "NameSeed": 5061,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 18281,
                 "BuildingType": "Tavern",
                 "Quality": 5
             },
             {
-                "NameSeed": 28540,
+                "NameSeed": 32767,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 88,
                 "LocationId": 18281,
                 "BuildingType": "House1",
-                "Quality": 9
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32770,
+                "FactionId": 852,
+                "Sector": 91,
+                "LocationId": 18281,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32773,
+                "FactionId": 0,
+                "Sector": 94,
+                "LocationId": 18281,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

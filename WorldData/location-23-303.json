@@ -25,7 +25,7 @@
                 "LocationName": "Hearthsley Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 16740,
@@ -34,6 +34,14 @@
                 "LocationId": 21904,
                 "BuildingType": "House2",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 30682,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 21904,
+                "BuildingType": "House3",
+                "Quality": 4
             },
             {
                 "NameSeed": 31321,
@@ -52,12 +60,20 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 30682,
+                "NameSeed": 17347,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 21904,
-                "BuildingType": "House3",
-                "Quality": 4
+                "BuildingType": "Tavern",
+                "Quality": 2
+            },
+            {
+                "NameSeed": 31324,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 21904,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 27361,
@@ -74,30 +90,6 @@
                 "LocationId": 21904,
                 "BuildingType": "House2",
                 "Quality": 10
-            },
-            {
-                "NameSeed": 62,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 21904,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 17347,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 21904,
-                "BuildingType": "Tavern",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 825,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 21904,
-                "BuildingType": "House1",
-                "Quality": 12
             }
         ],
         "ExteriorData": {

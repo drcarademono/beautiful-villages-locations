@@ -25,8 +25,16 @@
                 "LocationName": "Gaerwing Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
+            {
+                "NameSeed": 29751,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 16459,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
             {
                 "NameSeed": 25345,
                 "FactionId": 0,
@@ -34,6 +42,14 @@
                 "LocationId": 16459,
                 "BuildingType": "House2",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 2525,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 16459,
+                "BuildingType": "House3",
+                "Quality": 1
             },
             {
                 "NameSeed": 6402,
@@ -52,52 +68,20 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 2525,
-                "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 16459,
-                "BuildingType": "House3",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 17922,
-                "FactionId": 0,
-                "Sector": 36,
-                "LocationId": 16459,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 14813,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 16459,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 17519,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 16459,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
                 "NameSeed": 30222,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 16459,
                 "BuildingType": "Tavern",
                 "Quality": 15
             },
             {
-                "NameSeed": 29751,
-                "FactionId": 0,
-                "Sector": 86,
+                "NameSeed": 30225,
+                "FactionId": 852,
+                "Sector": 89,
                 "LocationId": 16459,
-                "BuildingType": "House1",
-                "Quality": 3
+                "BuildingType": "Palace",
+                "Quality": 15
             }
         ],
         "ExteriorData": {

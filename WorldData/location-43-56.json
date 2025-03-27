@@ -25,15 +25,15 @@
                 "LocationName": "T'us Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 24961,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 4,
+                "NameSeed": 24961,
                 "Sector": 4,
-                "LocationId": 28623,
-                "BuildingType": "House2",
-                "Quality": 4
+                "LocationId": 28623
             },
             {
                 "NameSeed": 31573,
@@ -58,6 +58,14 @@
                 "LocationId": 28623,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 31576,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28623,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

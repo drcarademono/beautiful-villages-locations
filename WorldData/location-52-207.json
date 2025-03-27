@@ -25,22 +25,22 @@
                 "LocationName": "Khafylir Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 1562,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 23967,
-                "BuildingType": "House1",
-                "Quality": 13
-            },
             {
                 "NameSeed": 24185,
                 "FactionId": 0,
                 "Sector": 16,
                 "LocationId": 23967,
                 "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 1562,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 23967,
+                "BuildingType": "House1",
                 "Quality": 13
             },
             {
@@ -92,28 +92,20 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 7156,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 23967,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 8207,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 23967,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
                 "NameSeed": 15798,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 23967,
                 "BuildingType": "Tavern",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 31310,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 23967,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

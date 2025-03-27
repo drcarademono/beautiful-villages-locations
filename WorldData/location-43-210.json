@@ -25,15 +25,23 @@
                 "LocationName": "Slorton Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 11792,
+                "NameSeed": 25560,
                 "FactionId": 0,
-                "Sector": 4,
+                "Sector": 15,
                 "LocationId": 29402,
-                "BuildingType": "House2",
-                "Quality": 4
+                "BuildingType": "House1",
+                "Quality": 7
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 4,
+                "NameSeed": 11792,
+                "Sector": 4,
+                "LocationId": 29402
             },
             {
                 "NameSeed": 6194,
@@ -52,12 +60,20 @@
                 "Quality": 8
             },
             {
-                "NameSeed": 25560,
+                "NameSeed": 25563,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 18,
                 "LocationId": 29402,
                 "BuildingType": "House1",
-                "Quality": 7
+                "Quality": 9
+            },
+            {
+                "NameSeed": 25566,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 29402,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

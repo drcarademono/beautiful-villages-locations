@@ -25,7 +25,7 @@
                 "LocationName": "Khurtin Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 5200,
@@ -36,12 +36,12 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 17582,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 17582,
                 "Sector": 9,
-                "LocationId": 27186,
-                "BuildingType": "House2",
-                "Quality": 11
+                "LocationId": 27186
             },
             {
                 "NameSeed": 14554,
@@ -55,6 +55,14 @@
                 "NameSeed": 25581,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 27186,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 25584,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27186,
                 "BuildingType": "House1",
                 "Quality": 11

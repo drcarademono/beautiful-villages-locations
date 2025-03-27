@@ -25,16 +25,8 @@
                 "LocationName": "Hawkwing Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 28289,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 17488,
-                "BuildingType": "House1",
-                "Quality": 3
-            },
             {
                 "NameSeed": 11573,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 17488,
                 "BuildingType": "House2",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 28289,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17488,
+                "BuildingType": "House1",
+                "Quality": 3
             },
             {
                 "NameSeed": 13892,
@@ -92,28 +92,20 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 4159,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 17488,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 8643,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 17488,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 21510,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 17488,
                 "BuildingType": "Tavern",
                 "Quality": 9
+            },
+            {
+                "NameSeed": 31500,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 17488,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

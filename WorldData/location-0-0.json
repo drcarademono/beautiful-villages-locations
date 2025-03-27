@@ -25,7 +25,7 @@
                 "LocationName": "Caarcun Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 15247,
@@ -34,6 +34,14 @@
                 "LocationId": 26052,
                 "BuildingType": "House2",
                 "Quality": 8
+            },
+            {
+                "NameSeed": 9584,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 26052,
+                "BuildingType": "House3",
+                "Quality": 5
             },
             {
                 "NameSeed": 27738,
@@ -52,12 +60,20 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 9584,
+                "NameSeed": 32490,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 26052,
-                "BuildingType": "House3",
-                "Quality": 5
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 32493,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 26052,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 28155,
@@ -66,38 +82,6 @@
                 "LocationId": 26052,
                 "BuildingType": "House2",
                 "Quality": 7
-            },
-            {
-                "NameSeed": 2525,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 26052,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 17922,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 26052,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
-                "NameSeed": 32490,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 26052,
-                "BuildingType": "Tavern",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 10426,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 26052,
-                "BuildingType": "House1",
-                "Quality": 9
             }
         ],
         "ExteriorData": {

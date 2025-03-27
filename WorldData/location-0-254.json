@@ -25,15 +25,15 @@
                 "LocationName": "Rharg Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 27418,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 27418,
                 "Sector": 4,
-                "LocationId": 28824,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 28824
             },
             {
                 "NameSeed": 18748,
@@ -58,6 +58,14 @@
                 "LocationId": 28824,
                 "BuildingType": "House1",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 27421,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28824,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

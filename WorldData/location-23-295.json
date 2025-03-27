@@ -25,7 +25,7 @@
                 "LocationName": "Kingham Hall"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 1071,
@@ -33,6 +33,14 @@
                 "Sector": 4,
                 "LocationId": 21895,
                 "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 20774,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 21895,
+                "BuildingType": "House3",
                 "Quality": 3
             },
             {
@@ -52,12 +60,20 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 20774,
+                "NameSeed": 31201,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 21895,
-                "BuildingType": "House3",
-                "Quality": 3
+                "BuildingType": "Tavern",
+                "Quality": 11
+            },
+            {
+                "NameSeed": 31204,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 21895,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 18822,
@@ -74,30 +90,6 @@
                 "LocationId": 21895,
                 "BuildingType": "House2",
                 "Quality": 6
-            },
-            {
-                "NameSeed": 22833,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 21895,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 31201,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 21895,
-                "BuildingType": "Tavern",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 8385,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 21895,
-                "BuildingType": "House1",
-                "Quality": 5
             }
         ],
         "ExteriorData": {

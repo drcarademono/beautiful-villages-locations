@@ -25,15 +25,15 @@
                 "LocationName": "Nardir Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 6751,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 12,
+                "NameSeed": 6751,
                 "Sector": 4,
-                "LocationId": 27464,
-                "BuildingType": "House2",
-                "Quality": 12
+                "LocationId": 27464
             },
             {
                 "NameSeed": 20713,
@@ -58,6 +58,14 @@
                 "LocationId": 27464,
                 "BuildingType": "House1",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 20716,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27464,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

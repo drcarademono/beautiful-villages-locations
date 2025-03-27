@@ -25,8 +25,16 @@
                 "LocationName": "Copperhouse Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 28628,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 21471,
+                "BuildingType": "House1",
+                "Quality": 8
+            },
             {
                 "NameSeed": 10077,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 5
             },
             {
-                "NameSeed": 26738,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 21471,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
                 "NameSeed": 17222,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 21471,
                 "BuildingType": "Tavern",
                 "Quality": 5
             },
             {
-                "NameSeed": 28628,
+                "NameSeed": 28631,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 21471,
                 "BuildingType": "House1",
-                "Quality": 8
+                "Quality": 15
+            },
+            {
+                "NameSeed": 28634,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 21471,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 26738,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 21471,
+                "BuildingType": "House2",
+                "Quality": 4
             }
         ],
         "ExteriorData": {

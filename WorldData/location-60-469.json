@@ -25,8 +25,16 @@
                 "LocationName": "Hearthston Palace"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
+            {
+                "NameSeed": 32121,
+                "FactionId": 0,
+                "Sector": 86,
+                "LocationId": 15840,
+                "BuildingType": "House1",
+                "Quality": 2
+            },
             {
                 "NameSeed": 15720,
                 "FactionId": 0,
@@ -34,6 +42,14 @@
                 "LocationId": 15840,
                 "BuildingType": "House2",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 13892,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 15840,
+                "BuildingType": "House3",
+                "Quality": 8
             },
             {
                 "NameSeed": 17410,
@@ -52,52 +68,20 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 13892,
-                "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 15840,
-                "BuildingType": "House3",
-                "Quality": 8
-            },
-            {
-                "NameSeed": 22428,
-                "FactionId": 0,
-                "Sector": 36,
-                "LocationId": 15840,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 15158,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 15840,
-                "BuildingType": "House2",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 19146,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 15840,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
                 "NameSeed": 7010,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 15840,
                 "BuildingType": "Tavern",
                 "Quality": 8
             },
             {
-                "NameSeed": 32121,
-                "FactionId": 0,
-                "Sector": 86,
+                "NameSeed": 32124,
+                "FactionId": 852,
+                "Sector": 89,
                 "LocationId": 15840,
-                "BuildingType": "House1",
-                "Quality": 2
+                "BuildingType": "Palace",
+                "Quality": 15
             }
         ],
         "ExteriorData": {

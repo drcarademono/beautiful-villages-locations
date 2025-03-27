@@ -25,15 +25,15 @@
                 "LocationName": "Mholl Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 22169,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 1,
+                "NameSeed": 22169,
                 "Sector": 4,
-                "LocationId": 29232,
-                "BuildingType": "House2",
-                "Quality": 1
+                "LocationId": 29232
             },
             {
                 "NameSeed": 23220,
@@ -58,6 +58,14 @@
                 "LocationId": 29232,
                 "BuildingType": "House1",
                 "Quality": 13
+            },
+            {
+                "NameSeed": 25646,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29232,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

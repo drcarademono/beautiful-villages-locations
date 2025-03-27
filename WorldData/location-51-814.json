@@ -25,7 +25,7 @@
                 "LocationName": "Karht'kern Hall"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 8,
         "Buildings": [
             {
                 "NameSeed": 11620,
@@ -34,6 +34,14 @@
                 "LocationId": 25870,
                 "BuildingType": "House2",
                 "Quality": 10
+            },
+            {
+                "NameSeed": 10246,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 25870,
+                "BuildingType": "House3",
+                "Quality": 13
             },
             {
                 "NameSeed": 13799,
@@ -52,15 +60,23 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 10246,
+                "NameSeed": 15798,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 25870,
-                "BuildingType": "House3",
-                "Quality": 13
+                "BuildingType": "Tavern",
+                "Quality": 2
             },
             {
                 "NameSeed": 31307,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 25870,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31310,
                 "FactionId": 0,
                 "Sector": 36,
                 "LocationId": 25870,
@@ -74,30 +90,6 @@
                 "LocationId": 25870,
                 "BuildingType": "House2",
                 "Quality": 9
-            },
-            {
-                "NameSeed": 8207,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 25870,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 15798,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 25870,
-                "BuildingType": "Tavern",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 29737,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 25870,
-                "BuildingType": "House1",
-                "Quality": 8
             }
         ],
         "ExteriorData": {

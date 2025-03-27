@@ -25,7 +25,7 @@
                 "LocationName": "Caactem Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 18959,
@@ -36,12 +36,12 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 9001,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 8,
+                "NameSeed": 9001,
                 "Sector": 9,
-                "LocationId": 26892,
-                "BuildingType": "House2",
-                "Quality": 8
+                "LocationId": 26892
             },
             {
                 "NameSeed": 7437,
@@ -52,9 +52,17 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 5761,
+                "NameSeed": 18962,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 26892,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 5761,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 26892,
                 "BuildingType": "House1",
                 "Quality": 11

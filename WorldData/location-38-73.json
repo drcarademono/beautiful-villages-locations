@@ -25,16 +25,8 @@
                 "LocationName": "Hearthham Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 12357,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 10571,
-                "BuildingType": "House1",
-                "Quality": 11
-            },
             {
                 "NameSeed": 26999,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 10571,
                 "BuildingType": "House2",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 12357,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 10571,
+                "BuildingType": "House1",
+                "Quality": 11
             },
             {
                 "NameSeed": 22921,
@@ -92,28 +92,20 @@
                 "Quality": 3
             },
             {
-                "NameSeed": 31136,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 10571,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 31052,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 10571,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
                 "NameSeed": 21820,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 10571,
                 "BuildingType": "Tavern",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 31136,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 10571,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

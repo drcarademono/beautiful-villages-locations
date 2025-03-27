@@ -25,22 +25,22 @@
                 "LocationName": "V'orgom Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 30914,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 24564,
-                "BuildingType": "House1",
-                "Quality": 10
-            },
             {
                 "NameSeed": 6170,
                 "FactionId": 0,
                 "Sector": 16,
                 "LocationId": 24564,
                 "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30914,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24564,
+                "BuildingType": "House1",
                 "Quality": 10
             },
             {
@@ -92,28 +92,20 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 4180,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 24564,
-                "BuildingType": "House2",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 14258,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 24564,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
                 "NameSeed": 27568,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 24564,
                 "BuildingType": "Tavern",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 30917,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 24564,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

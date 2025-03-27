@@ -25,8 +25,16 @@
                 "LocationName": "Corcur Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 3996,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 25760,
+                "BuildingType": "House1",
+                "Quality": 14
+            },
             {
                 "NameSeed": 1560,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 5726,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 25760,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
                 "NameSeed": 12924,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 25760,
                 "BuildingType": "Tavern",
                 "Quality": 6
             },
             {
-                "NameSeed": 3996,
+                "NameSeed": 31740,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 25760,
                 "BuildingType": "House1",
-                "Quality": 14
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31743,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 25760,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 5726,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 25760,
+                "BuildingType": "House2",
+                "Quality": 3
             }
         ],
         "ExteriorData": {

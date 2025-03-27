@@ -25,7 +25,7 @@
                 "LocationName": "Raej Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 1733,
@@ -36,12 +36,12 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 27166,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 13,
+                "NameSeed": 27166,
                 "Sector": 9,
-                "LocationId": 27607,
-                "BuildingType": "House2",
-                "Quality": 13
+                "LocationId": 27607
             },
             {
                 "NameSeed": 11151,
@@ -52,9 +52,17 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 2765,
+                "NameSeed": 27169,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 27607,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 2765,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27607,
                 "BuildingType": "House1",
                 "Quality": 8

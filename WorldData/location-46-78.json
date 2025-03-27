@@ -25,15 +25,15 @@
                 "LocationName": "Blernin Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 14625,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 13,
+                "NameSeed": 14625,
                 "Sector": 4,
-                "LocationId": 27399,
-                "BuildingType": "House2",
-                "Quality": 13
+                "LocationId": 27399
             },
             {
                 "NameSeed": 30474,
@@ -58,6 +58,14 @@
                 "LocationId": 27399,
                 "BuildingType": "House1",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 30477,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27399,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

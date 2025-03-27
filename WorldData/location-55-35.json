@@ -25,7 +25,7 @@
                 "LocationName": "Krerdur Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 17820,
@@ -36,12 +36,12 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 23606,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 11,
+                "NameSeed": 23606,
                 "Sector": 9,
-                "LocationId": 27789,
-                "BuildingType": "House2",
-                "Quality": 11
+                "LocationId": 27789
             },
             {
                 "NameSeed": 26263,
@@ -52,12 +52,28 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 15973,
+                "NameSeed": 26266,
                 "FactionId": 0,
                 "Sector": 15,
                 "LocationId": 27789,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 15973,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 27789,
                 "BuildingType": "House1",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 26269,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 27789,
+                "BuildingType": "House2",
+                "Quality": 8
             }
         ],
         "ExteriorData": {

@@ -25,15 +25,15 @@
                 "LocationName": "Khurgir Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 20496,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 6,
+                "NameSeed": 20496,
                 "Sector": 4,
-                "LocationId": 24880,
-                "BuildingType": "House2",
-                "Quality": 6
+                "LocationId": 24880
             },
             {
                 "NameSeed": 6788,
@@ -58,6 +58,14 @@
                 "LocationId": 24880,
                 "BuildingType": "House1",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 20499,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 24880,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

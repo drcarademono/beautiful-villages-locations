@@ -25,16 +25,8 @@
                 "LocationName": "Yeomton Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 12,
         "Buildings": [
-            {
-                "NameSeed": 28062,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 19957,
-                "BuildingType": "House1",
-                "Quality": 5
-            },
             {
                 "NameSeed": 31585,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 19957,
                 "BuildingType": "House2",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 28062,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 19957,
+                "BuildingType": "House1",
+                "Quality": 5
             },
             {
                 "NameSeed": 26116,
@@ -100,20 +100,28 @@
                 "Quality": 6
             },
             {
+                "NameSeed": 25220,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 19957,
+                "BuildingType": "Tavern",
+                "Quality": 8
+            },
+            {
+                "NameSeed": 31588,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 19957,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 30170,
                 "FactionId": 0,
                 "Sector": 78,
                 "LocationId": 19957,
                 "BuildingType": "House2",
                 "Quality": 4
-            },
-            {
-                "NameSeed": 25220,
-                "FactionId": 510,
-                "Sector": 87,
-                "LocationId": 19957,
-                "BuildingType": "Tavern",
-                "Quality": 8
             }
         ],
         "ExteriorData": {

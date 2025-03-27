@@ -25,15 +25,15 @@
                 "LocationName": "Caorpt Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 6867,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 5,
+                "NameSeed": 6867,
                 "Sector": 4,
-                "LocationId": 28636,
-                "BuildingType": "House2",
-                "Quality": 5
+                "LocationId": 28636
             },
             {
                 "NameSeed": 426,
@@ -58,6 +58,14 @@
                 "LocationId": 28636,
                 "BuildingType": "House1",
                 "Quality": 2
+            },
+            {
+                "NameSeed": 22855,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28636,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

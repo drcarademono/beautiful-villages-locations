@@ -25,15 +25,23 @@
                 "LocationName": "Klergta Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 10249,
+                "NameSeed": 5446,
                 "FactionId": 0,
-                "Sector": 4,
+                "Sector": 15,
                 "LocationId": 25821,
-                "BuildingType": "House2",
-                "Quality": 13
+                "BuildingType": "House1",
+                "Quality": 1
+            },
+            {
+                "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 13,
+                "NameSeed": 10249,
+                "Sector": 4,
+                "LocationId": 25821
             },
             {
                 "NameSeed": 4242,
@@ -52,12 +60,20 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 5446,
+                "NameSeed": 12631,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 18,
                 "LocationId": 25821,
                 "BuildingType": "House1",
-                "Quality": 1
+                "Quality": 9
+            },
+            {
+                "NameSeed": 12634,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 25821,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

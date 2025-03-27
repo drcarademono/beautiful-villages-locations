@@ -25,7 +25,7 @@
                 "LocationName": "Woodham Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 8070,
@@ -34,6 +34,14 @@
                 "LocationId": 17491,
                 "BuildingType": "House2",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 18803,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 17491,
+                "BuildingType": "House3",
+                "Quality": 12
             },
             {
                 "NameSeed": 18956,
@@ -52,40 +60,8 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 18803,
-                "FactionId": 0,
-                "Sector": 30,
-                "LocationId": 17491,
-                "BuildingType": "House3",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 10267,
-                "FactionId": 0,
-                "Sector": 36,
-                "LocationId": 17491,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
-                "NameSeed": 14193,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 17491,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 9668,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 17491,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
                 "NameSeed": 20541,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 17491,
                 "BuildingType": "Tavern",
@@ -93,11 +69,11 @@
             },
             {
                 "NameSeed": 31821,
-                "FactionId": 0,
+                "FactionId": 852,
                 "Sector": 86,
                 "LocationId": 17491,
-                "BuildingType": "House1",
-                "Quality": 6
+                "BuildingType": "Palace",
+                "Quality": 15
             }
         ],
         "ExteriorData": {

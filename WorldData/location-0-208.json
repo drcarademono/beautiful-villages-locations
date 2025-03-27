@@ -25,7 +25,7 @@
                 "LocationName": "Kellan Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
                 "NameSeed": 32700,
@@ -44,17 +44,33 @@
                 "Quality": 14
             },
             {
-                "NameSeed": 215,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 5,
+                "NameSeed": 215,
                 "Sector": 12,
+                "LocationId": 28347
+            },
+            {
+                "NameSeed": 32703,
+                "FactionId": 0,
+                "Sector": 15,
                 "LocationId": 28347,
                 "BuildingType": "House2",
-                "Quality": 5
+                "Quality": 6
+            },
+            {
+                "NameSeed": 32706,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28347,
+                "BuildingType": "House2",
+                "Quality": 6
             },
             {
                 "NameSeed": 25946,
                 "FactionId": 0,
-                "Sector": 15,
+                "Sector": 21,
                 "LocationId": 28347,
                 "BuildingType": "House1",
                 "Quality": 14

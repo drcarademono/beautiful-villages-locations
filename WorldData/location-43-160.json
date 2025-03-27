@@ -25,15 +25,15 @@
                 "LocationName": "Kerpe Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 13482,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 1,
+                "NameSeed": 13482,
                 "Sector": 4,
-                "LocationId": 29182,
-                "BuildingType": "House2",
-                "Quality": 1
+                "LocationId": 29182
             },
             {
                 "NameSeed": 356,
@@ -58,6 +58,14 @@
                 "LocationId": 29182,
                 "BuildingType": "House1",
                 "Quality": 6
+            },
+            {
+                "NameSeed": 22684,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 29182,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

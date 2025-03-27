@@ -25,16 +25,8 @@
                 "LocationName": "Masterwing Manor"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 13,
         "Buildings": [
-            {
-                "NameSeed": 21745,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 17593,
-                "BuildingType": "House1",
-                "Quality": 1
-            },
             {
                 "NameSeed": 29120,
                 "FactionId": 0,
@@ -50,6 +42,14 @@
                 "LocationId": 17593,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 21745,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 17593,
+                "BuildingType": "House1",
+                "Quality": 1
             },
             {
                 "NameSeed": 8811,
@@ -100,6 +100,22 @@
                 "Quality": 13
             },
             {
+                "NameSeed": 8039,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 17593,
+                "BuildingType": "Tavern",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 29123,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 17593,
+                "BuildingType": "Palace",
+                "Quality": 18
+            },
+            {
                 "NameSeed": 17600,
                 "FactionId": 0,
                 "Sector": 78,
@@ -108,12 +124,12 @@
                 "Quality": 1
             },
             {
-                "NameSeed": 8039,
-                "FactionId": 510,
-                "Sector": 87,
+                "NameSeed": 29126,
+                "FactionId": 0,
+                "Sector": 93,
                 "LocationId": 17593,
-                "BuildingType": "Tavern",
-                "Quality": 13
+                "BuildingType": "House1",
+                "Quality": 16
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "Kingsmith Manor"
             }
         },
-        "BuildingCount": 9,
+        "BuildingCount": 7,
         "Buildings": [
             {
                 "NameSeed": 10871,
@@ -34,6 +34,14 @@
                 "LocationId": 20411,
                 "BuildingType": "House2",
                 "Quality": 14
+            },
+            {
+                "NameSeed": 19123,
+                "FactionId": 0,
+                "Sector": 30,
+                "LocationId": 20411,
+                "BuildingType": "House3",
+                "Quality": 1
             },
             {
                 "NameSeed": 11103,
@@ -52,12 +60,20 @@
                 "Quality": 11
             },
             {
-                "NameSeed": 19123,
+                "NameSeed": 13876,
                 "FactionId": 0,
-                "Sector": 30,
+                "Sector": 69,
                 "LocationId": 20411,
-                "BuildingType": "House3",
+                "BuildingType": "Tavern",
                 "Quality": 1
+            },
+            {
+                "NameSeed": 25684,
+                "FactionId": 852,
+                "Sector": 86,
+                "LocationId": 20411,
+                "BuildingType": "Palace",
+                "Quality": 15
             },
             {
                 "NameSeed": 7458,
@@ -66,38 +82,6 @@
                 "LocationId": 20411,
                 "BuildingType": "House2",
                 "Quality": 1
-            },
-            {
-                "NameSeed": 5485,
-                "FactionId": 0,
-                "Sector": 42,
-                "LocationId": 20411,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 23995,
-                "FactionId": 0,
-                "Sector": 59,
-                "LocationId": 20411,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 13876,
-                "FactionId": 510,
-                "Sector": 69,
-                "LocationId": 20411,
-                "BuildingType": "Tavern",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 25684,
-                "FactionId": 0,
-                "Sector": 86,
-                "LocationId": 20411,
-                "BuildingType": "House1",
-                "Quality": 11
             }
         ],
         "ExteriorData": {

@@ -25,8 +25,16 @@
                 "LocationName": "Greenston Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
+            {
+                "NameSeed": 29079,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 10965,
+                "BuildingType": "House1",
+                "Quality": 3
+            },
             {
                 "NameSeed": 31361,
                 "FactionId": 0,
@@ -117,19 +125,35 @@
             },
             {
                 "NameSeed": 3481,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 10965,
                 "BuildingType": "Tavern",
                 "Quality": 7
             },
             {
-                "NameSeed": 29079,
+                "NameSeed": 31364,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 10965,
                 "BuildingType": "House1",
-                "Quality": 3
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31367,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 10965,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 31370,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 10965,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

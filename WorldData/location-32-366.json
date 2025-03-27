@@ -25,16 +25,8 @@
                 "LocationName": "Greenwing Court"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 19558,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 13428,
-                "BuildingType": "House1",
-                "Quality": 14
-            },
             {
                 "NameSeed": 1199,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 13428,
                 "BuildingType": "House2",
                 "Quality": 12
+            },
+            {
+                "NameSeed": 19558,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 13428,
+                "BuildingType": "House1",
+                "Quality": 14
             },
             {
                 "NameSeed": 12607,
@@ -92,28 +92,20 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 11038,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 13428,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 32101,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 13428,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
                 "NameSeed": 7351,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 13428,
                 "BuildingType": "Tavern",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 32101,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 13428,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

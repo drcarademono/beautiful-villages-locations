@@ -25,15 +25,15 @@
                 "LocationName": "Raozum Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
-                "NameSeed": 10762,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 3,
+                "NameSeed": 10762,
                 "Sector": 4,
-                "LocationId": 26234,
-                "BuildingType": "House2",
-                "Quality": 3
+                "LocationId": 26234
             },
             {
                 "NameSeed": 29664,
@@ -58,6 +58,14 @@
                 "LocationId": 26234,
                 "BuildingType": "House1",
                 "Quality": 15
+            },
+            {
+                "NameSeed": 29667,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 26234,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

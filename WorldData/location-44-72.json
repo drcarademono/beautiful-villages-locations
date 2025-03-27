@@ -25,7 +25,7 @@
                 "LocationName": "V'urmom Hall"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 5886,
@@ -36,12 +36,12 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 19468,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 7,
+                "NameSeed": 19468,
                 "Sector": 9,
-                "LocationId": 28083,
-                "BuildingType": "House2",
-                "Quality": 7
+                "LocationId": 28083
             },
             {
                 "NameSeed": 6538,
@@ -52,9 +52,17 @@
                 "Quality": 4
             },
             {
-                "NameSeed": 12392,
+                "NameSeed": 19471,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 28083,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 12392,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 28083,
                 "BuildingType": "House1",
                 "Quality": 12

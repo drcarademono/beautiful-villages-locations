@@ -25,7 +25,7 @@
                 "LocationName": "Thirht Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 5,
         "Buildings": [
             {
                 "NameSeed": 29911,
@@ -36,12 +36,12 @@
                 "Quality": 6
             },
             {
-                "NameSeed": 12797,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 2,
+                "NameSeed": 12797,
                 "Sector": 9,
-                "LocationId": 27010,
-                "BuildingType": "House2",
-                "Quality": 2
+                "LocationId": 27010
             },
             {
                 "NameSeed": 15308,
@@ -52,9 +52,17 @@
                 "Quality": 10
             },
             {
-                "NameSeed": 16512,
+                "NameSeed": 29914,
                 "FactionId": 0,
                 "Sector": 15,
+                "LocationId": 27010,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16512,
+                "FactionId": 0,
+                "Sector": 18,
                 "LocationId": 27010,
                 "BuildingType": "House1",
                 "Quality": 6

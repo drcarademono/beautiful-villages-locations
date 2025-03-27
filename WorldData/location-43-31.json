@@ -25,15 +25,15 @@
                 "LocationName": "Kozta Court"
             }
         },
-        "BuildingCount": 4,
+        "BuildingCount": 6,
         "Buildings": [
             {
-                "NameSeed": 18755,
                 "FactionId": 0,
+                "BuildingType": 18,
+                "Quality": 7,
+                "NameSeed": 18755,
                 "Sector": 4,
-                "LocationId": 28441,
-                "BuildingType": "House2",
-                "Quality": 7
+                "LocationId": 28441
             },
             {
                 "NameSeed": 10908,
@@ -58,6 +58,22 @@
                 "LocationId": 28441,
                 "BuildingType": "House1",
                 "Quality": 3
+            },
+            {
+                "NameSeed": 19128,
+                "FactionId": 0,
+                "Sector": 18,
+                "LocationId": 28441,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 19131,
+                "FactionId": 0,
+                "Sector": 21,
+                "LocationId": 28441,
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

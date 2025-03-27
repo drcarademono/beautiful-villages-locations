@@ -25,7 +25,7 @@
                 "LocationName": "Wickwing Palace"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 16,
         "Buildings": [
             {
                 "NameSeed": 7633,
@@ -116,8 +116,16 @@
                 "Quality": 1
             },
             {
+                "NameSeed": 29893,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 12203,
+                "BuildingType": "House2",
+                "Quality": 6
+            },
+            {
                 "NameSeed": 6377,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 12203,
                 "BuildingType": "Tavern",
@@ -126,10 +134,26 @@
             {
                 "NameSeed": 853,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 12203,
                 "BuildingType": "House1",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 29896,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 12203,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 29899,
+                "FactionId": 0,
+                "Sector": 91,
+                "LocationId": 12203,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {

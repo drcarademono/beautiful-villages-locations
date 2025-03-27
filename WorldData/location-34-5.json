@@ -25,16 +25,8 @@
                 "LocationName": "Copperhart Hall"
             }
         },
-        "BuildingCount": 11,
+        "BuildingCount": 10,
         "Buildings": [
-            {
-                "NameSeed": 4920,
-                "FactionId": 0,
-                "Sector": 4,
-                "LocationId": 15473,
-                "BuildingType": "House1",
-                "Quality": 3
-            },
             {
                 "NameSeed": 20028,
                 "FactionId": 0,
@@ -42,6 +34,14 @@
                 "LocationId": 15473,
                 "BuildingType": "House2",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 4920,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 15473,
+                "BuildingType": "House1",
+                "Quality": 3
             },
             {
                 "NameSeed": 18484,
@@ -92,28 +92,20 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 15181,
-                "FactionId": 0,
-                "Sector": 69,
-                "LocationId": 15473,
-                "BuildingType": "House2",
-                "Quality": 9
-            },
-            {
-                "NameSeed": 27918,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 15473,
-                "BuildingType": "House2",
-                "Quality": 8
-            },
-            {
                 "NameSeed": 18636,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 87,
                 "LocationId": 15473,
                 "BuildingType": "Tavern",
                 "Quality": 5
+            },
+            {
+                "NameSeed": 27918,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 15473,
+                "BuildingType": "Palace",
+                "Quality": 18
             }
         ],
         "ExteriorData": {

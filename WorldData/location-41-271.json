@@ -25,8 +25,16 @@
                 "LocationName": "Greenford Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
+            {
+                "NameSeed": 10133,
+                "FactionId": 0,
+                "Sector": 82,
+                "LocationId": 16787,
+                "BuildingType": "House1",
+                "Quality": 7
+            },
             {
                 "NameSeed": 20692,
                 "FactionId": 0,
@@ -108,28 +116,36 @@
                 "Quality": 13
             },
             {
-                "NameSeed": 8362,
-                "FactionId": 0,
-                "Sector": 63,
-                "LocationId": 16787,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
                 "NameSeed": 2668,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 16787,
                 "BuildingType": "Tavern",
                 "Quality": 9
             },
             {
-                "NameSeed": 10133,
+                "NameSeed": 30687,
                 "FactionId": 0,
-                "Sector": 82,
+                "Sector": 85,
                 "LocationId": 16787,
                 "BuildingType": "House1",
-                "Quality": 7
+                "Quality": 15
+            },
+            {
+                "NameSeed": 30690,
+                "FactionId": 852,
+                "Sector": 88,
+                "LocationId": 16787,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8362,
+                "FactionId": 0,
+                "Sector": 63,
+                "LocationId": 16787,
+                "BuildingType": "House2",
+                "Quality": 4
             }
         ],
         "ExteriorData": {

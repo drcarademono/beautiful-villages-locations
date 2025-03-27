@@ -25,7 +25,7 @@
                 "LocationName": "Hearthhart Manor"
             }
         },
-        "BuildingCount": 13,
+        "BuildingCount": 15,
         "Buildings": [
             {
                 "NameSeed": 7114,
@@ -117,7 +117,7 @@
             },
             {
                 "NameSeed": 1905,
-                "FactionId": 510,
+                "FactionId": 0,
                 "Sector": 69,
                 "LocationId": 20418,
                 "BuildingType": "Tavern",
@@ -130,6 +130,22 @@
                 "LocationId": 20418,
                 "BuildingType": "House1",
                 "Quality": 11
+            },
+            {
+                "NameSeed": 32226,
+                "FactionId": 852,
+                "Sector": 85,
+                "LocationId": 20418,
+                "BuildingType": "Palace",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32229,
+                "FactionId": 0,
+                "Sector": 88,
+                "LocationId": 20418,
+                "BuildingType": "House2",
+                "Quality": 2
             }
         ],
         "ExteriorData": {
