@@ -25,7 +25,7 @@
                 "LocationName": "Makyryla"
             }
         },
-        "BuildingCount": 37,
+        "BuildingCount": 28,
         "Buildings": [
             {
                 "NameSeed": 11828,
@@ -66,14 +66,6 @@
                 "LocationId": 24772,
                 "BuildingType": "GeneralStore",
                 "Quality": 11
-            },
-            {
-                "NameSeed": 21502,
-                "FactionId": 0,
-                "Sector": 55,
-                "LocationId": 24772,
-                "BuildingType": "ClothingStore",
-                "Quality": 7
             },
             {
                 "NameSeed": 17108,
@@ -124,12 +116,20 @@
                 "Quality": 4
             },
             {
+                "NameSeed": 21502,
                 "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 9,
+                "Sector": 55,
+                "LocationId": 24772,
+                "BuildingType": "ClothingStore",
+                "Quality": 7
+            },
+            {
                 "NameSeed": 12586,
+                "FactionId": 0,
                 "Sector": 101,
-                "LocationId": 24772
+                "LocationId": 24772,
+                "BuildingType": "House2",
+                "Quality": 9
             },
             {
                 "NameSeed": 12691,
@@ -244,81 +244,9 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 13399,
-                "FactionId": 0,
-                "Sector": 193,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 10
-            },
-            {
-                "NameSeed": 3171,
-                "FactionId": 0,
-                "Sector": 198,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 30210,
-                "FactionId": 0,
-                "Sector": 203,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 4372,
-                "FactionId": 0,
-                "Sector": 210,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 6925,
-                "FactionId": 0,
-                "Sector": 217,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 32742,
-                "FactionId": 0,
-                "Sector": 223,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 11191,
-                "FactionId": 0,
-                "Sector": 227,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 11
-            },
-            {
-                "NameSeed": 18332,
-                "FactionId": 0,
-                "Sector": 233,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 32745,
-                "FactionId": 0,
-                "Sector": 243,
-                "LocationId": 24772,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 18299,
                 "FactionId": 24,
-                "Sector": 246,
+                "Sector": 243,
                 "LocationId": 24772,
                 "BuildingType": "Temple",
                 "Quality": 13

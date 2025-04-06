@@ -28,6 +28,14 @@
         "BuildingCount": 85,
         "Buildings": [
             {
+                "NameSeed": 5403,
+                "FactionId": 156,
+                "Sector": 44,
+                "LocationId": 25690,
+                "BuildingType": "Alchemist",
+                "Quality": 6
+            },
+            {
                 "NameSeed": 32057,
                 "FactionId": 0,
                 "Sector": 8,
@@ -114,14 +122,6 @@
                 "LocationId": 25690,
                 "BuildingType": "House2",
                 "Quality": 10
-            },
-            {
-                "NameSeed": 5403,
-                "FactionId": 156,
-                "Sector": 44,
-                "LocationId": 25690,
-                "BuildingType": "Alchemist",
-                "Quality": 6
             },
             {
                 "NameSeed": 13913,
@@ -500,12 +500,12 @@
                 "Quality": 20
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 20,
                 "NameSeed": 23083,
+                "FactionId": 0,
                 "Sector": 507,
-                "LocationId": 25690
+                "LocationId": 25690,
+                "BuildingType": "House2",
+                "Quality": 20
             },
             {
                 "NameSeed": 1201,

@@ -84,12 +84,12 @@
                 "Quality": 11
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 16,
                 "NameSeed": 28208,
+                "FactionId": 0,
                 "Sector": 186,
-                "LocationId": 28411
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 16
             },
             {
                 "NameSeed": 10054,
@@ -348,30 +348,6 @@
                 "Quality": 15
             },
             {
-                "NameSeed": 8370,
-                "FactionId": 0,
-                "Sector": 389,
-                "LocationId": 28411,
-                "BuildingType": "PawnShop",
-                "Quality": 2
-            },
-            {
-                "NameSeed": 1282,
-                "FactionId": 0,
-                "Sector": 549,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 18049,
-                "FactionId": 0,
-                "Sector": 555,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 7
-            },
-            {
                 "NameSeed": 24937,
                 "FactionId": 0,
                 "Sector": 60,
@@ -404,20 +380,28 @@
                 "Quality": 12
             },
             {
-                "NameSeed": 19534,
-                "FactionId": 510,
-                "Sector": 431,
+                "NameSeed": 1282,
+                "FactionId": 0,
+                "Sector": 549,
                 "LocationId": 28411,
-                "BuildingType": "GeneralStore",
-                "Quality": 16
+                "BuildingType": "House2",
+                "Quality": 15
             },
             {
-                "NameSeed": 32520,
-                "FactionId": 510,
-                "Sector": 879,
+                "NameSeed": 18049,
+                "FactionId": 0,
+                "Sector": 555,
                 "LocationId": 28411,
-                "BuildingType": "House1",
-                "Quality": 16
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 8370,
+                "FactionId": 0,
+                "Sector": 389,
+                "LocationId": 28411,
+                "BuildingType": "PawnShop",
+                "Quality": 2
             },
             {
                 "NameSeed": 18597,
@@ -450,6 +434,22 @@
                 "LocationId": 28411,
                 "BuildingType": "House4",
                 "Quality": 4
+            },
+            {
+                "NameSeed": 32520,
+                "FactionId": 510,
+                "Sector": 879,
+                "LocationId": 28411,
+                "BuildingType": "House1",
+                "Quality": 16
+            },
+            {
+                "NameSeed": 19534,
+                "FactionId": 510,
+                "Sector": 431,
+                "LocationId": 28411,
+                "BuildingType": "GeneralStore",
+                "Quality": 16
             },
             {
                 "NameSeed": 3407,
@@ -724,60 +724,12 @@
                 "Quality": 7
             },
             {
-                "NameSeed": 32553,
+                "NameSeed": 24470,
                 "FactionId": 0,
                 "Sector": 909,
                 "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 32556,
-                "FactionId": 0,
-                "Sector": 912,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 32559,
-                "FactionId": 0,
-                "Sector": 915,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 10,
-                "NameSeed": 32562,
-                "Sector": 918,
-                "LocationId": 28411
-            },
-            {
-                "NameSeed": 32565,
-                "FactionId": 0,
-                "Sector": 921,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 32568,
-                "FactionId": 0,
-                "Sector": 924,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 4
-            },
-            {
-                "NameSeed": 32571,
-                "FactionId": 0,
-                "Sector": 927,
-                "LocationId": 28411,
-                "BuildingType": "House2",
-                "Quality": 7
+                "BuildingType": "Armorer",
+                "Quality": 17
             },
             {
                 "NameSeed": 6365,
@@ -796,12 +748,60 @@
                 "Quality": 2
             },
             {
-                "NameSeed": 24470,
+                "NameSeed": 32553,
+                "FactionId": 0,
+                "Sector": 912,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 7
+            },
+            {
+                "NameSeed": 32556,
+                "FactionId": 0,
+                "Sector": 915,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32559,
+                "FactionId": 0,
+                "Sector": 918,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32562,
+                "FactionId": 0,
+                "Sector": 921,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 32565,
+                "FactionId": 0,
+                "Sector": 924,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32568,
+                "FactionId": 0,
+                "Sector": 927,
+                "LocationId": 28411,
+                "BuildingType": "House2",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32571,
                 "FactionId": 0,
                 "Sector": 930,
                 "LocationId": 28411,
-                "BuildingType": "Armorer",
-                "Quality": 17
+                "BuildingType": "House2",
+                "Quality": 12
             }
         ],
         "ExteriorData": {

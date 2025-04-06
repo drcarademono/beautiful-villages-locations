@@ -52,12 +52,12 @@
                 "Quality": 3
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 13,
                 "NameSeed": 19704,
+                "FactionId": 0,
                 "Sector": 20,
-                "LocationId": 25175
+                "LocationId": 25175,
+                "BuildingType": "House2",
+                "Quality": 13
             },
             {
                 "NameSeed": 22472,
@@ -97,14 +97,6 @@
                 "Sector": 66,
                 "LocationId": 25175,
                 "BuildingType": "GeneralStore",
-                "Quality": 13
-            },
-            {
-                "NameSeed": 14018,
-                "FactionId": 0,
-                "Sector": 78,
-                "LocationId": 25175,
-                "BuildingType": "ClothingStore",
                 "Quality": 13
             },
             {
@@ -156,6 +148,14 @@
                 "Quality": 9
             },
             {
+                "NameSeed": 14018,
+                "FactionId": 0,
+                "Sector": 78,
+                "LocationId": 25175,
+                "BuildingType": "ClothingStore",
+                "Quality": 13
+            },
+            {
                 "NameSeed": 8297,
                 "FactionId": 0,
                 "Sector": 124,
@@ -177,7 +177,7 @@
                 "Sector": 136,
                 "LocationId": 25175,
                 "BuildingType": "House2",
-                "Quality": 4
+                "Quality": 12
             }
         ],
         "ExteriorData": {

@@ -25,7 +25,7 @@
                 "LocationName": "Pheono-Thar"
             }
         },
-        "BuildingCount": 33,
+        "BuildingCount": 26,
         "Buildings": [
             {
                 "NameSeed": 22632,
@@ -60,12 +60,12 @@
                 "Quality": 5
             },
             {
-                "FactionId": 0,
-                "BuildingType": 18,
-                "Quality": 14,
                 "NameSeed": 17801,
+                "FactionId": 0,
                 "Sector": 32,
-                "LocationId": 29351
+                "LocationId": 29351,
+                "BuildingType": "House2",
+                "Quality": 14
             },
             {
                 "NameSeed": 23694,
@@ -124,6 +124,14 @@
                 "Quality": 1
             },
             {
+                "NameSeed": 11170,
+                "FactionId": 0,
+                "Sector": 96,
+                "LocationId": 29351,
+                "BuildingType": "House3",
+                "Quality": 6
+            },
+            {
                 "NameSeed": 8276,
                 "FactionId": 0,
                 "Sector": 74,
@@ -138,14 +146,6 @@
                 "LocationId": 29351,
                 "BuildingType": "House2",
                 "Quality": 13
-            },
-            {
-                "NameSeed": 11170,
-                "FactionId": 0,
-                "Sector": 96,
-                "LocationId": 29351,
-                "BuildingType": "House3",
-                "Quality": 6
             },
             {
                 "NameSeed": 2678,
@@ -178,6 +178,22 @@
                 "LocationId": 29351,
                 "BuildingType": "House2",
                 "Quality": 7
+            },
+            {
+                "NameSeed": 10980,
+                "FactionId": 22,
+                "Sector": 182,
+                "LocationId": 29351,
+                "BuildingType": "Temple",
+                "Quality": 6
+            },
+            {
+                "NameSeed": 8385,
+                "FactionId": 510,
+                "Sector": 198,
+                "LocationId": 29351,
+                "BuildingType": "GeneralStore",
+                "Quality": 8
             },
             {
                 "NameSeed": 11063,
@@ -218,78 +234,6 @@
                 "LocationId": 29351,
                 "BuildingType": "House2",
                 "Quality": 14
-            },
-            {
-                "NameSeed": 21826,
-                "FactionId": 0,
-                "Sector": 161,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 15
-            },
-            {
-                "NameSeed": 4673,
-                "FactionId": 0,
-                "Sector": 174,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 1
-            },
-            {
-                "NameSeed": 10980,
-                "FactionId": 22,
-                "Sector": 182,
-                "LocationId": 29351,
-                "BuildingType": "Temple",
-                "Quality": 6
-            },
-            {
-                "NameSeed": 8385,
-                "FactionId": 510,
-                "Sector": 198,
-                "LocationId": 29351,
-                "BuildingType": "GeneralStore",
-                "Quality": 8
-            },
-            {
-                "NameSeed": 14080,
-                "FactionId": 0,
-                "Sector": 209,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 25870,
-                "FactionId": 0,
-                "Sector": 213,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 3
-            },
-            {
-                "NameSeed": 14986,
-                "FactionId": 0,
-                "Sector": 218,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 14
-            },
-            {
-                "NameSeed": 3580,
-                "FactionId": 0,
-                "Sector": 224,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 12
-            },
-            {
-                "NameSeed": 9475,
-                "FactionId": 0,
-                "Sector": 229,
-                "LocationId": 29351,
-                "BuildingType": "House2",
-                "Quality": 15
             }
         ],
         "ExteriorData": {
